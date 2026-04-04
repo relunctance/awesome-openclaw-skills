@@ -31,6 +31,7 @@
 - [self-improving-agent](skills/self-improving-agent.md) - AI 自我改进
 - [ai-daily-briefing](skills/ai-daily-briefing.md) - 每日简报
 - [summarize](skills/summarize.md) - 摘要工具
+- [soul-force](skills/soul-force.md) - AI 记忆进化系统
 
 ## Feishu Integration
 
