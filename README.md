@@ -41,6 +41,7 @@
 - [feishu-create-doc](skills/feishu-create-doc.md) - 创建云文档
 - [feishu-fetch-doc](skills/feishu-fetch-doc.md) - 获取文档内容
 - [feishu-update-doc](skills/feishu-update-doc.md) - 更新云文档
+- [feishu-troubleshoot](skills/feishu-troubleshoot.md) - 问题排查
 
 ## Development Tools
 
