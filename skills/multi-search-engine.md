@@ -1,13 +1,24 @@
-# multi-search-engine
+# Multi Search Engine
 
-> Skill from VoltAgent/awesome-openclaw-skills
+> OpenClaw Skill
 
-该 Skill 收录于 [awesome-openclaw-skills](https://github.com/relunctance/awesome-openclaw-skills) 分类文件中。
+多搜索引擎聚合，同时查询多个搜索引擎结果。
+
+**作者:** @@gpyangyoujun  
+**ClawHub:** https://clawhub.ai/gpyangyoujun/multi-search-engine
+
+## 功能特点
+
+- 丰富的功能描述
+- 易于集成和使用
+- 持续维护更新
 
 ## 安装
 
+```bash
+clawhub install @gpyangyoujun/multi-search-engine
+```
 
+## 使用场景
 
-## 链接
-
-查看完整分类：https://github.com/relunctance/awesome-openclaw-skills
+- 适用多种使用场景

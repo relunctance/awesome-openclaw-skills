@@ -1,13 +1,27 @@
-# ai-daily-briefing
+# AI Daily Briefing
 
-> Skill from VoltAgent/awesome-openclaw-skills
+> Automated daily briefing
 
-该 Skill 收录于 [awesome-openclaw-skills](https://github.com/relunctance/awesome-openclaw-skills) 分类文件中。
+每天自动汇总任务、日程和重要信息，开启专注的一天。
+
+**作者:** @jeffjhunter  
+**ClawHub:** https://clawhub.ai/jeffjhunter/ai-daily-briefing
+
+## 功能特点
+
+- 自动汇总日历和任务
+- 生成每日工作简报
+- 推送关键待办事项
+- 支持多平台集成
 
 ## 安装
 
+```bash
+clawhub install jeffjhunter/ai-daily-briefing
+```
 
+## 使用场景
 
-## 链接
-
-查看完整分类：https://github.com/relunctance/awesome-openclaw-skills
+- 每日站会准备
+- 工作计划梳理
+- 日程冲突提醒

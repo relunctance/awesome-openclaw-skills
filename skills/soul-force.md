@@ -7,6 +7,7 @@
 **解决方案：** SoulForce 持续分析智能体的记忆，发现模式，并自动进化身份文件。你的 AI 会随着时间推移真正变得更聪明——无需手动编辑。
 
 **作者:** @relunctance  
+**ClawHub:** https://clawhub.ai/relunctance/soul-force
 **仓库:** https://github.com/relunctance/soul-force
 
 ## 功能特点

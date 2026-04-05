@@ -1,13 +1,24 @@
-# wbs-planner
+# Wbs Planner
 
-> Skill from VoltAgent/awesome-openclaw-skills
+> OpenClaw Skill
 
-该 Skill 收录于 [awesome-openclaw-skills](https://github.com/relunctance/awesome-openclaw-skills) 分类文件中。
+WBS 工作分解结构规划工具，将复杂项目拆解为可执行任务。
+
+**作者:** @@ycz87  
+**ClawHub:** https://clawhub.ai/ycz87/wbs-planner
+
+## 功能特点
+
+- 丰富的功能描述
+- 易于集成和使用
+- 持续维护更新
 
 ## 安装
 
+```bash
+clawhub install @ycz87/wbs-planner
+```
 
+## 使用场景
 
-## 链接
-
-查看完整分类：https://github.com/relunctance/awesome-openclaw-skills
+- 适用多种使用场景

@@ -5,6 +5,7 @@
 AI 编程助手，协助完成代码生成、审查、重构和调试任务。
 
 **作者:** @openclaw  
+**ClawHub:** https://clawhub.ai/chinakingkong/ai-coder
 **仓库:** https://github.com/openclaw/openclaw
 
 ## 功能特点

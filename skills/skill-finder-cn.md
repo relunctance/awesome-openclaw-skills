@@ -1,13 +1,26 @@
-# skill-finder-cn
+# Skill Finder CN
 
-> Skill from VoltAgent/awesome-openclaw-skills
+> 中文友好的 OpenClaw Skill 搜索发现工具
 
-该 Skill 收录于 [awesome-openclaw-skills](https://github.com/relunctance/awesome-openclaw-skills) 分类文件中。
+在 ClawHub 上搜索和发现 OpenClaw Skills，支持中文界面。
+
+**作者:** @guohongbin-git  
+**ClawHub:** https://clawhub.ai/guohongbin-git/skill-finder-cn
+
+## 功能特点
+
+- 中文界面友好
+- ClawHub Skill 搜索
+- 快速发现优质 Skill
 
 ## 安装
 
+```bash
+clawhub install guohongbin-git/skill-finder-cn
+```
 
+## 使用场景
 
-## 链接
-
-查看完整分类：https://github.com/relunctance/awesome-openclaw-skills
+- 中文用户首选
+- 快速找到需要的 Skill
+- 探索国产优质工具

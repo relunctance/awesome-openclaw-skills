@@ -5,6 +5,7 @@
 OpenClaw 智能体的记忆系统桥接器，将智能体连接到记忆/知识系统，实现跨会话的持久化上下文。
 
 **作者:** @relunctance  
+**ClawHub:** https://clawhub.ai/relunctance/hawk-bridge
 **仓库:** https://github.com/relunctance/hawk-bridge
 
 ## 功能特点

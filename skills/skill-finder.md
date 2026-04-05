@@ -1,13 +1,26 @@
-# skill-finder
+# Skill Finder
 
-> Skill from VoltAgent/awesome-openclaw-skills
+> Search and discover OpenClaw Skills
 
-该 Skill 收录于 [awesome-openclaw-skills](https://github.com/relunctance/awesome-openclaw-skills) 分类文件中。
+在 ClawHub 上搜索和发现 OpenClaw Skills。
+
+**作者:** @ivangdavila  
+**ClawHub:** https://clawhub.ai/ivangdavila/skill-finder
+
+## 功能特点
+
+- ClawHub Skill 搜索
+- 按功能分类浏览
+- Skill 发现和推荐
 
 ## 安装
 
+```bash
+clawhub install ivangdavila/skill-finder
+```
 
+## 使用场景
 
-## 链接
-
-查看完整分类：https://github.com/relunctance/awesome-openclaw-skills
+- 查找特定功能的 Skill
+- 探索社区新工具
+- Skill 选型对比
