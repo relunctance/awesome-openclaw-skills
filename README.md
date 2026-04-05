@@ -15,9 +15,9 @@
 OpenClaw 的公共技能库（ClawHub）目前已有数千个社区构建的 Skills，本项目从中精选出**真正实用、经过验证**的技能，按中文开发者的使用场景重新分类整理。
 
 与官方 awesome-list 的区别：
-- 专注中文场景，优先收录国产工具集成（飞书、钉钉等）
+- 专注中文场景，优先收录国产工具集成（飞书等）
 - 只收录**实际存在且可安装**的 Skills，告别死链接
-- 每个分类附带使用场景说明，开箱即用
+- 所有内容已翻译为中文，开箱即用
 
 ---
 
@@ -44,46 +44,98 @@ cp -r <skill-folder> ~/.openclaw/skills/
 | 飞书任务 | [feishu-task](skills/feishu-task.md) |
 | AI 编程 | [ai-coder](skills/ai-coder.md) |
 | 任务分解 | [task-decomposer](skills/task-decomposer.md) |
+| GitHub CLI | [git-and-github](skills/git-and-github.md) |
 
 ---
 
 ## 目录
 
-- [AI & Coding](#ai--coding)
-- [Productivity](#productivity)
-- [Feishu 集成](#feishu-集成)
-- [Development Tools](#development-tools)
+### 核心分类
 
----
+| 分类 | 描述 |
+|------|------|
+| [AI 与大语言模型](skills/ai-and-llms.md) | AI & LLMs |
+| [编程智能体与IDE](skills/coding-agents-and-ides.md) | Coding Agents & IDEs |
+| [Git 与 GitHub](skills/git-and-github.md) | Git & GitHub |
+| [浏览器与自动化](skills/browser-and-automation.md) | Browser & Automation |
+| [命令行工具](skills/cli-utilities.md) | CLI Utilities |
+| [DevOps 与云服务](skills/devops-and-cloud.md) | DevOps & Cloud |
+| [Web 与前端开发](skills/web-and-frontend-development.md) | Web & Frontend Development |
+| [iOS 与 macOS 开发](skills/ios-and-macos-development.md) | iOS & macOS Development |
 
-## AI & Coding
+### 效率与协作
 
-- [ai-coder](skills/ai-coder.md) - AI 编程助手，代码生成、审查、优化
-- [task-decomposer](skills/task-decomposer.md) - 复杂任务分解为可执行步骤
+| 分类 | 描述 |
+|------|------|
+| [效率与任务](skills/productivity-and-tasks.md) | Productivity & Tasks |
+| [沟通协作](skills/communication.md) | Communication |
+| [日历与日程](skills/calendar-and-scheduling.md) | Calendar & Scheduling |
+| [笔记与知识管理](skills/notes-and-pkm.md) | Notes & PKM |
+| [搜索与研究](skills/search-and-research.md) | Search & Research |
 
-## Productivity
+### 飞书集成
 
-- [self-improving-agent](skills/self-improving-agent.md) - AI 自我改进，持续优化执行策略
-- [ai-daily-briefing](skills/ai-daily-briefing.md) - 每日简报，自动汇总任务和日程
-- [summarize](skills/summarize.md) - 长文本摘要提取
-- [soul-force](skills/soul-force.md) - AI 记忆进化系统，跨会话持续学习
+| 分类 | 描述 |
+|------|------|
+| [feishu-bitable](skills/feishu-bitable.md) | 多维表格管理 |
+| [feishu-calendar](skills/feishu-calendar.md) | 日历日程管理 |
+| [feishu-task](skills/feishu-task.md) | 任务管理 |
+| [feishu-im-read](skills/feishu-im-read.md) | 消息读取 |
+| [feishu-create-doc](skills/feishu-create-doc.md) | 创建云文档 |
+| [feishu-fetch-doc](skills/feishu-fetch-doc.md) | 获取文档内容 |
+| [feishu-update-doc](skills/feishu-update-doc.md) | 更新云文档 |
+| [feishu-troubleshoot](skills/feishu-troubleshoot.md) | 问题排查 |
 
-## Feishu 集成
+### 内容与媒体
 
-- [feishu-bitable](skills/feishu-bitable.md) - 多维表格管理（创建、查询、编辑）
-- [feishu-calendar](skills/feishu-calendar.md) - 日历日程管理（创建会议、查询日程）
-- [feishu-task](skills/feishu-task.md) - 任务管理（创建任务、子任务、清单）
-- [feishu-im-read](skills/feishu-im-read.md) - 消息读取（群聊/单聊历史、搜索）
-- [feishu-create-doc](skills/feishu-create-doc.md) - 创建飞书云文档
-- [feishu-fetch-doc](skills/feishu-fetch-doc.md) - 获取飞书文档内容
-- [feishu-update-doc](skills/feishu-update-doc.md) - 更新飞书云文档
-- [feishu-troubleshoot](skills/feishu-troubleshoot.md) - 飞书插件问题排查
+| 分类 | 描述 |
+|------|------|
+| [AI 图片与视频生成](skills/image-and-video-generation.md) | Image & Video Generation |
+| [媒体与流媒体](skills/media-and-streaming.md) | Media & Streaming |
+| [PDF 与文档](skills/pdf-and-documents.md) | PDF & Documents |
+| [语音与转录](skills/speech-and-transcription.md) | Speech & Transcription |
 
-## Development Tools
+### 数据与工具
 
-- [github-cli](skills/github-cli.md) - GitHub CLI，PR/Issue/Action 管理
-- [skill-finder-cn](skills/skill-finder-cn.md) - Skill 搜索发现工具
-- [hawk-bridge](skills/hawk-bridge.md) - 记忆系统桥接，打通多Agent上下文
+| 分类 | 描述 |
+|------|------|
+| [数据分析](skills/data-and-analytics.md) | Data & Analytics |
+| [安全与密码管理](skills/security-and-passwords.md) | Security & Passwords |
+| [自托管与自动化](skills/self-hosted-and-automation.md) | Self-Hosted & Automation |
+
+### 生活与娱乐
+
+| 分类 | 描述 |
+|------|------|
+| [Apple 应用与服务](skills/apple-apps-and-services.md) | Apple Apps & Services |
+| [智能家居与物联网](skills/smart-home-and-iot.md) | Smart Home & IoT |
+| [交通出行](skills/transportation.md) | Transportation |
+| [健康与健身](skills/health-and-fitness.md) | Health & Fitness |
+| [游戏](skills/gaming.md) | Gaming |
+
+### 增长与商业
+
+| 分类 | 描述 |
+|------|------|
+| [营销与销售](skills/marketing-and-sales.md) | Marketing & Sales |
+| [购物与电商](skills/shopping-and-e-commerce.md) | Shopping & E-commerce |
+| [个人成长](skills/personal-development.md) | Personal Development |
+
+### 平台与工具类
+
+| 分类 | 描述 |
+|------|------|
+| [Clawdbot 工具](skills/clawdbot-tools.md) | Clawdbot Tools |
+| [Moltbook 社交网络](skills/moltbook.md) | Moltbook |
+
+### Agent 进阶
+
+| 分类 | 描述 |
+|------|------|
+| [hawk-bridge](skills/hawk-bridge.md) | 记忆系统桥接 |
+| [self-improving-agent](skills/self-improving-agent.md) | AI 自我改进 |
+| [soul-force](skills/soul-force.md) | AI 记忆进化系统 |
+| [task-decomposer](skills/task-decomposer.md) | 任务分解 |
 
 ---
 
