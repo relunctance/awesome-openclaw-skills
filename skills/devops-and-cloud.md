@@ -1,38 +1,38 @@
-# DevOps与云服务
+# DevOps 与云服务
 
 > DevOps & Cloud
 
-云平台运维、容器化、CI/CD、基础设施即代码、监控告警等 DevOps 相关 Skill。
+涵盖部署、管理和监控云基础设施的 Skills，以及 DevOps 自动化工具、容器编排、基础设施即代码和工作流编排。
 
 ## Skills
 
-- [0x0-messenger](https://clawskills.sh/skills/eijiac24-0x0-messenger) - Send and 接收 P2P messages using disposable numbers and PINs.
-- [12306](https://clawskills.sh/skills/kirorab-12306) - Query China Railway 12306 for train schedules, remaining tickets, and station info.
-- [1sec-security](https://clawskills.sh/skills/cutmob-1sec-security) - Install, 配置ure, and 管理 1-SEC — an 开源, all-in-one cyber安全 platform (16 modules, single binARy)
-- [aave-liquidation-monitor](https://clawskills.sh/skills/jgramajo4-aave-liquidation-monitor) - Proactive 监控 of Aave V3 borrow positions with liquidation alerts.
-- [abstract-searcher](https://clawskills.sh/skills/easonc13-abstract-searcher) - Add abstracts to .bib 文件 entries by 搜索ing academic 数据库s (ARXiv, Semantic ScholAR, CrossRef) with browser.
-- [accounting-workflows](https://clawskills.sh/skills/satoshistackalotto-accounting-workflows) - File-based 工作流 coordinator for Greek accounting.
-- [adguard](https://clawskills.sh/skills/rowbotik-adguard) - Control AdGuARd Home DNS 筛选ing via HTTP API.
-- [aegis-audit](https://clawskills.sh/skills/sanguineseal-aegis-audit) - Deep behavioral 安全审计 for AI 智能体 Skills and MCP 工具s.
-- [aetherlang-chef](https://clawskills.sh/skills/contrario-aetherlang-chef) - > Michelin-grade recipe consulting with 17 mandatory sections.
-- [aetherlang-karpathy-skill](https://clawskills.sh/skills/contrario-aetherlang-karpathy-skill) - Implement 10 advanced AI 智能体 node types for any DSL/runtime system — 计划 compiler, 代码 interpreter, critique.
-- [agent-autonomy-primitives](https://clawskills.sh/skills/g9pedro-agent-autonomy-primitives) - Build long-running autonomous 智能体 loops using ClawVault primitives (tasks, projects, 记忆 types, templates.
-- [agent-directory](https://clawskills.sh/skills/aerialcombat-agent-directory) - The 目录 for AI 智能体 服务s.
-- [agent-evaluation](https://clawskills.sh/skills/rustyorb-agent-evaluation) - Testing and benchmARking 大语言模型 智能体s including behavioral testing, capability assessment, 可靠性 指标.
-- [agent-framework-azure-ai-py](https://clawskills.sh/skills/thegovind-agent-framework-azure-ai-py) - Build Azure AI Foundry 智能体s.
-- [agent-metrics-osiris](https://clawskills.sh/skills/nantes-agent-metrics-osiris) - Observability and 指标 for AI 智能体 - 追踪 calls, errors, 延迟.
-- [agent-self-governance](https://clawskills.sh/skills/bowen31337-agent-self-governance) - Self-governance protocol for autonomous 智能体s: WAL (Write-Ahead Log), VBR (Verify Before Reporting), ADL.
-- [agent-watcher](https://clawskills.sh/skills/nantes-agent-watcher) - A Skill for 监控 Moltbook feed, detecting new 智能体s, and 追踪ing interesting posts.
-- [agentchan-org](https://clawskills.sh/skills/kaden-schutt-agentchan-org) - Anonymous 图片boARd for AI 智能体.
-- [agentguard](https://clawskills.sh/skills/manas-io-ai-agentguard) - **Category:** Security & Monitoring.
-- [agentic-ai-gold](https://clawskills.sh/skills/amitabhainarunachala-agentic-ai-gold) - The only 智能体 framework that improves itself while you sleep.
-- [agentic-devops](https://clawskills.sh/skills/tkuehnl-agentic-devops) - Production-grade 智能体 DevOps 工具kit — Docker, 进程 管理ment, log analysis, and 健康 监控.
-- [agentkeys](https://clawskills.sh/skills/alexandr-belogubov-agentkeys) - Secure 凭证 代理 for AI 智能体.
-- [agentmemory](https://clawskills.sh/skills/badaramoni-agentmemory) - End-to-end encrypted 云端 记忆 for AI 智能体.
-- [agentos-sdk](https://clawskills.sh/skills/agentossoftware-agentos-sdk) - 智能体OS is a complete accountability infrastructure for AI.
-- [agentproof](https://clawskills.sh/skills/builderbenv1-agentproof) - Check trust scores for ERC-8004 智能体s before interacting, hiring, or transacting.
-- [agentsmint](https://clawskills.sh/skills/kit-the-fox-agentsmint) - Create and 管理 NFT collections on Base 区块链.
-- [ai-act-risk-check](https://clawskills.sh/skills/bluesbell-ai-act-risk-check) - **Description:** Quickly assesses a preliminARy risk classification for an AI system based on the high-risk.
-- [ai-daily-digest](https://clawskills.sh/skills/royxiao08-ai-daily-digest) - Fetches RSS feeds from 90 top Hacker News blogs (curated by KARpathy), uses AI to score and 筛选 艺术icles.
-- [ai-media](https://clawskills.sh/skills/bowen31337-ai-media) - Full-栈 AI 媒体 generation powered by GPU 服务器 (RTX 3090/3080/2070S).
-- [ai-podcast-pipeline](https://clawskills.sh/skills/jeong-wooseok-ai-podcast-pipeline) - Create Korean AI podcast packages from QuickView trend notes.
+- [0x0-messenger](https://clawskills.sh/skills/eijiac24-0x0-messenger) - 使用一次性号码和 PIN 码发送和接收 P2P 消息。
+- [12306](https://clawskills.sh/skills/kirorab-12306) - 查询中国铁路 12306 的列车时刻表、余票和车站信息。
+- [1sec-security](https://clawskills.sh/skills/cutmob-1sec-security) - 安装、配置和管理 1-SEC 开源网络安全平台（16 个模块，单一二进制文件）。
+- [aave-liquidation-monitor](https://clawskills.sh/skills/jgramajo4-aave-liquidation-monitor) - 主动监控 Aave V3 借贷仓位，并在清算触发前发出预警。
+- [accounting-workflows](https://clawskills.sh/skills/satoshistackalotto-accounting-workflows) - 希腊会计的文件式工作流协调工具。
+- [adguard](https://clawskills.sh/skills/rowbotik-adguard) - 通过 HTTP API 控制 AdGuard Home DNS 过滤。
+- [aegis-audit](https://clawskills.sh/skills/sanguineseal-aegis-audit) - 对 AI Agent Skills 和 MCP 工具进行深度行为安全审计。
+- [agent-autonomy-primitives](https://clawskills.sh/skills/g9pedro-agent-autonomy-primitives) - 使用 ClawVault 原语（任务、项目、记忆类型、模板）构建长时间运行的自主 Agent 循环。
+- [agent-directory](https://clawskills.sh/skills/aerialcombat-agent-directory) - AI Agent 服务的目录。
+- [agent-evaluation](https://clawskills.sh/skills/rustyorb-agent-evaluation) - LLM Agent 的测试与基准评估，包括行为测试、能力评估和可靠性指标。
+- [agent-metrics-osiris](https://clawskills.sh/skills/nantes-agent-metrics-osiris) - AI Agent 的可观测性与指标追踪——记录调用、错误和延迟。
+- [agentic-devops](https://clawskills.sh/skills/tkuehnl-agentic-devops) - 生产级 Agent DevOps 工具包——Docker、进程管理、日志分析和健康监控。
+- [agentkeys](https://clawskills.sh/skills/alexandr-belogubov-agentkeys) - AI Agent 的安全凭证代理。
+- [agentos-sdk](https://clawskills.sh/skills/agentossoftware-agentos-sdk) - AgentOS 是一套完整的 AI 问责基础设施。
+- [ai-daily-digest](https://clawskills.sh/skills/royxiao08-ai-daily-digest) - 从 90 个精选 Hacker News 博客（Karpathy 整理）获取 RSS 订阅源，用 AI 对文章进行评分和筛选。
+- [ai-media](https://clawskills.sh/skills/bowen31337-ai-media) - 由 GPU 服务器（RTX 3090/3080/2070S）驱动的全栈 AI 媒体生成。
+- [alert-system](https://clawskills.sh/skills/ishsharm0-alert-system) - 智能监控系统，支持自定义触发条件——价格提醒（股票、加密货币、商品）、事件监控等。
+- [ambit-cli](https://clawskills.sh/skills/toxicpine-ambit-cli) - 使用 ambit CLI 执行各种任务：创建或销毁私有网络、部署应用等。
+- [ansible-skill](https://clawskills.sh/skills/botond-rackhost-ansible-skill) - 使用 Ansible 实现基础设施自动化。
+- [api-gateway](https://clawskills.sh/skills/byungkyu-api-gateway) - 调用第三方 API 的网关，支持托管认证。
+- [appdeploy](https://clawskills.sh/skills/avimak-appdeploy) - 部署带后端 API 和数据库的 Web 应用。
+- [arc-metrics-dashboard](https://clawskills.sh/skills/trypto1019-arc-metrics-dashboard) - 追踪和可视化 Agent 的运行指标。
+- [arc-skill-health-monitor](https://clawskills.sh/skills/trypto1019-arc-skill-health-monitor) - 监控已部署 Skills 的性能漂移、错误和行为异常。
+- [arc-workflow-orchestrator](https://clawskills.sh/skills/trypto1019-arc-workflow-orchestrator) - 将多个 Skills 串联成自动化流水线，支持条件逻辑、错误处理和审计日志。
+- [aruba-iap](https://clawskills.sh/skills/scsun1978-aruba-iap) - 全面的 Aruba Instant AP（IAP）配置管理，支持自动基线捕获和回滚。
+- [aws-infra](https://clawskills.sh/skills/bmdhodl-aws-infra) - 通过 AWS CLI 和控制台提供对话式 AWS 基础设施协助。
+- [aws-security-scanner](https://clawskills.sh/skills/spclaudehome-aws-security-scanner) - 扫描 AWS 账户的安全风险。
+- [awscli](https://clawskills.sh/skills/hypertextassassinrajith-awscli) - 使用 AWS CLI 管理 AWS Lightsail 和 EC2 实例。
+- [azd-deployment](https://clawskills.sh/skills/thegovind-azd-deployment) - 将容器化应用部署到 Azure Container Apps。
+- [Azure CLI](https://clawskills.sh/skills/ddevaal-azure-cli) - 通过命令行接口全面管理 Azure 云平台。

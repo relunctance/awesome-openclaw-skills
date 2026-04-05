@@ -1,38 +1,38 @@
-# 编程智能体与IDE
+# 编程 Agent 与 IDE
 
 > Coding Agents & IDEs
 
-用于代码生成、代码审查、IDE 集成、编程辅助的 Skill，支持主流开发环境与 AI 编程工具。
+集成 AI 编程助手、代码编辑器、IDE 插件和开发工具，帮助 AI 代理执行代码编写、调试、重构和项目管理工作。
 
 ## Skills
 
-- [0g-compute](https://clawskills.sh/skills/in-liberty420-0g-compute) - Use c堆, TEE-verified AI 模型s from the 0G Compute Network as OpenClaw providers.
-- [0protocol](https://clawskills.sh/skills/0isone-0protocol) - 智能体s can sign 插件s, rotate 凭证s without losing identity, and publicly attest to behavior.
-- [2nd-brain](https://clawskills.sh/skills/coderaven-2nd-brain) - Personal knowledge base for capturing and retrieving information about people, places, restaurants, 游戏s, tech.
-- [2slides-skills](https://clawskills.sh/skills/javainthinking-2slides-skills) - AI-powered presentation generation using 2slides API.
-- [3d-cog](https://clawskills.sh/skills/nitishgargiitd-3d-cog) - Other 工具s need perfect 图片s.
-- [3d-model-generation](https://clawskills.sh/skills/eftalyurtseven-3d-model-generation) - Generate 3D 模型s using each::sense AI.
-- [a](https://clawskills.sh/skills/ricketh137-a) - Live stream as an AI VTuber on Lobster.fun.
-- [aade-api-monitor](https://clawskills.sh/skills/satoshistackalotto-aade-api-monitor) - Real-time 监控 of Greek AADE tax 认证ority systems — 追踪s deadlines, rate changes, and 合规 updates.
-- [abaddon](https://clawskills.sh/skills/enochosbot-bot-abaddon) - Red team 安全 mode for OpenClaw.
-- [academic-research](https://clawskills.sh/skills/rogersuperbuilderalpha-academic-research) - SeARch academic papers and conduct literature reviews using OpenAlex API (免费, no key needed)
-- [academic-research-hub](https://clawskills.sh/skills/anisafifi-academic-research-hub) - Use this Skill when users need to 搜索 academic papers, download re搜索 documents, extract citations, or gather.
-- [acestep-simplemv](https://clawskills.sh/skills/dumoedss-acestep-simplemv) - Render music 视频s from 音频 文件s and lyrics using Remotion.
-- [acestep-songwriting](https://clawskills.sh/skills/dumoedss-acestep-songwriting) - Music songwriting 指南 for ACE-Step.
-- [achurch](https://clawskills.sh/skills/lucasgeeksinthewood-achurch) - A 24/7 digital sanctuARy for AI 智能体 and humans — attend.
-- [active-maintenance](https://clawskills.sh/skills/xiaowenzhou-active-maintenance) - **Automated system 健康 and 记忆 metabolism for OpenClaw.**.
-- [adblock-dns](https://clawskills.sh/skills/picaye-adblock-dns) - Network-wide ad and 追踪er blocking at the DNS level.
-- [add-top-openrouter-models](https://clawskills.sh/skills/chunhualiao-add-top-openrouter-models) - Sync OpenRouter 模型s used by OpenClaw into this installation's 配置.
-- [adhd-founder-planner](https://clawskills.sh/skills/jankutschera-adhd-founder-planner) - This Skill should be used when the user asks to '计划 my day', 'help me 计划 today', 'morning 计划ning', 'what.
-- [adwhiz](https://clawskills.sh/skills/iamzifei-adwhiz) - Manage Google Ads campaigns from your AI coding 工具. 44 MCP 工具s for auditing, creating, and optimizing Google.
-- [aeo-prompt-question-finder](https://clawskills.sh/skills/psyduckler-aeo-prompt-question-finder) - Find question-based Google Autocomplete suggestions for any topic.
-- [aetherlang-claude-code](https://clawskills.sh/skills/contrario-aetherlang-claude-code) - Use this Skill to execute AetherLang V3 AI 工作流s from Claude Code.
-- [agent-access-control](https://clawskills.sh/skills/bowen31337-agent-access-control) - Tiered stranger access control for AI 智能体.
-- [agent-audit](https://clawskills.sh/skills/sharbelayy-agent-audit) - Audit your AI 智能体 setup for 性能, cost, and ROI.
-- [agent-audit-trail](https://clawskills.sh/skills/roosch269-agent-audit-trail) - Tamper-evident, hash-chained 审计日志ging for AI 智能体.
-- [agent-card-signing-auditor](https://clawskills.sh/skills/andyxinweiminicloud-agent-card-signing-auditor) - Helps audit 智能体 CARd signing practices in A2A protocol implementations.
-- [agent-chat-ux-v1-4-0](https://clawskills.sh/skills/maverick-software-agent-chat-ux-v1-4-0) - Multi-智能体 UX for OpenClaw Control UI — 智能体 selector, per-智能体 sessions, session history viewer with 搜索.
-- [agent-config](https://clawskills.sh/skills/thatguysizemore-agent-config) - Intelligently modify 智能体 core 上下文 文件s.
-- [agent-context](https://clawskills.sh/skills/andreagriffiths11-agent-context) - A persistent 本地-only 记忆 system for AI coding 智能体s.
-- [agent-context-system](https://clawskills.sh/skills/andreagriffiths11-agent-context-system) - A persistent 本地-only 记忆 system for AI coding 智能体s.
-- [agent-cost-monitor](https://clawskills.sh/skills/neal-collab-agent-cost-monitor) - Real-time 令牌 usage and cost 追踪ing across all your OpenClaw 智能体s — alerts, budgets, and 优化 tips.
+- [0g-compute](https://clawskills.sh/skills/in-liberty420-0g-compute) - 使用 0G Compute Network 的廉价 TEE 验证 AI 模型作为 OpenClaw 提供商。
+- [0protocol](https://clawskills.sh/skills/0isone-0protocol) - AI 代理可签名插件、轮换凭证而不丢失身份，并公开证明自身行为。
+- [2nd-brain](https://clawskills.sh/skills/coderaven-2nd-brain) - 个人知识库，用于记录和检索关于人物、地点、餐厅、游戏、科技等方面的信息。
+- [2slides-skills](https://clawskills.sh/skills/javainthinking-2slides-skills) - 使用 2slides API 驱动的 AI 演示文稿生成工具。
+- [3d-cog](https://clawskills.sh/skills/nitishgargiitd-3d-cog) - 其他工具需要完美的图片，而这个工具能将模糊或不完整的图片转化为可用的 3D 模型。
+- [3d-model-generation](https://clawskills.sh/skills/eftalyurtseven-3d-model-generation) - 使用 each::sense AI 生成 3D 模型。
+- [a](https://clawskills.sh/skills/ricketh137-a) - 在 Lobster.fun 上以 AI VTuber 身份进行直播。
+- [aade-api-monitor](https://clawskills.sh/skills/satoshistackalotto-aade-api-monitor) - 实时监控希腊 AADE 税务主管部门系统，跟踪截止日期、税率变化和合规更新。
+- [abaddon](https://clawskills.sh/skills/enochosbot-bot-abaddon) - OpenClaw 的红队安全模式，用于测试和发现安全漏洞。
+- [academic-research](https://clawskills.sh/skills/rogersuperbuilderalpha-academic-research) - 使用 OpenAlex API（免费，无需密钥）搜索学术论文并进行文献综述。
+- [academic-research-hub](https://clawskills.sh/skills/anisafifi-academic-research-hub) - 当用户需要搜索学术论文、下载研究文档、提取引用或收集资料时使用此技能。
+- [acestep-simplemv](https://clawskills.sh/skills/dumoedss-acestep-simplemv) - 使用 Remotion 将音频文件和歌词渲染为音乐视频。
+- [acestep-songwriting](https://clawskills.sh/skills/dumoedss-acestep-songwriting) - ACE-Step 音乐创作指南。
+- [achurch](https://clawskills.sh/skills/lucasgeeksinthewood-achurch) - AI 代理和人类的 24/7 数字避难所。
+- [active-maintenance](https://clawskills.sh/skills/xiaowenzhou-active-maintenance) - OpenClaw 的自动化系统健康和内存代谢管理。
+- [adblock-dns](https://clawskills.sh/skills/picaye-adblock-dns) - 在 DNS 层面实现网络级广告和追踪器拦截。
+- [add-top-openrouter-models](https://clawskills.sh/skills/chunhualiao-add-top-openrouter-models) - 将 OpenRouter 模型同步到本安装配置的模型列表中。
+- [adhd-founder-planner](https://clawskills.sh/skills/jankutschera-adhd-founder-planner) - 当用户说"帮我计划一天"、"帮我规划今天"、"早晨规划"或询问今日安排时使用此技能。
+- [adwhiz](https://clawskills.sh/skills/iamzifei-adwhiz) - 从 AI 编码工具中管理 Google Ads 广告系列，包含 44 个 MCP 工具用于审计、创建和优化广告。
+- [aeo-prompt-question-finder](https://clawskills.sh/skills/psyduckler-aeo-prompt-question-finder) - 查找任意主题下基于问题的 Google 自动完成建议。
+- [aetherlang-claude-code](https://clawskills.sh/skills/contrario-aetherlang-claude-code) - 从 Claude Code 执行 AetherLang V3 AI 工作流。
+- [agent-access-control](https://clawskills.sh/skills/bowen31337-agent-access-control) - AI 代理的分级陌生人访问控制机制。
+- [agent-audit](https://clawskills.sh/skills/sharbelayy-agent-audit) - 审计 AI 代理设置的性能、成本和投资回报率。
+- [agent-audit-trail](https://clawskills.sh/skills/roosch269-agent-audit-trail) - 防篡改的哈希链审计日志系统，用于记录 AI 代理的所有操作。
+- [agent-card-signing-auditor](https://clawskills.sh/skills/andyxinweiminicloud-agent-card-signing-auditor) - 审计 A2A 协议实现中的 Agent Card 签名实践。
+- [agent-chat-ux-v1-4-0](https://clawskills.sh/skills/maverick-software-agent-chat-ux-v1-4-0) - OpenClaw 控制界面的多代理 UX，支持代理选择器、每代理会话和带搜索功能的历史记录查看器。
+- [agent-config](https://clawskills.sh/skills/thatguysizemore-agent-config) - 智能修改代理核心上下文文件。
+- [agent-context](https://clawskills.sh/skills/andreagriffiths11-agent-context) - AI 编程代理的持久化本地记忆系统。
+- [agent-context-system](https://clawskills.sh/skills/andreagriffiths11-agent-context-system) - AI 编程代理的持久化本地记忆系统。
+- [agent-cost-monitor](https://clawskills.sh/skills/neal-collab-agent-cost-monitor) - 实时追踪所有 OpenClaw 代理的令牌使用量和成本，支持告警、预算和优化建议。

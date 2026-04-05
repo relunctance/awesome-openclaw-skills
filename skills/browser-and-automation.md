@@ -2,37 +2,36 @@
 
 > Browser & Automation
 
-网页自动化、浏览器控制、网页抓取、UI 测试与 RPA 相关的 Skill。
+通过浏览器自动化、API 集成和工作流自动化工具，让 AI 代理能够执行网页操作、表单填写、数据采集和跨平台任务调度。
 
 ## Skills
 
-- [1p-shortlink](https://clawskills.sh/skills/tuanpmt-1p-shortlink) - Create short URLs and submit feature requests using 1p.io.
-- [2captcha](https://clawskills.sh/skills/adinvadim-2captcha) - Solve 证书颁发机构PTCHAs using 2Captcha 服务.
-- [a-share-real-time-data](https://clawskills.sh/skills/wangdinglu-a-share-real-time-data) - Fetch China A-shARe stock mARket 数据 (bARs, realtime quotes, tick-by-tick transactions) via mootdx/TDX protocol.
-- [abm-outbound](https://clawskills.sh/skills/dru-ca-abm-outbound) - Multi-channel ABM 自动化 that turns LinkedIn URLs.
-- [accessibility-toolkit](https://clawskills.sh/skills/cgtreadw-accessibility-toolkit) - Friction-reduction patterns for 智能体s helping.
-- [activecampaign](https://clawskills.sh/skills/kesslerio-activecampaign) - ActiveCampaign CRM 集成 for lead 管理ment, deal.
-- [adcp-advertising](https://clawskills.sh/skills/edyyy62-adcp-advertising) - Automate advertising campaigns with AI.
-- [admet-prediction](https://clawskills.sh/skills/huifer-admet-prediction) - ADMET (Absorption, Distribution, Metabolism, Excretion, Toxicity) prediction for drug candidates.
-- [Agent Browser](https://clawskills.sh/skills/thesethrose-agent-browser) - A fast Rust-based headless 浏览器自动化 命令行工具.
-- [agent-browser](https://clawskills.sh/skills/murphykobe-agent-browser-2) - Automates browser interactions for Web testing, form.
-- [agent-daily-planner](https://clawskills.sh/skills/gpunter-agent-daily-planner) - A structured daily 计划ning and execution 追踪ing system for AI 智能体.
-- [agent-device](https://clawskills.sh/skills/okwasniewski-agent-device) - Automates interactions for iOS simulators/devices and Android emulators/devices.
-- [agent-step-sequencer](https://clawskills.sh/skills/gostlightai-agent-step-sequencer) - Multi-step scheduler for in-depth 智能体 requests.
-- [agent-task-tracker](https://clawskills.sh/skills/rikouu-agent-task-tracker) - Proactive task state 管理ment.
-- [agent-zero](https://clawskills.sh/skills/dowingard-agent-zero-bridge) - Delegate complex coding, re搜索, or autonomous tasks.
-- [agentapi](https://clawskills.sh/skills/gizmo-dev-agentapi) - Browse and 搜索 the 智能体API 目录 - a curated 数据库 of APIs 设计ed for AI 智能体.
-- [agentapi-hub](https://clawskills.sh/skills/gizmo-dev-agentapi-hub) - Browse and 搜索 the 智能体API 目录 - a curated 数据库 of APIs 设计ed for AI 智能体.
-- [agentaudit](https://clawskills.sh/skills/starbuck100-agentaudit) - Automatic 安全 gate that checks packages against a vulnerability 数据库 before installation.
-- [agentaudit-skill](https://clawskills.sh/skills/starbuck100-agentaudit-skill) - Automatic 安全 gate that checks packages against a vulnerability 数据库 before installation.
-- [agentmail-integration](https://clawskills.sh/skills/synesthesia-wav-agentmail-integration) - Integrate 智能体Mail API for AI 智能体.
-- [agresource](https://clawskills.sh/skills/brianppetty-agresource) - Use this Skill to 抓取, 总结, and 分析 AgResource grain mARketing 新闻letters.
-- [ai-hunter-pro](https://clawskills.sh/skills/traprapitalianazional-dev-ai-hunter-pro) - A high-性能 自动化 智能体 that turns global trends into viral 社交 媒体 posts for X (Twitter)
-- [ai-meeting-scheduling](https://clawskills.sh/skills/dheerg-ai-meeting-scheduling) - Booking links fail for groups.
-- [airtable-automation](https://clawskills.sh/skills/sohamganatra-airtable-automation) - Automate Airtable tasks via Rube MCP (Composio)
-- [airtable-participants](https://clawskills.sh/skills/austinmao-airtable-participants) - Read and 查询 retreat p艺术icipant 数据 from the Ceremonia Airtable base.
-- [ak-rss-24h-brief](https://clawskills.sh/skills/seandong-ak-rss-24h-brief) - Read RSS/Atom feeds from an OPML list, 获取 艺术icles from the last N hours, and 生成 a Chinese categorized.
-- [amazon-product-search-api-skill](https://clawskills.sh/skills/phheng-amazon-product-search-api-skill) - This Skill is 设计ed to help users automatically extract product 数据 from Amazon 搜索 results.
-- [amazon-reviews-api-skill](https://clawskills.sh/skills/phheng-amazon-reviews-api-skill) - This Skill helps users automatically extract Amazon product reviews via the Amazon Reviews API.
-- [amazon-shopper](https://clawskills.sh/skills/brennerspear-amazon-shopper) - Buy and return items on Amazon using 浏览器自动化.
-- [android-adb](https://clawskills.sh/skills/staticai-android-adb) - Control Android devices via ADB with support for UI layout analysis.
+- [1p-shortlink](https://clawskills.sh/skills/tuanpmt-1p-shortlink) - 使用 1p.io 创建短链接并提交功能请求。
+- [2captcha](https://clawskills.sh/skills/adinvadim-2captcha) - 通过 2Captcha 服务自动解决 CAPTCHA 验证码。
+- [a-share-real-time-data](https://clawskills.sh/skills/wangdinglu-a-share-real-time-data) - 通过 mootdx/TDX 协议获取中国 A 股市场数据，包括行情、实时报价和逐笔交易明细。
+- [abm-outbound](https://clawskills.sh/skills/dru-ca-abm-outbound) - 多渠道 ABM 自动化，将 LinkedIn URL 转化为目标客户信息。
+- [accessibility-toolkit](https://clawskills.sh/skills/cgtreadw-accessibility-toolkit) - 为辅助代理减少摩擦的交互模式设计。
+- [activecampaign](https://clawskills.sh/skills/kesslerio-activecampaign) - ActiveCampaign CRM 集成，支持潜在客户管理、商机跟踪等。
+- [adcp-advertising](https://clawskills.sh/skills/edyyy62-adcp-advertising) - 使用 AI 自动化广告投放活动。
+- [admet-prediction](https://clawskills.sh/skills/huifer-admet-prediction) - 药物候选分子的 ADMET（吸收、分布、代谢、排泄、毒性）预测。
+- [Agent Browser](https://clawskills.sh/skills/thesethrose-agent-browser) - 快速 Rust 编写的无头浏览器自动化 CLI 工具。
+- [agent-browser](https://clawskills.sh/skills/murphykobe-agent-browser-2) - 自动化浏览器交互，用于网页测试、表单填写等场景。
+- [agent-daily-planner](https://clawskills.sh/skills/gpunter-agent-daily-planner) - AI 代理的结构化每日计划与执行追踪系统。
+- [agent-device](https://clawskills.sh/skills/okwasniewski-agent-device) - 自动化 iOS 模拟器/设备和 Android 模拟器/设备的交互操作。
+- [agent-step-sequencer](https://clawskills.sh/skills/gostlightai-agent-step-sequencer) - 深度代理请求的多步骤调度器。
+- [agent-task-tracker](https://clawskills.sh/skills/rikouu-agent-task-tracker) - 主动式任务状态管理。
+- [agent-zero](https://clawskills.sh/skills/dowingard-agent-zero-bridge) - 将复杂编码、研究或自主任务委托给 Agent Zero。
+- [agentapi](https://clawskills.sh/skills/gizmo-dev-agentapi) - 浏览和搜索 AgentAPI 目录——为 AI 代理设计的 API 数据库。
+- [agentapi-hub](https://clawskills.sh/skills/gizmo-dev-agentapi-hub) - 浏览和搜索 AgentAPI 目录——为 AI 代理设计的 API 数据库。
+- [agentaudit](https://clawskills.sh/skills/starbuck100-agentaudit) - 安装前自动安全门，检查软件包是否在漏洞数据库中。
+- [agentaudit-skill](https://clawskills.sh/skills/starbuck100-agentaudit-skill) - 安装前自动安全门，检查软件包是否在漏洞数据库中。
+- [agentmail-integration](https://clawskills.sh/skills/synesthesia-wav-agentmail-integration) - 集成 AgentMail API，为 AI 代理提供邮件功能。
+- [agresource](https://clawskills.sh/skills/brianppetty-agresource) - 抓取、整理和分析 AgResource 谷物营销报告。
+- [ai-hunter-pro](https://clawskills.sh/skills/traprapitalianazional-dev-ai-hunter-pro) - 高性能自动化代理，将全球趋势转化为 X（Twitter）病毒式社交媒体帖子。
+- [ai-meeting-scheduling](https://clawskills.sh/skills/dheerg-ai-meeting-scheduling) - 当预订链接无法满足群体需求时，提供智能会议安排方案。
+- [airtable-automation](https://clawskills.sh/skills/sohamganatra-airtable-automation) - 通过 Rube MCP（Composio）自动化 Airtable 任务。
+- [airtable-participants](https://clawskills.sh/skills/austinmao-airtable-participants) - 从 Ceremonia Airtable 基础库读取和查询静修参与者数据。
+- [ak-rss-24h-brief](https://clawskills.sh/skills/seandong-ak-rss-24h-brief) - 从 OPML 列表读取 RSS/Atom 源，获取最近 N 小时的文章并生成中文分类简报。
+- [amazon-product-search-api-skill](https://clawskills.sh/skills/phheng-amazon-product-search-api-skill) - 自动从 Amazon 搜索结果中提取产品数据。
+- [amazon-reviews-api-skill](https://clawskills.sh/skills/phheng-amazon-reviews-api-skill) - 通过 Amazon Reviews API 自动提取 Amazon 商品评论。
+- [amazon-shopper](https://clawskills.sh/skills/brennerspear-amazon-shopper) - 通过浏览器自动化在 Amazon 上购买和退货商品。

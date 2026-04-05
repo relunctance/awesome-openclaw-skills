@@ -1,27 +1,22 @@
-# ai-coder
+# AI Coder
 
 > AI Coding Assistant for complex development tasks
 
-AI coding assistant that helps with code generation, review, refactoring, and debugging tasks.
+AI 编程助手，协助完成代码生成、审查、重构和调试任务。
 
-**Author:** @openclaw  
-**Repository:** https://github.com/openclaw/openclaw
+**作者:** @openclaw  
+**仓库:** https://github.com/openclaw/openclaw
 
-## Installation
+## 功能特点
 
-Included with OpenClaw core installation.
+- 复杂功能代码生成
+- 代码审查与重构
+- Bug 调试协助
+- 理解不熟悉的代码库
 
-## Usage
+## 使用场景
 
-Use when:
-- Writing complex features
-- Code review and refactoring
-- Debugging issues
-- Understanding unfamiliar codebases
-
-## Use Cases
-
-- Complex feature implementation
-- Code quality improvement
-- Bug fixing assistance
-- Architecture design
+- 复杂功能实现
+- 代码质量提升
+- Bug 修复协助
+- 架构设计

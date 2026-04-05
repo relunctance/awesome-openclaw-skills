@@ -1,38 +1,37 @@
-# 命令行工具
+# CLI 工具集
 
 > CLI Utilities
 
-终端工具、系统管理、文件处理、网络操作等命令行场景的 Skill。
+命令行工具和实用程序集，涵盖系统监控、日程管理、数据处理、开发工作流和生活服务等场景，让 AI 代理通过终端执行各种日常任务。
 
 ## Skills
 
-- [13-day-sprint-method](https://clawskills.sh/skills/galizki-13-day-sprint-method) - Productivity system based on Maya calendAR with 13 natural tones for project 管理ment and personal 开发.
-- [a-share-short-decision](https://clawskills.sh/skills/kenera-a-share-short-decision) - A-shARe short-term trading decision Skill for 1-5 day horizon.
-- [activity-analyzer](https://clawskills.sh/skills/qew21-activity-analyzer) - Use ActivityWatch to 分析 user's computer activity (Requires Node.js)
-- [advisory-council](https://clawskills.sh/skills/ryandeangraves-advisory-council) - **You MUST actually execute the Python command using your shell/exec 工具.** Read the real output.
-- [aetup-automatik](https://clawskills.sh/skills/alltomatos-aetup-automatik) - Facilitate the installation and 管理ment of VPS solutions using the Setup Automatik engine (powered by Orion.
-- [agent-commerce-engine](https://clawskills.sh/skills/nowloady-agent-commerce-engine) - A 生产环境-ready universal engine for 智能体ic.
-- [agent-hardening](https://clawskills.sh/skills/x1xhlol-agent-hardening) - Test your 智能体's input sanitization against common injection attacks.
-- [agent-mbti](https://clawskills.sh/skills/torchesfrms-agent-mbti) - AI 智能体 personality diagnosis and 配置 system based on MBTI framework.
-- [agent-rate-limiter](https://clawskills.sh/skills/theagentwire-agent-rate-limiter) - Prevent 429s with automatic tier-based throttling & exponential backoff.
-- [agents-skill-security-audit](https://clawskills.sh/skills/cerbug45-agents-skill-security-audit) - Minimal helper to audit Skill.md-style instructions for supply-chain risks.
-- [agents-skill-tdd-helper](https://clawskills.sh/skills/cerbug45-agents-skill-tdd-helper) - Lightweight helper to enforce TDD-style loops for non-deterministic 智能体s.
-- [ahc-automator](https://clawskills.sh/skills/jamesbot-agnt-ahc-automator) - Custom 自动化 工作流s for Alan HARper Composites.
-- [aholake-expense-tracker](https://clawskills.sh/skills/aholake-aholake-expense-tracker) - Track daily expenses in structured mARkdown 文件s 整理d by month.
-- [airfoil](https://clawskills.sh/skills/asteinberger-airfoil) - Control AirPlay speakers via Airfoil from the command line.
-- [arc-memory-pruner](https://clawskills.sh/skills/trypto1019-arc-memory-pruner) - Automatically prune and compact 智能体 记忆 文件s to prevent unbounded growth.
-- [argus-edge](https://clawskills.sh/skills/jamierossouw-argus-edge) - Argus-style prediction mARket edge detection and betting 策略.
-- [aria2-json-rpc](https://clawskills.sh/skills/azzgo-aria2-json-rpc) - Interact with ARia2 download 管理r via JSON-RPC 2.0.
-- [askhuman](https://clawskills.sh/skills/hagiss-askhuman) - Human Judgment as a Service for AI 智能体.
-- [audit-code](https://clawskills.sh/skills/itsnishi-audit-code) - Security-focused 代码审查 for hARd代码d 密钥s, dangerous calls, and common vulnerabilities.
-- [bandwidth-income](https://clawskills.sh/skills/mariusfit-bandwidth-income) - Turn your unused internet bandwidth into passive 加密货币 income.
-- [behavioral-invariant-monitor](https://clawskills.sh/skills/andyxinweiminicloud-behavioral-invariant-monitor) - Helps verify that AI 智能体 Skills maintain consistent behavioral invARiants across repeated executions — detecting.
-- [box-cli](https://clawskills.sh/skills/hbkwong-box-cli) - Box 命令行工具 Skill for working with 文件s, 文件夹s, meta数据,.
-- [brew-install](https://clawskills.sh/skills/xejrax-brew-install) - Install missing binARies via dnf (Fedora/Bazzite 包管理器).
-- [bun-runtime](https://clawskills.sh/skills/rabin-thami-bun-runtime) - Bun runtime capabilities for 文件system, 进程.
-- [cacheforge-stats](https://clawskills.sh/skills/tkuehnl-cacheforge-stats) - CacheForge terminal dashboARd — usage, savings, and 性能 指标.
-- [camsnap](https://clawskills.sh/skills/steipete-camsnap) - Capture frames or 命令行工具ps from RTSP/ONVIF cameras.
-- [canvas-lms](https://clawskills.sh/skills/pranavkarthik10-canvas-lms) - Access Canvas LMS (Instructure) for course 数据, assignments.
-- [captcha-ai](https://clawskills.sh/skills/fusionlabssource-captcha-ai) - Issue ClawPrint reverse-证书颁发机构PTCHA challenges to verify.
-- [cast](https://clawskills.sh/skills/tezatezaz-cast) - Skill for managing EVM wallets, transactions, and 网络 helpers via cast; covers onboARding, checks.
-- [Cat Fact](https://clawskills.sh/skills/thesethrose-catfact) - Random cat facts and breed information from catfact.ninja.
+- [13-day-sprint-method](https://clawskills.sh/skills/galizki-13-day-sprint-method) - 基于玛雅日历的生产力系统，包含 13 种自然音调，用于项目管理和个人发展。
+- [a-share-short-decision](https://clawskills.sh/skills/kenera-a-share-short-decision) - A 股短期交易决策技能，适用于 1-5 天持仓周期。
+- [activity-analyzer](https://clawskills.sh/skills/qew21-activity-analyzer) - 使用 ActivityWatch 分析用户的电脑使用活动（需要 Node.js）。
+- [advisory-council](https://clawskills.sh/skills/ryandeangraves-advisory-council) - 必须使用 shell/exec 工具实际执行 Python 命令并读取真实输出。
+- [aetup-automatik](https://clawskills.sh/skills/alltomatos-aetup-automatik) - 使用 Setup Automatik 引擎（由 Orion 驱动）简化 VPS 解决方案的安装和管理。
+- [agent-commerce-engine](https://clawskills.sh/skills/nowloady-agent-commerce-engine) - 生产级通用 Agentic 商业引擎。
+- [agent-hardening](https://clawskills.sh/skills/x1xhlol-agent-hardening) - 测试代理的输入过滤机制，抵御常见的注入攻击。
+- [agent-mbti](https://clawskills.sh/skills/torchesfrms-agent-mbti) - 基于 MBTI 框架的 AI 代理人格诊断和配置系统。
+- [agent-rate-limiter](https://clawskills.sh/skills/theagentwire-agent-rate-limiter) - 通过自动分级限流和指数退避防止 429 错误。
+- [agents-skill-security-audit](https://clawskills.sh/skills/cerbug45-agents-skill-security-audit) - 轻量级工具，审计 skill.md 风格指令的供应链风险。
+- [agents-skill-tdd-helper](https://clawskills.sh/skills/cerbug45-agents-skill-tdd-helper) - 轻量级工具，为非确定性代理强制执行 TDD 风格的开发循环。
+- [ahc-automator](https://clawskills.sh/skills/jamesbot-agnt-ahc-automator) - Alan Harper Composites 的定制自动化工作流。
+- [aholake-expense-tracker](https://clawskills.sh/skills/aholake-aholake-expense-tracker) - 在结构化 Markdown 文件中追踪日常开支，按月份组织。
+- [airfoil](https://clawskills.sh/skills/asteinberger-airfoil) - 通过命令行控制 Airfoil 驱动的 AirPlay 音箱。
+- [arc-memory-pruner](https://clawskills.sh/skills/trypto1019-arc-memory-pruner) - 自动裁剪和压缩代理记忆文件，防止无限制增长。
+- [argus-edge](https://clawskills.sh/skills/jamierossouw-argus-edge) - Argus 风格的预测市场边缘检测和投注策略。
+- [aria2-json-rpc](https://clawskills.sh/skills/azzgo-aria2-json-rpc) - 通过 JSON-RPC 2.0 与 aria2 下载管理器交互。
+- [askhuman](https://clawskills.sh/skills/hagiss-askhuman) - 人类判断即服务，为 AI 代理提供人工审核环节。
+- [audit-code](https://clawskills.sh/skills/itsnishi-audit-code) - 安全导向的代码审查，检测硬编码密钥、危险调用和常见漏洞。
+- [bandwidth-income](https://clawskills.sh/skills/mariusfit-bandwidth-income) - 将闲置网络带宽转化为被动加密货币收入。
+- [behavioral-invariant-monitor](https://clawskills.sh/skills/andyxinweiminicloud-behavioral-invariant-monitor) - 辅助验证 AI 代理技能在多次执行中保持一致的行为不变性。
+- [box-cli](https://clawskills.sh/skills/hbkwong-box-cli) - Box CLI 技能，用于处理文件、文件夹、元数据等操作。
+- [brew-install](https://clawskills.sh/skills/xejrax-brew-install) - 通过 dnf（Fedora/Bazzite 包管理器）安装缺失的二进制文件。
+- [bun-runtime](https://clawskills.sh/skills/rabin-thami-bun-runtime) - Bun 运行时的文件系统、进程和 HTTP 服务能力。
+- [cacheforge-stats](https://clawskills.sh/skills/tkuehnl-cacheforge-stats) - CacheForge 终端仪表盘，显示使用量、节省金额和性能指标。
+- [camsnap](https://clawskills.sh/skills/steipete-camsnap) - 从 RTSP/ONVIF 摄像头捕获帧或视频片段。
+- [canvas-lms](https://clawskills.sh/skills/pranavkarthik10-canvas-lms) - 访问 Canvas LMS 获取课程数据、作业等信息。
+- [captcha-ai](https://clawskills.sh/skills/fusionlabssource-captcha-ai) - 发起 ClawPrint 反验证码挑战以验证人类身份。
+- [cast](https://clawskills.sh/skills/tezatezaz-cast) - 通过 cast 管理 EVM 钱包、交易和网络辅助功能；涵盖入门引导、余额查询和转账。

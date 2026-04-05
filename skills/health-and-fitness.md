@@ -2,36 +2,35 @@
 
 > Health & Fitness
 
-追踪营养摄入、锻炼记录、睡眠质量、心率数据，提供个性化健康建议和健身计划。
+健康与健身类 Skill 涵盖运动训练追踪、饮食记录、营养计算、健康数据整合等场景，帮助 AI 代理监测和管理用户的健康指标。
 
 ## Skills
 
-- [apple-health-skill](https://clawskills.sh/skills/nftechie-apple-health-skill) - 查询 Apple Health 数据，询问锻炼记录、心率、活动圆环和健身趋势。
-- [health-summary](https://clawskills.sh/skills/yusaku-0426-health-summary) - 生成每日/每周/每月的健康摘要，包含营养总计、目标对比和趋势分析。
-- [health-sync](https://clawskills.sh/skills/filipe-m-almeida-health-sync) - 跨 Oura、Withings、Hevy、Strava、WHOOP 和 Eight Sleep 分析同步健康数据。
-- [health-guardian](https://clawskills.sh/skills/cgtreadw-health-guardian) - AI 代理主动健康监测。
-- [garmin-health](https://clawskills.sh/skills/eversonl-garmin-health-analysis) - 自然语言查询 Garmin 数据——"我的..."
-- [garmin-cli](https://clawskills.sh/skills/voydz-garmin-cli) - 通过非交互式 CLI 访问 Garmin Connect 健康、健身和活动数据。
-- [garmer](https://clawskills.sh/skills/garrza-garmer) - 从 Garmin Connect 提取健康和健身数据，包括活动记录。
-- [fitbit](https://clawskills.sh/skills/mjrussell-fitbit) - 查询 Fitbit 健康数据，包括睡眠、心率、活动、血氧。
-- [fitbit-analytics](https://clawskills.sh/skills/kesslerio-fitbit-analytics) - Fitbit 健康和健身数据集成与分析。
-- [oura-analytics](https://clawskills.sh/skills/kesslerio-oura-analytics) - Oura Ring 数据集成和分析。
-- [hevy](https://clawskills.sh/skills/mjrussell-hevy) - 查询 Hevy 锻炼数据，包括锻炼、训练计划、动作。
-- [intervals-icu](https://clawskills.sh/skills/pseuss-intervals-icu-api) - 访问和管理训练数据的完整指南。
-- [cookidoo](https://clawskills.sh/skills/thekie-cookidoo) - 访问 Cookidoo（Thermomix）食谱、购物清单和膳食计划。
-- [mealie-api](https://clawskills.sh/skills/angusthefuzz-mealie-api) - 与 Mealie 食谱管理器交互（食谱、购物清单、膳食计划）。
-- [recipe-finder](https://clawskills.sh/skills/harshasic-recipe-finder) - 使用 TheMealDB 免费 API 按食材、菜系或饮食偏好查找食谱。
-- [calorie-counter](https://clawskills.sh/skills/cnqso-calorie-counter) - 追踪每日卡路里和蛋白质摄入，设置目标并记录。
-- [diet-tracker](https://clawskills.sh/skills/yonghaozhao722-diet-tracker) - 追踪每日饮食并计算营养信息。
-- [fasting-tracker](https://clawskills.sh/skills/jhillin8-fasting-tracker) - 追踪间歇性禁食窗口和延长禁食。
-- [muscle-gain](https://clawskills.sh/skills/jhillin8-muscle-gain) - 追踪肌肉增长，包含体重进阶和蛋白质追踪。
-- [detox-counter](https://clawskills.sh/skills/jhillin8-detox-counter) - 使用可自定义计数器追踪任何排毒计划，记录症状。
-- [opencal](https://clawskills.sh/skills/neikfu-opencal) - 在 OpenCal 应用中记录餐食、检查营养进度和管理卡路里目标——通过 AI 代理免手动操作。
-- [feast](https://clawskills.sh/skills/smadgerano-feast) - 全面的膳食计划系统，包含文化主题、真实食谱。
-- [feed-diet](https://clawskills.sh/skills/tkuehnl-feed-diet) - 审计 HN 和 RSS 订阅的信息摄入——生成美观的报告，包含分类分解和 ASCII 图表。
-- [endurance-coach](https://clawskills.sh/skills/shiv19-endurance-coach) - 创建个性化铁人三项、马拉松和超耐力训练计划。
-- [soft-pillow](https://clawskills.sh/skills/kivs-soft-pillow) - 当用户询问睡眠数据、梦境历史或想查询 Soft Pillow 睡眠记录时使用。
-- [huckleberry](https://clawskills.sh/skills/jayhickey-huckleberry) - 通过 Huckleberry 追踪宝宝睡眠、喂养、尿布和成长。
-- [bring-recipes](https://clawskills.sh/skills/darkdevelopers-bring-recipes) - 当用户想浏览食谱灵感时使用。
-- [gevety](https://clawskills.sh/skills/moclippa-gevety) - 访问 Gevety 健康数据——生物标志物、健康寿命评分、生物学年龄。
-- [ct-health-guardian](https://clawskills.sh/skills/ctsolutionsdev-ct-health-guardian) - AI 代理主动健康监测。
+- [31third-safe-rebalancer-simple](https://clawskills.sh/skills/phips0812-31third-safe-rebalancer-simple) - 使用链上 31Third 策略的一步式 Safe 重新平衡工具
+- [anthrovision-telegram-body-scan](https://clawskills.sh/skills/dr2101-anthrovision-telegram-body-scan) - 在 Telegram 中使用 AnthroVision 桥接工具运行端到端身体扫描测量流程
+- [aperture](https://clawskills.sh/skills/roasbeef-aperture) - 安装并运行 Aperture——Lightning Labs 出品的 L402 Lightning 反向代理
+- [arc-skill-sandbox](https://clawskills.sh/skills/trypto1019-arc-skill-sandbox) - 在安装前于隔离环境中测试不受信任的 Skill
+- [auto-improve](https://clawskills.sh/skills/mcben90-auto-improve) - 通过错误学习和模式识别实现自动化自我改进
+- [autonomous-agent](https://clawskills.sh/skills/josephrp-autonomous-agent) - 面向 AI 代理的 CornerStone MCP x402 技能
+- [bountyhub-agent](https://clawskills.sh/skills/nativ3ai-bountyhub-agent) - 将 H1DR4 BountyHub 用作代理：创建任务、提交成果、发起争议、投票并领取托管支付
+- [bring-recipes](https://clawskills.sh/skills/darkdevelopers-bring-recipes) - 当用户想浏览食谱灵感时使用
+- [calorie-counter](https://clawskills.sh/skills/cnqso-calorie-counter) - 追踪每日卡路里和蛋白质摄入量，支持设定目标并记录日志
+- [capa-officer](https://clawskills.sh/skills/alirezarezvani-capa-officer) - 医疗器械 QMS 系统中的 CAPA（纠正与预防措施）管理
+- [clawdhub-contributor](https://clawskills.sh/skills/starbuck100-clawdhub-contributor) - 为 ClawdHub 生态系统做贡献
+- [cookidoo](https://clawskills.sh/skills/thekie-cookidoo) - 访问 Cookidoo（Thermomix）食谱、购物清单和膳食规划
+- [critpt-solver](https://clawskills.sh/skills/wanng-ide-critpt-solver) - 验证并执行 CritPt 基准测试问题的 Python 解决方案
+- [crunch-coordinate](https://clawskills.sh/skills/philippwassibauer-crunch-coordinate) - 管理 Crunch 协调者、竞赛、奖励、检查点、质押或 Cruncher 账户
+- [crypto-hackathon](https://clawskills.sh/skills/swairshah-crypto-hackathon) - 参与 USDC 黑客松，提交项目或投票（三个赛道：智能合约、Skill 等）
+- [ct-health-guardian](https://clawskills.sh/skills/ctsolutionsdev-ct-health-guardian) - AI 代理的主动健康监控
+- [curriculum-generator](https://clawskills.sh/skills/tarasinghrajput-curriculum-generator) - 智能教育课程生成系统，带严格步骤执行和人工升级策略
+- [customer-onboarding-2](https://clawskills.sh/skills/jk-0001-customer-onboarding-2) - 设计并执行促进用户激活与留存的用户入职流程
+- [detox-counter](https://clawskills.sh/skills/jhillin8-detox-counter) - 使用可自定义计数器追踪排毒计划，并记录症状
+- [diet-tracker](https://clawskills.sh/skills/yonghaozhao722-diet-tracker) - 追踪每日饮食并计算营养信息
+- [efka-api-integration](https://clawskills.sh/skills/satoshistackalotto-efka-api-integration) - 希腊社会保障（EFKA）集成——员工记录、缴款计算、APD 申报
+- [egvert-health-guardian](https://clawskills.sh/skills/ctsolutionsdev-egvert-health-guardian) - AI 的主动健康监控
+- [endurance-coach](https://clawskills.sh/skills/shiv19-endurance-coach) - 为用户创建个性化铁人三项、马拉松和超耐力训练计划
+- [eth24](https://clawskills.sh/skills/patmilkgallon-eth24) - ETH24 每日摘要工具，为配置主题筛选热门推文
+- [fasting-tracker](https://clawskills.sh/skills/jhillin8-fasting-tracker) - 追踪间歇性禁食窗口期和长期断食
+- [feast](https://clawskills.sh/skills/smadgerano-feast) - 带文化主题和地道食谱的综合膳食计划系统
+- [feed-diet](https://clawskills.sh/skills/tkuehnl-feed-diet) - 审核 HN 和 RSS 订阅的信息摄入——提供分类明细和 ASCII 图表的精美报告
+- [fitbit](https://clawskills.sh/skills/mjrussell-fitbit) - 查询 Fitbit 健康数据，包括睡眠、心率、活动和血氧

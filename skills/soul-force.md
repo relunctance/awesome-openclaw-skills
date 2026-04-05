@@ -1,58 +1,29 @@
-# soul-force
+# Soul Force
 
-> AI Agent Memory Evolution System
+> AI Agent 记忆进化系统
 
-**The Problem:** OpenClaw agents don't automatically update SOUL.md, USER.md, or IDENTITY.md. They stay static forever. Every correction you give is forgotten by the next session. Manual updates are tedious and error-prone.
+**问题：** OpenClaw 智能体不会自动更新 SOUL.md、USER.md 或 IDENTITY.md。它们永远保持静态。你给出的每次纠正都会在下一个会话中被遗忘。手动更新既繁琐又容易出错。
 
-**The Solution:** SoulForce continuously analyzes your agent's memory, discovers patterns, and auto-evolves identity files. Your AI gets genuinely smarter over time — without manual editing.
+**解决方案：** SoulForce 持续分析智能体的记忆，发现模式，并自动进化身份文件。你的 AI 会随着时间推移真正变得更聪明——无需手动编辑。
 
-**Author:** @relunctance
-**Repository:** https://github.com/relunctance/soul-force
+**作者:** @relunctance  
+**仓库:** https://github.com/relunctance/soul-force
 
-## Installation
+## 功能特点
 
-```bash
-clawhub install soul-force --force
-```
+- 基于重复行为模式自动进化 SOUL.md
+- 在 USER.md 中追踪用户偏好
+- 在 MEMORY.md 中记录重要决策
+- 支持多智能体隔离
+- 完整备份和回滚支持
+- Changelog 追踪所有进化历史
 
-## Usage
+## 解决的问题
 
-SoulForce runs periodically to analyze memory sources and update identity files:
-
-```bash
-# Run evolution
-soulforge.py run
-
-# Preview changes
-soulforge.py run --dry-run
-
-# Check status
-soulforge.py status
-```
-
-## Features
-
-- Automatically evolves SOUL.md based on repeated behavior patterns
-- Tracks user preferences in USER.md
-- Records important decisions in MEMORY.md
-- Supports multi-agent isolation
-- Full backup and rollback support
-- Changelog tracks all evolution history
-
-## The Pain It Solves
-
-| Before | After |
-|--------|-------|
-| SOUL.md written once, never changes | Auto-evolves from memory patterns |
-| Same correction repeated 10 times | Pattern detected, auto-fixed after 3× |
-| User preferences forgotten | Auto-tracked in USER.md |
-| Manual updates are tedious | Cron automation, zero effort |
-| AI never gets smarter | Actually learns from every session |
-
-## Use Cases
-
-- Your AI learns from corrections automatically
-- User preferences are never forgotten
-- Team knowledge persists across sessions
-- Multi-agent memory stays clean and isolated
-- Zero-effort continuous improvement
+| 之前 | 之后 |
+|------|------|
+| SOUL.md 写一次，永不改变 | 基于记忆模式自动进化 |
+| 同样的纠正重复 10 次 | 检测到模式，3次后自动修复 |
+| 用户偏好被遗忘 | 在 USER.md 中自动追踪 |
+| 手动更新繁琐 | Cron 自动化，零努力 |
+| AI 永远不会变聪明 | 真正从每个会话中学习 |

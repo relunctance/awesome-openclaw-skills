@@ -1,29 +1,22 @@
-# task-decomposer
+# Task Decomposer
 
 > Break down complex tasks into actionable steps
 
-Automatically decomposes large tasks into smaller, manageable subtasks with clear dependencies.
+将复杂任务自动分解为更小、可管理的子任务，并明确它们之间的依赖关系。
 
-**Author:** @openclaw  
-**Repository:** https://clawhub.ai/skills/task-decomposer
+**作者:** @openclaw  
+**仓库:** https://clawhub.ai/skills/task-decomposer
 
-## Installation
+## 功能特点
 
-```bash
-clawhub install task-decomposer
-```
+- 识别子组件
+- 确定依赖关系
+- 估算工作量
+- 创建执行计划
 
-## Usage
+## 使用场景
 
-When given a complex task, use this skill to:
-- Identify sub-components
-- Determine dependencies
-- Estimate effort
-- Create execution plan
-
-## Use Cases
-
-- Large project planning
-- Sprint planning
-- Complex feature breakdown
-- Technical design
+- 大型项目规划
+- 冲刺规划
+- 复杂功能拆解
+- 技术设计
