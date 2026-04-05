@@ -102,10 +102,10 @@
 - [cfshare](https://clawhub.ai/ystemsrx/cfshare) - 使用 cfshare Cli 到 expose 本地 ports files 作为 temporary Cloudflare Quick Tunnel URLs.
 - [checkly-cli-skills](https://clawhub.ai/vince/winkintel-checkly-cli-skills) - Comprehensive Checkly Cli 命令 reference 和 Monitoring 作为 代码 workflows.
 - [citrineos-assistant](https://clawhub.ai/enenkov/citrineos-assistant) - 安装, 配置, 和 管理 CitrineOS (EV charging OCPP) 通过 natural language.
-- [clash-node-manager](https://clawhub.ai/yonghaozhao722/clash-node-manager) - Manages Clash proxy nodes.
+- [clash-node-manager](https://clawhub.ai/yonghaozhao722/clash-node-manager) - 管理 Clash 代理节点，控制网络流量和代理规则。
 - [claude-tmux-runner](https://clawhub.ai/xaiohuangningde/claude-tmux-runner) - Claude 代码 parallel 任务 manager 使用 tmux backend.
 - [claude-watchdog](https://clawhub.ai/chapati23/claude-watchdog) - 监控 Claude Api 为 outages 和 latency spikes 使用 rich Telegram alerts.
-- [claudemem](https://clawhub.ai/zelinewang/claudemem) - Persistent memory that survives across conversations.
+- [claudemem](https://clawhub.ai/zelinewang/claudemem) - 持久化记忆存储工具，支持跨会话保持上下文信息。
 - [cli-deadline-monitor](https://clawhub.ai/satoshistackalotto/cli-deadline-monitor) - Cli 工具 为 tracking Greek tax deadlines (AADE, EFKA)
 - [client-intake-bot-pro](https://clawhub.ai/kambrosgroup/client-intake-bot-pro) - Automated 客户端 qualification 和 intake 系统.
 - [cloudflare-guard](https://clawhub.ai/guifav/cloudflare-guard) - Configures 和 manages Cloudflare Dns, caching, 安全 rules, rate limiting, 和 Workers.
@@ -122,7 +122,7 @@
 - [compost-tracker](https://clawhub.ai/johstracke/compost-tracker) - 追踪 compost piles, 监控 temperature, record turns, 和 管理 your organic waste decomposition.
 - [construction-pm](https://clawhub.ai/yoder/bawt-construction-pm) - Construction 项目 management toolkit 为 AI agents.
 - [content-watcher](https://clawhub.ai/su707181393/del-content-watcher) - AI powered 内容 monitoring 和 summarization 工具.
-- [cotizaciones-pix-comparapix](https://clawhub.ai/ferminrp/cotizaciones-pix-comparapix) - Consulta cotizaciones Pix en ComparaPix para comparar apps por simbolo y precio.
+- [cotizaciones-pix-comparapix](https://clawhub.ai/ferminrp/cotizaciones-pix-comparapix) - 通过 ComparaPix 查询 Pix 汇率，比较不同应用的汇率信息。 y precio.
 - [coupler-io](https://clawhub.ai/nika/is-nika-coupler-io) - 读取 仅 数据 访问 通过 Coupler. io's MCP 服务器.
 - [courtroom](https://clawhub.ai/assassin/1234-courtroom) - AI Courtroom 为 behavioral oversight.
 - [crash-fixer](https://clawhub.ai/ryce/crash-fixer) - Autonomous crash analysis 和 bug fixing.
@@ -211,12 +211,12 @@
 - [lofy-career](https://clawhub.ai/harrey401/lofy-career) - 作业 搜索 automation 为 Lofy AI 助手 应用 tracking, resume tailoring 到 作业 descriptions.
 - [lofy-life-coach](https://clawhub.ai/harrey401/lofy-life-coach) - Personal accountability 系统 为 Lofy AI 助手 morning briefings, evening reviews, 每周 reports, goal.
 - [log-dive](https://clawhub.ai/tkuehnl/log-dive) - Unified 日志 搜索 across Loki, Elasticsearch, 和 CloudWatch.
-- [lraivisto-researchvault](https://clawhub.ai/lraivisto/lraivisto-researchvault) - High velocity research orchestration engine.
-- [lygo-champion-sephrael-echo-walker](https://clawhub.ai/deepseekoracle/lygo-champion-sephrael-echo-walker) - LYGO Δ9 Council Champion persona helper (SEPHRAEL, Vault Cracker Echo Walker)
+- [lraivisto-researchvault](https://clawhub.ai/lraivisto/lraivisto-researchvault) - 研究库高速编排引擎，快速整合和分析研究资料。
+- [lygo-champion-sephrael-echo-walker](https://clawhub.ai/deepseekoracle/lygo-champion-sephrael-echo-walker) - LYGO Δ9 Council Champion 角色扮演助手，提供游戏角色扮演支持。
 - [lygo-lightfather-vector](https://clawhub.ai/deepseekoracle/lygo-lightfather-vector) - Lightfather (Excavationpro Justin Helmer) persona helper 为 Δ9Quantum Light Accord.
 - [lyrion-music-skill](https://clawhub.ai/photonixlaser/ux-lyrion-music-skill) - Steuere Lyrion Music 服务器 (LMS) über die Json RPC Api.
 - [makefile-build](https://clawhub.ai/gitgoodordietrying/makefile-build) - 写入 Makefiles 为 任何 项目 type.
-- [mampe-industrial-core](https://clawhub.ai/mampe/industrial-mampe-industrial-core) - Rolle: Digitaler Senior Consultant und technischer Repräsentant für Ing.
+- [mampe-industrial-core](https://clawhub.ai/mampe/industrial-mampe-industrial-core) - 数字化高级顾问和技术代表，负责德国市场技术咨询。g.
 - [masterswarm](https://clawhub.ai/contrario/masterswarm) - 分析 任何 文档 使用 15 parallel AI engines 通过 MasterSwarm 云 Api.
 - [masumi](https://clawhub.ai/sarthib7/masumi) - 启用 AI agents 到 accept Cardano blockchain payments through decentralized Masumi 网络 通过 deploying.
 - [materials-cli](https://clawhub.ai/cai/zhuo-materials-cli) - 渲染 Json schemas 到 images 和 生成 schemas 从 prompts 使用 declare 渲染 和 AI.
@@ -232,7 +232,7 @@
 - [mini-diary](https://clawhub.ai/printxdreams/mini-diary) - AI powered minimal diary 使用 smart auto tagging 和 optional 云 同步.
 - [mixtiles-monthly](https://clawhub.ai/saharcarmel/mixtiles-monthly) - Automated 每月 photo 到 Mixtiles 管道.
 - [mlx-local-inference](https://clawhub.ai/bendusy/mlx-local-inference) - Full 本地 AI 推理 stack 在 Apple Silicon Macs 通过 MLX.
-- [mobilerun](https://clawhub.ai/johnmalek312/mobilerun) - Control real Android phones through Mobilerun Api.
+- [mobilerun](https://clawhub.ai/johnmalek312/mobilerun) - 通过 Mobilerun API 控制真实的安卓手机设备。
 - [monitored-ralph-loop](https://clawhub.ai/endogen/monitored-ralph-loop) - 生成 复制 paste bash scripts 为 Ralph Wiggum AI 智能体 loops (Codex, Claude 代码, OpenCode, Goose)
 - [morpho-earn](https://clawhub.ai/lyoungblood/morpho-earn) - Earn yield 在 USDC 通过 supplying 到 Moonwell Flagship USDC vault 在 Morpho (Base)
 - [mqttasgi](https://clawhub.ai/sivulich/mqttasgi) - MQTT ASGI 协议 服务器 为 Django bridge MQTT messages 到 Django Channels consumers 使用 full ORM, Channel.
@@ -308,7 +308,7 @@
 - [self-monitor](https://clawhub.ai/suryast/self-monitor) - Proactive self monitoring 的 infrastructure, services, 和 health.
 - [server-health-agent](https://clawhub.ai/sanjay/gthb-server-health-agent) - 监控 VPS 和 服务器 health metrics including real 时间 Cpu usage, Ram utilization, disk usage, 和 Docker.
 - [service-watchdog](https://clawhub.ai/mariusfit/service-watchdog) - 轻量 服务 和 endpoint monitoring 为 self hosted infrastructure.
-- [setuporion-byimpa](https://clawhub.ai/impa365/setuporion-byimpa) - Setup completo de VPS Ubuntu Debian para produção com Docker Swarm, Traefik v3 (Ssl Https automático), Portainer CE.
+- [setuporion-byimpa](https://clawhub.ai/impa365/setuporion-byimpa) - 完整的 VPS Ubuntu Debian 生产环境配置，支持 Docker Swarm 和 Traefik。aefik v3 (Ssl Https automático), Portainer CE.
 - [shipment-tracker](https://clawhub.ai/pfrederiksen/shipment-tracker) - 追踪 packages across carriers (USPS, UPS, FedEx, DHL, Amazon, OnTrac, LaserShip)
 - [signal-pipeline](https://clawhub.ai/mephistophelesbits/signal-pipeline) - Marketing intelligence 管道 gather signals 从 RSS, X Twitter, Telegram, 和 Gmail newsletters.
 - [skills-4](https://clawhub.ai/hubentu/skills-4) - How 到 使用 coala 客户端 Cli 为 聊天 使用 LLMs, MCP servers, 和 skills.
@@ -323,7 +323,7 @@
 - [sonic-kvm-testbed](https://clawhub.ai/yxieca/sonic-kvm-testbed) - 部署 和 管理 一个 SONiC sonic mgmt KVM virtual testbed 使用 cEOS neighbors 为 运行中 pytest based 网络 tests.
 - [sophiie](https://clawhub.ai/tomc98/sophiie) - 管理 your Sophiie sales 管道 leads, inquiries, appointments, FAQs, policies, SMS, 和 calls 通过 Sophiie.
 - [soundcloud-watcher](https://clawhub.ai/wlinds/soundcloud-watcher) - 监控 your SoundCloud 账户, 追踪 artist releases, 和 获取 notified about 新的 followers 和 likes.
-- [sovereign-api-hardener](https://clawhub.ai/ryudi84/sovereign-api-hardener) - Hardens Api endpoints against common attacks.
+- [sovereign-api-hardener](https://clawhub.ai/ryudi84/sovereign-api-hardener) - 加固 API 端点，防护常见网络攻击。
 - [sovereign-api-mock-generator](https://clawhub.ai/ryudi84/sovereign-api-mock-generator) - Generates mock Api servers 从 OpenAPI specs 或 examples.
 - [sovereign-aws-cost-optimizer](https://clawhub.ai/ryudi84/sovereign-aws-cost-optimizer) - Analyzes Aws infrastructure 为 cost savings.
 - [sovereign-project-guardian](https://clawhub.ai/ryudi84/sovereign-project-guardian) - 项目 health 和 best practices enforcer.
@@ -362,9 +362,9 @@
 - [twhidden-bitwarden](https://clawhub.ai/twhidden/twhidden-bitwarden) - Bitwarden Vaultwarden 密码 manager integration.
 - [valtec-tts](https://clawhub.ai/tronghieuit/valtec-tts) - 本地 Vietnamese text 到 speech 通过 VITS2 (离线, 否 云)
 - [vault](https://clawhub.ai/zuiho/kai-vault) - 安全 本地 密码 存储 工具 使用 AES 256 GCM 加密.
-- [vault-research](https://clawhub.ai/lraivisto/vault-research) - High velocity research orchestration engine.
-- [vault-research-brain](https://clawhub.ai/lraivisto/vault-research-brain) - High velocity research orchestration engine.
-- [vaultresearch](https://clawhub.ai/lraivisto/vaultresearch) - High velocity research orchestration engine.
+- [vault-research](https://clawhub.ai/lraivisto/vault-research) - 保险库研究引擎，安全存储和检索研究数据。
+- [vault-research-brain](https://clawhub.ai/lraivisto/vault-research-brain) - 保险库研究大脑，智能关联和组织研究发现。
+- [vaultresearch](https://clawhub.ai/lraivisto/vaultresearch) - 研究编排工具，自动化研究工作流程。
 - [vibetrader](https://clawhub.ai/etbars/vibetrader) - 创建 和 管理 AI powered trading bots 通过 natural language.
 - [visa-business-planner](https://clawhub.ai/calbabyjr/visa-business-planner) - This skill helps users 创建 comprehensive business plans 为 obtaining 一个 Japanese Business Manager Visa.
 - [vision-tagger](https://clawhub.ai/sagarjhaa/vision-tagger) - Tag 和 annotate images 使用 Apple Vision framework (macOS 仅)

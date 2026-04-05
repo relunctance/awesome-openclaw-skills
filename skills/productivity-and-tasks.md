@@ -97,7 +97,7 @@
 - [exchange-2010-ews](https://clawhub.ai/pes0/exchange-2010-ews) - Exchange 2010 EWS integration 为 emails, 日历, contacts, 和 tasks.
 - [exchange2010](https://clawhub.ai/pes0/exchange2010) - Exchange 2010 EWS integration 为 emails, 日历, contacts, 和 tasks.
 - [facticity-ai](https://clawhub.ai/shahruj/facticity-ai) - 完整 Facticity. AI integration fact 检查 claims, 提取 claims 从 内容, 转录 links, 检查 链接.
-- [facture-make](https://clawhub.ai/cimes19/facture-make) - Ce skill permet de générer et d'envoyer des factures professionnelles vers Make. com après une étape de confirmation.
+- [facture-make](https://clawhub.ai/cimes19/facture-make) - 通过 Make.com 生成和发送专业发票，支持确认步骤后自动发送。
 - [family-todo-management](https://clawhub.ai/thurendous/family-todo-management) - 管理 family todo lists 使用 multi 用户 支持.
 - [farm-task-manager](https://clawhub.ai/johstracke/farm-task-manager) - 每天, 每周, 和 seasonal farm chore management 使用 任务 scheduling 和 priorities..
 - [farmos-tasks](https://clawhub.ai/brianppetty/farmos-tasks) - Query 和 管理 farm work orders 和 tasks.

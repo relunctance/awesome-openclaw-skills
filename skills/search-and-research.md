@@ -63,7 +63,7 @@
 - [bagman](https://clawhub.ai/zscole/bagman) - 为人工智能代理提供安全的密钥管理。
 - [baidu-scholar-search](https://clawhub.ai/jlpjavawayup/baidu-scholar-search) - 百度学术搜索工具启用。
 - [baidu-search](https://clawhub.ai/ide/rea-baidu-search) - 使用百度人工智能搜索引擎（ BDSE ）搜索网页。
-- [bambu-lab-skill](https://clawhub.ai/photonixlaser/ux-bambu-lab-skill) - Steuere Bambu Lab 3D-Drucker （ A1、P1P、X1 ） über MQTT。
+- [bambu-lab-skill](https://clawhub.ai/photonixlaser/ux-bambu-lab-skill) - 通过 MQTT 控制 Bambu Lab 3D 打印机（A1、P1P、X1）。
 - [beepctl](https://clawhub.ai/blqke/beepctl) - 在发送消息、搜索聊天或管理对话时使用。
 - [benos-memory-core](https://clawhub.ai/benmjohnson69/benos-memory-core) - 适用于BenOS代理环境的核心运行时/易失性内存模块。
 - [bing-search](https://clawhub.ai/stdeson/bing-search) - 适用于所有用户的必应搜索技能。

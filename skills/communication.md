@@ -44,7 +44,7 @@
 - [clawgang](https://clawhub.ai/syslink/clawgang) - ClawGang social skill lets your 智能体 socialize 在 clawgang. ai: post.
 - [clawring](https://clawhub.ai/marcospgp/clawring) - Real phone calls 从 your 机器人.
 - [collaboration-helper](https://clawhub.ai/crimsondevil333333/collaboration-helper) - 追踪 action items 和 coordination.
-- [communication-skill](https://clawhub.ai/aatmaan1/communication-skill) - Deep Listening Response Crafting Transform.
+- [communication-skill](https://clawhub.ai/aatmaan1/communication-skill) - 深度倾听响应构建与转换工具，用于分析和优化对话回复。
 - [composio-integration](https://clawhub.ai/rita5fr/composio-integration) - 访问 600 apps 和 services through Composio's.
 - [coordinate-meeting](https://clawhub.ai/mkelk/coordinate-meeting) - 调度 一个 meeting 为 humans 和 their agents.
 - [crunch-protocol](https://clawhub.ai/philippwassibauer/crunch-protocol) - Natural language 接口 为 Crunch 协议 Cli.
@@ -92,7 +92,7 @@
 - [lofy-projects](https://clawhub.ai/harrey401/lofy-projects) - 项目 management 为 Lofy AI 助手 tracks multiple projects 使用 milestones, priority scoring engine.
 - [lumos-auditor](https://clawhub.ai/samiru369/lumos-lumos-auditor) - social 网络 为 AI agents.
 - [m365-pnp-cli](https://clawhub.ai/thomyg/m365-pnp-cli) - Cli 为 Microsoft 365 管理 Microsoft 365 tenant, SharePoint 在线, Teams, OneDrive.
-- [malayalam-whatsapp](https://clawhub.ai/babuperumana/malayalam-whatsapp) - WhatsApp വഴ വര ന ന മലയ ള Manglish സന ദ ശങ ങൾ.
+- [malayalam-whatsapp](https://clawhub.ai/babuperumana/malayalam-whatsapp) - WhatsApp 消息管理工具，支持马尔雅姆语消息处理。
 - [meeting-coordinator](https://clawhub.ai/voshawn/meeting-coordinator) - Executive scheduling 助手 为 meeting coordination (邮件, 日历, venues, confirmations).
 - [meetlark](https://clawhub.ai/mkelk/meetlark) - Scheduling polls 为 humans 和 their agents.
 - [mh-weather](https://clawhub.ai/mohdalhashemi98/hue-mh-weather) - 获取 当前 weather 和 forecasts 通过 wttr. 在 或 打开 Meteo.
@@ -115,7 +115,7 @@
 - [pidgesms](https://clawhub.ai/typhonius/pidgesms) - 发送 和 读取 SMS text messages 通过 一个 Android phone 使用 pidge.
 - [portfolio-watcher](https://clawhub.ai/jhillin8/portfolio-watcher) - 监控 stock crypto holdings, 获取 price alerts, 追踪 portfolio performance.
 - [postwall](https://clawhub.ai/casperaiassist/postwall) - 安全 邮件 gateway 为 AI agents human 在 loop approval 为 reading 和 sending emails.
-- [price-monitor-fr](https://clawhub.ai/hugosbl/price-monitor-fr) - Surveille les prix de produits sur des sites e commerce et alerte quand ils baissent.
+- [price-monitor-fr](https://clawhub.ai/hugosbl/price-monitor-fr) - 监控电商网站产品价格，当价格下降时自动发送提醒通知。sent.
 - [publora-telegram](https://clawhub.ai/sergebulaev/publora-telegram) - Post 或 调度 内容 到 一个 Telegram channel 使用 Publora Api.
 - [qrdex](https://clawhub.ai/sebastienb/qrdex) - 创建, 管理, 和 追踪 QR codes 使用 QRdex. io Rest Api.
 - [quackgram](https://clawhub.ai/jpaulgrayson/quackgram) - 发送 和 接收 messages between AI agents 在 任何 平台 通过 QuackGram.
@@ -133,7 +133,7 @@
 - [skillguard-audit](https://clawhub.ai/jonathanliu811026/skillguard-audit) - Audit 智能体 skills 为 安全 threats before installing them.
 - [soul-generator](https://github.com/openclaw/skills/tree/main/skills/adenzhou1350/soul-generator/SKILL.md) - Personalize your 智能体 使用 dozens 的 presets.
 - [subreddit-scout](https://clawhub.ai/xammarie/subreddit-scout) - 查找 high fit subreddits 为 一个 product, 总结 rules, 和 suggest value 第一 posting angles.
-- [surf-check](https://clawhub.ai/kevinmcnamee/surf-check) - Surf forecast decision engine.
+- [surf-check](https://clawhub.ai/kevinmcnamee/surf-check) - 冲浪天气预报决策引擎，提供浪况分析和出行建议。
 - [telnyx-freemium-upgrade](https://clawhub.ai/teamtelnyx/telnyx-freemium-upgrade) - Automatically upgrade Telnyx 账户 从 freemium 到 专业 tier.
 - [teltel-send-sms-text-message](https://clawhub.ai/teltel/call-center-teltel-send-sms-text-message) - 发送 SMS text messages 通过 TelTel (teltel. io) 使用 Rest Api (API. teltel. io)
 - [tenk-connect](https://clawhub.ai/oscarcode9/tenk-connect) - 连接 your TenK 账户 到 your AI 助手.
