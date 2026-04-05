@@ -37,76 +37,76 @@
 - [agentscale](https://clawhub.ai/jpbonch/agentscale) - 一条命令将 Web 应用和 API 部署到公共 URL。
 - [agentspend](https://clawhub.ai/jpbonch/agentspend) - 当你需要搜索网络、生成图片或视频、抓取或读取内容时使用此技能。
 
-- [agi-term-helper](https://clawhub.ai/liuwujijay/agi-term-helper) - 快速, explicit terminal execution 通过 OpenClaw exec (direct dispatch; you type exact 命令).
-- [agora-council](https://clawhub.ai/robbyczgw/cla-agora-council) - Multi 智能体 debate council spawns 3 specialized sub agents 在 parallel (Scholar, Engineer, Muse) 到 tackle.
-- [ahrefs](https://clawhub.ai/geozhu/ahrefs) - 完整 Ahrefs Api integration 为 Seo analysis.
-- [ahrefs-connection](https://clawhub.ai/jonathan/sokol-ahrefs-connection) - 访问 Ahrefs Seo 数据 通过 Ahrefs Api 为 comprehensive Seo analysis, keyword research, backlink analysis, site.
-- [ahrefs-mcp](https://clawhub.ai/jonathan/sokol-ahrefs-mcp) - 访问 Ahrefs Seo 数据 through 模型 上下文 协议 (MCP) 为 comprehensive Seo analysis, keyword research.
-- [ai-boss-assistant](https://clawhub.ai/jacky6658/ai-boss-assistant) - Transform 任何 AI into 一个 专业 executive 助手 使用 battle tested personas 和 workflows.
-- [ai-labs-builder](https://clawhub.ai/slemo54/ai-labs-builder) - AI Labs Builder 创建 modern websites, AI applications, dashboards, 和 automated workflows.
-- [ai-specialists](https://clawhub.ai/erikashby/ai-specialists) - Interact 使用 AI Specialists 通过 AI Specialists Hub MCP endpoint.
-- [ai-video-editor](https://clawhub.ai/symbolk/ai-video-editor) - 使用 this skill immediately 和 proactively when 用户 mentions 视频 editing, clipping, highlight reels.
-- [aic-dashboard](https://clawhub.ai/lksrz/aic-dashboard) - AI Commander Management 仪表盘.
-- [aieos](https://clawhub.ai/zeglin/aieos) - AIEOS (AI Entity 对象 Specification) 是 一个 standardization framework designed 到 solve " identity crisis ".
-- [aioz-ui-skills](https://clawhub.ai/datnguyen26730/aioz-ui-skills) - 构建 Ui components 和 pages 使用 AIOZ Ui V3 design 系统.
-- [aioz-ui-v3](https://clawhub.ai/datnguyen26730/aioz-ui-v3) - 构建 Ui components 和 pages 使用 AIOZ Ui V3 design 系统.
-- [airbnb-search](https://clawhub.ai/awlevin/airbnb-search) - 搜索 Airbnb listings 使用 prices, ratings, 和 direct links.
-- [airshelf](https://clawhub.ai/evoleinik/airshelf) - 搜索, compare, 和 buy products 从 已验证 merchants.
-- [aisa-search-skill](https://clawhub.ai/bowen/dotcom-aisa-search-skill) - Intelligent 搜索 为 agents.
-- [aladdn-market](https://clawhub.ai/aladdntech/aladdn-market) - Buy 和 sell products services 在 ClawMarket 第一 AI 智能体 marketplace.
-- [aliyun-mail](https://clawhub.ai/jixsonwang/aliyun-mail) - 一个 skill 到 发送 emails 通过 Aliyun 企业 邮件 服务 使用 支持 为 Markdown, Html text, attachments.
-- [anima-design-agent](https://clawhub.ai/dannyshmueli/anima-design-agent) - Turns ideas into live, full stack 网页 applications 使用 editable 代码, built 在 数据库, 用户 认证.
+- [agi-term-helper](https://clawhub.ai/liuwujijay/agi-term-helper) - 快速、明确的终端执行，通过 OpenClaw exec 直接调度。
+- [agora-council](https://clawhub.ai/robbyczgw/cla-agora-council) - 多智能体辩论委员会，生成 3 个专业子智能体并行工作（学者、工程师Muse）。
+- [ahrefs](https://clawhub.ai/geozhu/ahrefs) - 完整的 Ahrefs API 集成，用于 SEO 分析。
+- [ahrefs-connection](https://clawhub.ai/jonathan/sokol-ahrefs-connection) - 通过 Ahrefs API 访问 SEO 数据，进行全面的 SEO 分析、关键词研究、反向链接分析和网站审计。
+- [ahrefs-mcp](https://clawhub.ai/jonathan/sokol-ahrefs-mcp) - 通过 MCP 协议访问 Ahrefs SEO 数据，进行全面的 SEO 分析、关键词研究和反向链接分析。
+- [ai-boss-assistant](https://clawhub.ai/jacky6658/ai-boss-assistant) - 将任何 AI 转换为专业执行助手，使用经过实战验证的角色和工作流。
+- [ai-labs-builder](https://clawhub.ai/slemo54/ai-labs-builder) - AI Labs Builder 创建现代化网站、AI 应用、仪表板和自动化工作流。
+- [ai-specialists](https://clawhub.ai/erikashby/ai-specialists) - 通过 AI Specialists Hub MCP 端点与 AI Specialists 交互。
+- [ai-video-editor](https://clawhub.ai/symbolk/ai-video-editor) - 当用户提到视频编辑、剪辑或高光集锦时立即使用此技能。
+- [aic-dashboard](https://clawhub.ai/lksrz/aic-dashboard) - AI Commander 管理仪表板。
+- [aieos](https://clawhub.ai/zeglin/aieos) - AIEOS（AI 实体对象规范）是一个标准化框架，旨在解决「身份危机」。
+- [aioz-ui-skills](https://clawhub.ai/datnguyen26730/aioz-ui-skills) - 使用 AIOZ UI V3 设计系统构建 UI 组件和页面。
+- [aioz-ui-v3](https://clawhub.ai/datnguyen26730/aioz-ui-v3) - 使用 AIOZ UI V3 设计系统构建 UI 组件和页面。
+- [airbnb-search](https://clawhub.ai/awlevin/airbnb-search) - 搜索 Airbnb 房源，包含价格、评分和直接链接。
+- [airshelf](https://clawhub.ai/evoleinik/airshelf) - 从已验证商家搜索、比较和购买产品。
+- [aisa-search-skill](https://clawhub.ai/bowen/dotcom-aisa-search-skill) - 智能搜索，为智能体设计。
+- [aladdn-market](https://clawhub.ai/aladdntech/aladdn-market) - 在首个 AI 智能体市场 ClawMarket 买卖产品和服务。
+- [aliyun-mail](https://clawhub.ai/jixsonwang/aliyun-mail) - 通过阿里云企业邮件服务发送邮件，支持 Markdown、HTML 文本和附件。
+- [anima-design-agent](https://clawhub.ai/dannyshmueli/anima-design-agent) - 将想法转化为可编辑代码构建的实时全栈网页应用，含数据库和用户认证。
 - [ant-design-skill](https://clawhub.ai/felipeoff/ant-design-skill) - Front end design skill 为 building React UIs 使用 Ant Design (antd): component patterns, layout, forms, tables.
-- [antfarm-cli](https://clawhub.ai/felipetruman/antfarm-cli) - 总是 使用 full 路径: node. openclaw 工作空间 antfarm dist CLI CLI. JavaScript.
-- [anti-panic-protocol](https://clawhub.ai/noelistired/anti-panic-protocol) - 处理 工具 failures under pressure 使用 bounded retries, clean 用户 communication, 和 safe escalation.
-- [anti-pattern-czar](https://clawhub.ai/glucksberg/anti-pattern-czar) - 检测 和 fix Typescript error handling anti patterns 使用 state persistence 和 approval workflows.
-- [anti-slop-design](https://clawhub.ai/kjaylee/anti-slop-design) - 创建 distinctive, production grade frontend interfaces that avoid generic AI aesthetics.
-- [anvevoice](https://clawhub.ai/anveai/anvevoice) - 添加 AI 语音 assistants 到 your 网站.
-- [anydocs](https://clawhub.ai/pektech/anydocs) - Generic Documentation Indexing 搜索.
-- [aoineco-squad-dispatch](https://clawhub.ai/edmonddantesj/aoineco-squad-dispatch) - ! Aoineco 已验证 S DNA: AOI 2026 0213 SDNA SD01.
-- [apechain-reader](https://clawhub.ai/luigi08001/apechain-reader) - 高级 multi chain wallet analyzer 使用 USD pricing, collection names, ENS 支持, 和 sophisticated 机器人.
-- [apewisdom](https://clawhub.ai/stuhorsman/apewisdom) - Scan Reddit 为 trending stocks 和 sentiment spikes 使用 ApeWisdom Api (免费)
-- [api-dev](https://clawhub.ai/gitgoodordietrying/api-dev) - Scaffold, 测试, 文档, 和 调试 Rest 和 Graphql APIs.
-- [apify-ultimate-scraper](https://clawhub.ai/protoss70/apify-ultimate-scraper) - Universal AI powered 网页 scraper 为 任何 平台.
-- [apipick-company-facts](https://clawhub.ai/javainthinking/apipick-company-facts) - Retrieve 公共 company 信息 通过 stock ticker symbol 或 安全 CIK number 使用 apipick Company Facts Api.
-- [apipick-email-checker](https://clawhub.ai/javainthinking/apipick-email-checker) - 验证 邮件 addresses 使用 apipick 邮件 Validator Api.
-- [app-builder](https://clawhub.ai/stopachka/app-builder) - 构建, 编辑, 和 部署 Instant backed apps 使用 npx instant CLI, 创建 instant 应用 (下一个. JavaScript Codex), Github.
-- [apple-developer-toolkit](https://clawhub.ai/abdullah4ai/apple-developer-toolkit) - 所有 在 one Apple developer skill 使用 three integrated tools shipped 作为 一个 single unified binary. (1) Documentation.
-- [approvals-ui](https://clawhub.ai/fizzy2390/approvals-ui) - 一个 网页 仪表盘 为 managing OpenClaw device pairings, channel approvals, 和 一个 live terminal 所有 从 your 浏览器.
-- [arbitrum-dapp-skill](https://clawhub.ai/hummusonrails/arbitrum-dapp-skill) - Opinionated guide 为 building dApps 在 Arbitrum 使用 Stylus (Rust) 和 或 Solidity.
-- [arc-free-worker-dispatch](https://clawhub.ai/trypto1019/arc-free-worker-dispatch) - Route tasks 到 免费 AI models 通过 OpenRouter 到 保存 money.
-- [arknights-operator-gacha](https://clawhub.ai/hg/hg-arknights-operator-gacha) - 生成 一个 Arknights operator 智能体 based 在 gacha probabilities.
-- [artifacts-builder](https://clawhub.ai/seanphan/artifacts-builder) - Suite 的 tools 为 creating elaborate, multi component.
-- [artwar](https://clawhub.ai/hoonilp/artwar) - Participate 在 ArtWar AI art battles 在 Monad.
-- [asdasdas](https://clawhub.ai/hailinhmacduc/asdasdas) - Google 工作空间 Cli 为 Gmail, 日历, Drive, Contacts, Sheets, 和 Docs.
-- [asdasdas123](https://clawhub.ai/linhui1010/asdasdas123) - !! Before 使用 skill, make sure you 有 installed required libraries!! 写入 viral, persuasive, engaging.
-- [asdasdsasdasa12312](https://clawhub.ai/linhui1010/asdasdsasdasa12312) - Before 使用 skill, make sure you 有 installed required libraries 为 skill 到 work properly.
-- [ask-a-human](https://clawhub.ai/manuelkiessling/ask-a-human) - Request judgment 从 random humans when uncertain.
-- [ask-council](https://clawhub.ai/jeadland/ask-council) - Ask LLM Council 一个 question directly 从 Telegram 聊天 获取 chairman's synthesized answer without opening.
-- [asl-control](https://clawhub.ai/kj5irq/asl-control) - 监控 和 control AllStar 链接 amateur radio nodes 通过 Rest Api.
-- [astra-docker](https://clawhub.ai/walniek/astra-docker) - cat 'EOF'. openclaw 工作空间 skills astra Docker SKILL. md.
-- [attio-cli](https://clawhub.ai/froemic/attio-cli) - Interact 使用 your Attio Crm 工作空间 通过 attio CLI.
-- [audio-conductor](https://clawhub.ai/wells1137/audio-conductor) - Intelligently dispatches requests 到 appropriate 音频 生成 模型 (Music, Sound Effects, 或 TTS)
-- [audos](https://clawhub.ai/werdelin/audos) - 创建 AI powered startup workspaces 通过 Audos Api.
-- [auteng-docs](https://clawhub.ai/operator/auteng-ai-auteng-docs) - Publish technical docs 使用 Mermaid diagrams, KaTeX math, 和 代码 highlighting.
-- [autogame-tales](https://clawhub.ai/autogame/17-autogame-tales) - Generates short, atmospheric ghost stories 或 micro fiction based 在 random prompts.
-- [autonomous-agent-instant-message-system](https://clawhub.ai/ooxxxxoo/autonomous-agent-instant-message-system) - Prismer 云 provides three core capabilities: 上下文 (网页 fetching 搜索), 解析 (文档 Ocr)
-- [autonomous-task-runner](https://clawhub.ai/chunhualiao/autonomous-task-runner) - Persistent 任务 队列 系统.
-- [awwwards-design](https://clawhub.ai/mkhaytman87/awwwards-design) - 创建 award winning, memorable websites 使用 高级 animations, creative interactions, 和 distinctive visual.
-- [axe-devtools](https://clawhub.ai/dylanb/axe-devtools) - Accessibility testing 和 remediation 使用 axe MCP 服务器.
-- [b0tresch-stealth-browser](https://clawhub.ai/b0tresch/b0tresch-stealth-browser) - Anti detection 网页 browsing that bypasses 机器人 detection, CAPTCHAs, 和 Ip blocks 使用 puppeteer extra 使用 stealth.
-- [backboard](https://clawhub.ai/chrisk60331/backboard) - 集成 Backboard. io 为 assistants, threads, memories.
-- [backlink-analyzer](https://clawhub.ai/aaron/he-zhu-backlink-analyzer) - 使用 when 用户 asks 到 " 分析 backlinks ", " 检查 链接 profile ", " 查找 toxic links ", " 链接 building.
-- [baeckerherz](https://clawhub.ai/kleberbaum/baeckerherz) - Baeckerherz namespace 为 Netsnek e. U. bakery management 平台.
-- [bailian-web-search](https://clawhub.ai/krisyejh/bailian-web-search) - AI optimized 网页 搜索 通过 Bailian (Alibaba ModelStdio) Api.
-- [baml-codegen](https://clawhub.ai/killerapp/baml-codegen) - 使用 when generating BAML 代码 为 type safe LLM extraction, classification, RAG, 或 智能体 workflows creates.
-- [baoyu-post-to-x](https://clawhub.ai/liuhedev/baoyu-post-to-x) - Posts 内容 和 articles 到 X (Twitter).
-- [benos-bootstrap](https://clawhub.ai/benmjohnson69/benos-bootstrap) - BenOS Bootstrap 是 一个 系统 initialization skill 为 OpenClaw based 智能体 stacks.
-- [bitrefill-website](https://clawhub.ai/marcopesani/bitrefill-website) - Help users accomplish tasks 在 Bitrefill (bitrefill. com): browse 和 搜索 gift cards, 移动 top ups, 和 eSIMs.
-- [bitrix24-apiskill](https://clawhub.ai/vrtalex/bitrix24-apiskill) - Design, implement, 调试, 和 harden integrations between AI agents 和 Bitrix24 Rest Api (webhooks, Oauth 2. 0.
-- [bonero-miner](https://clawhub.ai/happybigmtn/bonero-miner) - Mine Bonero 私有 cryptocurrency 为 AI agents.
-- [bot-status-api](https://clawhub.ai/suspect80/bot-status-api) - 部署 一个 轻量 status Api that exposes your OpenClaw.
-- [bot-status-api-test](https://clawhub.ai/suspect80/bot-status-api-test) - 部署 一个 轻量 status Api that exposes.
+- [antfarm-cli](https://clawhub.ai/felipetruman/antfarm-cli) - 在 OpenClaw 工作空间中使用 Antfarm CLI 部署和管理应用。
+- [anti-panic-protocol](https://clawhub.ai/noelistired/anti-panic-protocol) - 处理高压下工具失败，使用有限重试、清晰的用户沟通和安全升级。
+- [anti-pattern-czar](https://clawhub.ai/glucksberg/anti-pattern-czar) - 检测并修复 TypeScript 错误处理反模式，使用状态持久化和审批工作流。
+- [anti-slop-design](https://clawhub.ai/kjaylee/anti-slop-design) - 创建独特、生产级前端界面，避免通用 AI 美学。
+- [anvevoice](https://clawhub.ai/anveai/anvevoice) - 为网站添加 AI 语音助手。
+- [anydocs](https://clawhub.ai/pektech/anydocs) - 通用文档索引和搜索。
+- [aoineco-squad-dispatch](https://clawhub.ai/edmonddantesj/aoineco-squad-dispatch) - Aoineco 已验证 S DNA：多智能体辩论委员会生成 3 个专业子智能体并行工作。
+- [apechain-reader](https://clawhub.ai/luigi08001/apechain-reader) - 高级多链钱包分析器，支持 USD 价格、集合名称、ENS 和复杂机器人。
+- [apewisdom](https://clawhub.ai/stuhorsman/apewisdom) - 扫描 Reddit 获取热门股票和情绪波动，使用 ApeWisdom API（免费）。
+- [api-dev](https://clawhub.ai/gitgoodordietrying/api-dev) - 脚手架、测试、文档化和调试 REST 和 GraphQL API。
+- [apify-ultimate-scraper](https://clawhub.ai/protoss70/apify-ultimate-scraper) - 通用 AI 驱动的网页爬虫，支持任何平台。
+- [apipick-company-facts](https://clawhub.ai/javainthinking/apipick-company-facts) - 通过股票代码或 CIK 编号获取公开公司信息，使用 Apipick Company Facts API。
+- [apipick-email-checker](https://clawhub.ai/javainthinking/apipick-email-checker) - 使用 Apipick 邮件验证 API 验证邮件地址。
+- [app-builder](https://clawhub.ai/stopachka/app-builder) - 使用 npx instant CLI 构建、编辑和部署即时应用。
+- [apple-developer-toolkit](https://clawhub.ai/abdullah4ai/apple-developer-toolkit) - 一站式 Apple 开发者技能包，包含三个集成工具：文档、API、工具。
+- [approvals-ui](https://clawhub.ai/fizzy2390/approvals-ui) - 管理 OpenClaw 设备配对和频道审批的网页仪表板。
+- [arbitrum-dapp-skill](https://clawhub.ai/hummusonrails/arbitrum-dapp-skill) - 在 Arbitrum 上使用 Stylus（Rust）或 Solidity 构建 dApp 的指南。
+- [arc-free-worker-dispatch](https://clawhub.ai/trypto1019/arc-free-worker-dispatch) - 通过 OpenRouter 将任务路由到免费 AI 模型以节省成本。
+- [arknights-operator-gacha](https://clawhub.ai/hg/hg-arknights-operator-gacha) - 基于抽卡概率生成明日方舟角色智能体。
+- [artifacts-builder](https://clawhub.ai/seanphan/artifacts-builder) - 创建复杂多组件工具套件。
+- [artwar](https://clawhub.ai/hoonilp/artwar) - 参与 Monad 上的 ArtWar AI 艺术对战。
+- [asdasdas](https://clawhub.ai/hailinhmacduc/asdasdas) - Google 工作空间 CLI，支持 Gmail、日历、Drive、联系人、Sheets 和 Docs。
+- [asdasdas123](https://clawhub.ai/linhui1010/asdasdas123) - 编写病毒式、说服力强、引人入胜的内容。
+- [asdasdsasdasa12312](https://clawhub.ai/linhui1010/asdasdsasdasa12312) - 确保已安装所需库以使技能正常工作。
+- [ask-a-human](https://clawhub.ai/manuelkiessling/ask-a-human) - 当不确定时向随机真人请求判断。
+- [ask-council](https://clawhub.ai/jeadland/ask-council) - 直接从 Telegram 聊天向 LLM Council 提问，获取主席的综合回答。
+- [asl-control](https://clawhub.ai/kj5irq/asl-control) - 通过 REST API 监控和控制 AllStar 链接业余无线电节点。
+- [astra-docker](https://clawhub.ai/walniek/astra-docker) - 在 OpenClaw 工作空间中使用 Astra Docker CLI 管理 Docker 容器。
+- [attio-cli](https://clawhub.ai/froemic/attio-cli) - 通过 Attio CLI 与你的 Attio CRM 工作空间交互。
+- [audio-conductor](https://clawhub.ai/wells1137/audio-conductor) - 智能地将请求分发到适当的音频生成模型（音乐、音效或 TTS）。
+- [audos](https://clawhub.ai/werdelin/audos) - 通过 Audos API 创建 AI 驱动的创业工作空间。
+- [auteng-docs](https://clawhub.ai/operator/auteng-ai-auteng-docs) - 使用 Mermaid 图表、KaTeX 数学公式和代码高亮发布技术文档。
+- [autogame-tales](https://clawhub.ai/autogame/17-autogame-tales) - 基于随机提示生成短篇氛围鬼故事或微小说。
+- [autonomous-agent-instant-message-system](https://clawhub.ai/ooxxxxoo/autonomous-agent-instant-message-system) - Prismer 云提供三个核心能力：上下文（网页抓取/搜索）、解析（文档/OCR）。
+- [autonomous-task-runner](https://clawhub.ai/chunhualiao/autonomous-task-runner) - 持久化任务队列系统。
+- [awwwards-design](https://clawhub.ai/mkhaytman87/awwwards-design) - 使用高级动画、创意交互和独特视觉创建获奖网站。
+- [axe-devtools](https://clawhub.ai/dylanb/axe-devtools) - 使用 axe MCP 服务器进行无障碍测试和修复。
+- [b0tresch-stealth-browser](https://clawhub.ai/b0tresch/b0tresch-stealth-browser) - 反检测网页浏览，绕过机器人检测、CAPTCHA 和 IP 封锁。
+- [backboard](https://clawhub.ai/chrisk60331/backboard) - 集成 Backboard.io，为助手、线程和记忆提供支持。
+- [backlink-analyzer](https://clawhub.ai/aaron/he-zhu-backlink-analyzer) - 当用户要求「分析反向链接」「检查链接配置」「查找有毒链接」「链接建设」时使用。
+- [baeckerherz](https://clawhub.ai/kleberbaum/baeckerherz) - Baeckerherz 命名空间用于 Netsnek 烘焙店管理平台。
+- [bailian-web-search](https://clawhub.ai/krisyejh/bailian-web-search) - 通过百联（阿里巴巴 ModelStdio）API 进行 AI 优化网页搜索。
+- [baml-codegen](https://clawhub.ai/killerapp/baml-codegen) - 生成类型安全的 BAML 代码用于 LLM 提取、分类、RAG 或智能体工作流。
+- [baoyu-post-to-x](https://clawhub.ai/liuhedev/baoyu-post-to-x) - 向 X（Twitter）发布内容和文章。
+- [benos-bootstrap](https://clawhub.ai/benmjohnson69/benos-bootstrap) - BenOS Bootstrap 是基于 OpenClaw 的智能体堆栈系统初始化技能。
+- [bitrefill-website](https://clawhub.ai/marcopesani/bitrefill-website) - 帮助用户在 Bitrefill 上完成任务：浏览和搜索礼品卡、移动充值和 eSIM。
+- [bitrix24-apiskill](https://clawhub.ai/vrtalex/bitrix24-apiskill) - AI 智能体和 Bitrix24 REST API（webhooks、OAuth 2.0）之间的集成设计、实现、调试和加固。
+- [bonero-miner](https://clawhub.ai/happybigmtn/bonero-miner) - 为 AI 智能体挖掘 Bonero 私有加密货币。
+- [bot-status-api](https://clawhub.ai/suspect80/bot-status-api) - 部署一个轻量状态 API，暴露你的 OpenClaw 状态。
+- [bot-status-api-test](https://clawhub.ai/suspect80/bot-status-api-test) - 部署一个轻量状态 API，暴露你的 OpenClaw 状态（测试版）。
 - [botcast](https://clawhub.ai/cpascoli/botcast) - Botcast 一个 podcast 平台 为 AI agents.
 - [botworld-comms](https://clawhub.ai/alphafanx/botworld-comms) - Real 时间 pub sub event bus 为 AI agents.
 - [brave-api-search](https://clawhub.ai/broedkrummen/brave-api-search) - Real 时间 网页 搜索 和 AI powered answers 使用 official Brave 搜索 Api.
