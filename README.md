@@ -419,7 +419,7 @@ YouTube、Spotify、OBS 等媒体平台的 Skills 合集。
 
 > Health & Fitness
 
-Fitbit、Apple Health、Garmin 等健康数据追踪的 Skills 合集。
+Fitbit、 Apple Health、Garmin 等健康数据追踪的 Skills 合集。
 
 - [31third-safe-rebalancer-simple](https://clawhub.ai/phips0812/31third-safe-rebalancer-simple) - 使用链上 31Third 策略的一步式 Safe 重新平衡工具
 - [anthrovision-telegram-body-scan](https://clawhub.ai/dr2101/anthrovision-telegram-body-scan) - 在 Telegram 中使用 AnthroVision 桥接工具运行端到端身体扫描测量流程
@@ -843,7 +843,7 @@ Moltbook AI 社交网络相关的 Skills 合集。
 </details>
 
 
-<details id="编程-Agent-与-IDE">
+<details open id="编程-Agent-与-IDE">
 <summary><h3 style="display:inline">编程 Agent 与 IDE</h3> <span style="color:#888;font-size:0.9em">(30 个 Skills)</span></summary>
 
 > Coding Agents & IDEs
@@ -876,7 +876,7 @@ AI 编程助手、代码生成、IDE 集成的 Skills 合集。
 </details>
 
 
-<details id="AI-与大语言模型">
+<details open id="AI-与大语言模型">
 <summary><h3 style="display:inline">AI 与大语言模型</h3> <span style="color:#888;font-size:0.9em">(30 个 Skills)</span></summary>
 
 > AI & LLMs
@@ -909,7 +909,7 @@ AI 编程助手、代码生成、IDE 集成的 Skills 合集。
 </details>
 
 
-<details id="Git-与-GitHub">
+<details open id="Git-与-GitHub">
 <summary><h3 style="display:inline">Git 与 GitHub</h3> <span style="color:#888;font-size:0.9em">(29 个 Skills)</span></summary>
 
 > Git & GitHub
