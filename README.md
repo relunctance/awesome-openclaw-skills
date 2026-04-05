@@ -504,7 +504,7 @@ Google Calendar、Apple Calendar、日程调度的 Skills 合集。
 </details>
 
 
-<details id="购物与电商">
+<details open id="购物与电商">
 <summary><h3 style="display:inline">购物与电商</h3> <span style="color:#888;font-size:0.9em">(45 个 Skills)</span></summary>
 
 > Shopping & E-commerce
@@ -532,7 +532,7 @@ Shopify、Amazon、电商数据分析的 Skills 合集。
 </details>
 
 
-<details id="Apple 应用与服务">
+<details open id="Apple 应用与服务">
 <summary><h3 style="display:inline">Apple 应用与服务</h3> <span style="color:#888;font-size:0.9em">(43 个 Skills)</span></summary>
 
 > Apple Apps & Services
@@ -560,7 +560,7 @@ Apple Health、Apple Music、Shortcuts 等苹果生态的 Skills 合集。
 </details>
 
 
-<details id="语音与转录">
+<details open id="语音与转录">
 <summary><h3 style="display:inline">语音与转录</h3> <span style="color:#888;font-size:0.9em">(42 个 Skills)</span></summary>
 
 > Speech & Transcription
@@ -588,7 +588,7 @@ Whisper、ElevenLabs 等语音识别和合成的 Skills 合集。
 </details>
 
 
-<details id="智能家居与物联网">
+<details open id="智能家居与物联网">
 <summary><h3 style="display:inline">智能家居与物联网</h3> <span style="color:#888;font-size:0.9em">(40 个 Skills)</span></summary>
 
 > Smart Home & IoT
@@ -616,7 +616,7 @@ Google Home、Nest、Home Assistant 等智能家居的 Skills 合集。
 </details>
 
 
-<details id="数据分析">
+<details open id="数据分析">
 <summary><h3 style="display:inline">数据分析</h3> <span style="color:#888;font-size:0.9em">(35 个 Skills)</span></summary>
 
 > Data & Analytics
@@ -644,7 +644,7 @@ Google Home、Nest、Home Assistant 等智能家居的 Skills 合集。
 </details>
 
 
-<details id="Clawdbot 工具集">
+<details open id="Clawdbot 工具集">
 <summary><h3 style="display:inline">Clawdbot 工具集</h3> <span style="color:#888;font-size:0.9em">(35 个 Skills)</span></summary>
 
 > Clawdbot Tools
@@ -672,7 +672,7 @@ Clawdbot 生态相关的工具 Skills 合集。
 </details>
 
 
-<details id="Moltbook">
+<details open id="Moltbook">
 <summary><h3 style="display:inline">Moltbook</h3> <span style="color:#888;font-size:0.9em">(35 个 Skills)</span></summary>
 
 > Moltbook
@@ -700,7 +700,7 @@ Moltbook AI 社交网络相关的 Skills 合集。
 </details>
 
 
-<details id="自托管与自动化">
+<details open id="自托管与自动化">
 <summary><h3 style="display:inline">自托管与自动化</h3> <span style="color:#888;font-size:0.9em">(32 个 Skills)</span></summary>
 
 > Self-Hosted & Automation
@@ -728,7 +728,7 @@ Moltbook AI 社交网络相关的 Skills 合集。
 </details>
 
 
-<details id="编程 Agent 与 IDE">
+<details open id="编程 Agent 与 IDE">
 <summary><h3 style="display:inline">编程 Agent 与 IDE</h3> <span style="color:#888;font-size:0.9em">(30 个 Skills)</span></summary>
 
 > Coding Agents & IDEs
@@ -756,7 +756,7 @@ AI 编程助手、代码生成、IDE 集成的 Skills 合集。
 </details>
 
 
-<details id="AI 与大语言模型">
+<details open id="AI 与大语言模型">
 <summary><h3 style="display:inline">AI 与大语言模型</h3> <span style="color:#888;font-size:0.9em">(30 个 Skills)</span></summary>
 
 > AI & LLMs
@@ -784,7 +784,7 @@ AI 编程助手、代码生成、IDE 集成的 Skills 合集。
 </details>
 
 
-<details id="Git 与 GitHub">
+<details open id="Git 与 GitHub">
 <summary><h3 style="display:inline">Git 与 GitHub</h3> <span style="color:#888;font-size:0.9em">(29 个 Skills)</span></summary>
 
 > Git & GitHub
@@ -812,7 +812,7 @@ Git 版本控制、GitHub 操作、代码协作与 Pull Request 管理的 Skills
 </details>
 
 
-<details id="浏览器与自动化">
+<details open id="浏览器与自动化">
 <summary><h3 style="display:inline">浏览器与自动化</h3> <span style="color:#888;font-size:0.9em">(29 个 Skills)</span></summary>
 
 > Browser & Automation
@@ -840,7 +840,7 @@ Git 版本控制、GitHub 操作、代码协作与 Pull Request 管理的 Skills
 </details>
 
 
-<details id="CLI 工具集">
+<details open id="CLI 工具集">
 <summary><h3 style="display:inline">CLI 工具集</h3> <span style="color:#888;font-size:0.9em">(29 个 Skills)</span></summary>
 
 > CLI Utilities
@@ -868,7 +868,7 @@ Git 版本控制、GitHub 操作、代码协作与 Pull Request 管理的 Skills
 </details>
 
 
-<details id="iOS 与 macOS 开发">
+<details open id="iOS 与 macOS 开发">
 <summary><h3 style="display:inline">iOS 与 macOS 开发</h3> <span style="color:#888;font-size:0.9em">(29 个 Skills)</span></summary>
 
 > iOS & macOS Development
@@ -896,7 +896,7 @@ Xcode、Apple 开发、Swift 相关的 Skills 合集。
 </details>
 
 
-<details id="游戏与娱乐">
+<details open id="游戏与娱乐">
 <summary><h3 style="display:inline">游戏与娱乐</h3> <span style="color:#888;font-size:0.9em">(25 个 Skills)</span></summary>
 
 > Gaming
