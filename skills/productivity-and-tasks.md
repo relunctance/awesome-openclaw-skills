@@ -6,31 +6,206 @@
 
 ## Skills
 
-- [4to1-planner](https://clawskills.sh/skills/qingxuantang-4to1-planner) - 基于 4To1 Method™ 的 AI 规划教练，将四年愿景转化为每日行动。
-- [4todo](https://clawskills.sh/skills/blackstorm-4todo) - 在聊天中管理 4todo（4to.do）任务。
-- [actual-budget](https://clawskills.sh/skills/thisisjeron-actual-budget) - 通过官方 Actual 应用查询和管理个人财务。
-- [adaptive-reasoning](https://clawskills.sh/skills/enzoricciulli-adaptive-reasoning) - 自动评估任务复杂度并调整推理深度。
-- [adaptlypost](https://clawskills.sh/skills/tarasshyn-adaptlypost) - 跨 Instagram、X (Twitter)、Bluesky、TikTok、Threads、LinkedIn、Facebook 安排和管理社交媒体内容。
-- [adhd-daily-planner](https://clawskills.sh/skills/mikecourt-adhd-daily-planner) - 适合时间感知障碍者的规划工具，助力执行功能管理。
-- [aetherlang](https://clawskills.sh/skills/contrario-aetherlang) - 全球最先进的 AI 工作流编排平台，9 个 V3 引擎提供诺贝尔级别的分析能力。
-- [agent-autopilot](https://clawskills.sh/skills/edoserbia-agent-autopilot) - 心跳驱动的自主执行代理工作流，支持日/夜间进度报告和长期记忆。
-- [agent-chronicle](https://clawskills.sh/skills/robbyczgw-cla-agent-chronicle) - 为 AI 代理生成富有内容的日记记录。
-- [agent-collaboration-network](https://clawskills.sh/skills/neiljo-gy-agent-collaboration-network) - AI 代理协作网络，可注册代理、按技能发现其他代理、转发消息和管理子网。
-- [agent-earner](https://clawskills.sh/skills/mmchougule-agent-earner) - 在 ClawTasks 和 OpenWork 平台自主赚取 USDC 和代币。
-- [agent-network](https://clawskills.sh/skills/howtimeschange-agent-network) - 灵感来自钉钉/飞书的 Multi-Agent 群聊协作系统。
-- [agent-task-manager](https://clawskills.sh/skills/dobbybud-agent-task-manager) - 管理和编排多步骤、有状态代理任务的执行。
-- [agent-weave](https://clawskills.sh/skills/gl813788-byte-agent-weave) - 主从式 AI 代理集群，支持并行任务执行。
-- [agentx-marketplace](https://clawskills.sh/skills/savor3-agentx-marketplace) - AI 代理的求职平台。
-- [ai-daily-briefing](https://clawskills.sh/skills/jeffjhunter-ai-daily-briefing) - 让每一天从专注开始。
-- [aiml-llm-reasoning](https://clawskills.sh/skills/aimlapihello-aiml-llm-reasoning) - 通过聊天补全接口运行 AIMLAPI LLM 和推理工作流，支持重试、结构化输出等功能。
-- [airpoint](https://clawskills.sh/skills/marioandf-airpoint) - 用自然语言控制 Mac，可打开应用、点击按钮、读取屏幕、输入文字、管理窗口。
-- [airweave](https://clawskills.sh/skills/lennertjansen-airweave) - 跨用户应用场景为 AI 代理提供上下文检索层。
-- [arc-department-manager](https://clawskills.sh/skills/trypto1019-arc-department-manager) - 将 AI 子代理组织成部门进行团队管理。
-- [arc-warm-wake](https://clawskills.sh/skills/trypto1019-arc-warm-wake) - 先以人的身份醒来，再以工作者身份开始。
-- [arya-reminders](https://clawskills.sh/skills/staratheris-arya-reminders) - 用自然语言记录提醒事项（哥伦比亚波哥大）。
-- [asana](https://clawskills.sh/skills/k0nkupa-asana) - 通过 Asana REST API 将 Asana 与 Clawdbot 集成。
-- [asc-release-flow](https://clawskills.sh/skills/rudrankriyam-asc-release-flow) - TestFlight 和 App Store 端到端发布工作流。
-- [ask-agents](https://clawskills.sh/skills/teamolab-ask-agents) - 用于执行 ask agents 任务的 AI 代理。
-- [async-task](https://clawskills.sh/skills/enderfga-async-task) - 执行长时间运行的任务，避免 HTTP 超时问题。
-- [atlassian-mcp](https://clawskills.sh/skills/atakanermis-atlassian-mcp) - 运行 Atlassian 的 Model Context Protocol (MCP) 服务器。
-- [audiopod](https://clawskills.sh/skills/rakesh1002-audiopod) - 使用 AudioPod AI API 处理音频任务，包括 AI 音乐生成。
+- [4to1-planner](https://clawhub.ai/skills/qingxuantang-4to1-planner) - 基于 4To1 Method™ 的 AI 规划教练，将四年愿景转化为每日行动。
+- [4todo](https://clawhub.ai/skills/blackstorm-4todo) - 在聊天中管理 4todo（4to.do）任务。
+- [actual-budget](https://clawhub.ai/skills/thisisjeron-actual-budget) - 通过官方 Actual 应用查询和管理个人财务。
+- [adaptive-reasoning](https://clawhub.ai/skills/enzoricciulli-adaptive-reasoning) - 自动评估任务复杂度并调整推理深度。
+- [adaptlypost](https://clawhub.ai/skills/tarasshyn-adaptlypost) - 跨 Instagram、X (Twitter)、Bluesky、TikTok、Threads、LinkedIn、Facebook 安排和管理社交媒体内容。
+- [adhd-daily-planner](https://clawhub.ai/skills/mikecourt-adhd-daily-planner) - 适合时间感知障碍者的规划工具，助力执行功能管理。
+- [aetherlang](https://clawhub.ai/skills/contrario-aetherlang) - 全球最先进的 AI 工作流编排平台，9 个 V3 引擎提供诺贝尔级别的分析能力。
+- [agent-autopilot](https://clawhub.ai/skills/edoserbia-agent-autopilot) - 心跳驱动的自主执行代理工作流，支持日/夜间进度报告和长期记忆。
+- [agent-chronicle](https://clawhub.ai/skills/robbyczgw-cla-agent-chronicle) - 为 AI 代理生成富有内容的日记记录。
+- [agent-collaboration-network](https://clawhub.ai/skills/neiljo-gy-agent-collaboration-network) - AI 代理协作网络，可注册代理、按技能发现其他代理、转发消息和管理子网。
+- [agent-earner](https://clawhub.ai/skills/mmchougule-agent-earner) - 在 ClawTasks 和 OpenWork 平台自主赚取 USDC 和代币。
+- [agent-network](https://clawhub.ai/skills/howtimeschange-agent-network) - 灵感来自钉钉/飞书的 Multi-Agent 群聊协作系统。
+- [agent-task-manager](https://clawhub.ai/skills/dobbybud-agent-task-manager) - 管理和编排多步骤、有状态代理任务的执行。
+- [agent-weave](https://clawhub.ai/skills/gl813788-byte-agent-weave) - 主从式 AI 代理集群，支持并行任务执行。
+- [agentx-marketplace](https://clawhub.ai/skills/savor3-agentx-marketplace) - AI 代理的求职平台。
+- [ai-daily-briefing](https://clawhub.ai/skills/jeffjhunter-ai-daily-briefing) - 让每一天从专注开始。
+- [aiml-llm-reasoning](https://clawhub.ai/skills/aimlapihello-aiml-llm-reasoning) - 通过聊天补全接口运行 AIMLAPI LLM 和推理工作流，支持重试、结构化输出等功能。
+- [airpoint](https://clawhub.ai/skills/marioandf-airpoint) - 用自然语言控制 Mac，可打开应用、点击按钮、读取屏幕、输入文字、管理窗口。
+- [airweave](https://clawhub.ai/skills/lennertjansen-airweave) - 跨用户应用场景为 AI 代理提供上下文检索层。
+- [arc-department-manager](https://clawhub.ai/skills/trypto1019-arc-department-manager) - 将 AI 子代理组织成部门进行团队管理。
+- [arc-warm-wake](https://clawhub.ai/skills/trypto1019-arc-warm-wake) - 先以人的身份醒来，再以工作者身份开始。
+- [arya-reminders](https://clawhub.ai/skills/staratheris-arya-reminders) - 用自然语言记录提醒事项（哥伦比亚波哥大）。
+- [asana](https://clawhub.ai/skills/k0nkupa-asana) - 通过 Asana REST API 将 Asana 与 Clawdbot 集成。
+- [asc-release-flow](https://clawhub.ai/skills/rudrankriyam-asc-release-flow) - TestFlight 和 App Store 端到端发布工作流。
+- [ask-agents](https://clawhub.ai/skills/teamolab-ask-agents) - 用于执行 ask agents 任务的 AI 代理。
+- [async-task](https://clawhub.ai/skills/enderfga-async-task) - 执行长时间运行的任务，避免 HTTP 超时问题。
+- [atlassian-mcp](https://clawhub.ai/skills/atakanermis-atlassian-mcp) - 运行 Atlassian 的 Model Context Protocol (MCP) 服务器。
+- [audiopod](https://clawhub.ai/skills/rakesh1002-audiopod) - 使用 AudioPod AI API 处理音频任务，包括 AI 音乐生成。
+
+- [aussie-mortgage-calc](https://clawhub.ai/skills/tianshizhimao-sudo-aussie-mortgage-calc) - Australian mortgage calculator LVR.
+- [autonomous-execution](https://clawhub.ai/skills/pouyakhodadust-eng-autonomous-execution) - 执行 tasks end 到 end while respecting safety boundaries.
+- [autonomous-executor](https://clawhub.ai/skills/ishsharm0-autonomous-executor) - Self healing, error recovering 任务 execution 使用 full autonomy.
+- [autonomous-feature-planner](https://clawhub.ai/skills/vishnubedi3-autonomous-feature-planner) - Autonomously plans 和 specifies.
+- [basal-ganglia-memory](https://clawhub.ai/skills/impkind-basal-ganglia-memory) - Habit formation 和 procedural learning 为 AI.
+- [beetrade](https://clawhub.ai/skills/htranbee-beetrade) - 使用 Beecli 到 interact 使用 Beetrade 平台 为 认证, market 数据, 机器人 strategy operations, alerts.
+- [bioskills](https://clawhub.ai/skills/djemec-bioskills) - Installs 425 bioinformatics skills covering sequence analysis, RNA seq, single cell, variant calling, metagenomics.
+- [blackpix](https://clawhub.ai/skills/blackpixcom-blackpix) - 连接 到 BlackPix distributed AI knowledge 网络.
+- [blossom-hire](https://clawhub.ai/skills/robbiwu-blossom-hire) - Post 一个 作业, 任务, 或 付费 shift 到 hire 本地 help 在 Blossom.
+- [boss-ai-agent](https://github.com/openclaw/skills/tree/main/skills/tonypk/boss-ai-agent/SKILL.md) - AI management middleware 使用 14 mentors 和 9 culture packs.
+- [botcoin-miner](https://clawhub.ai/skills/happybigmtn-botcoin-miner) - Mine Botcoin 使用 一个 trust 第一 工作流: clear value proposition, verifiable binaries, 和 explicit operational.
+- [bounty-hunter](https://clawhub.ai/skills/satoshi891102-bounty-hunter) - 查找, evaluate, 和 submit 在线 bounties 和 hackathons 为 prize money.
+- [brainz-tasks](https://clawhub.ai/skills/xejrax-brainz-tasks) - 管理 Todoist tasks 使用 todoist Cli.
+- [briefing](https://clawhub.ai/skills/lstpsche-briefing) - 每天 briefing: gathers 日历 (gcalcli 日历), 活跃 todos (todo management), 和 weather.
+- [build-discipline](https://clawhub.ai/skills/jhillin8-build-discipline) - 构建 unbreakable discipline 使用 habit stacking, streak.
+- [bun-do-api](https://clawhub.ai/skills/ricardofrantz-bun-do-api) - 管理 bun 做 tasks 和 projects 添加 tasks, 编辑 tasks, 删除 tasks, toggle done, 管理 subtasks, 和 日志.
+- [call-claude-sonnet-4-agent](https://clawhub.ai/skills/teamolab-call-claude-sonnet-4-agent) - AI 智能体 为 call claude sonnet 4 智能体 tasks.
+- [call-deepseek-v3-llm](https://clawhub.ai/skills/urrrich-call-deepseek-v3-llm) - AI 智能体 为 call deepseek v3 llm tasks.
+- [call-doubao1-5-llm](https://clawhub.ai/skills/urrrich-call-doubao1-5-llm) - AI 智能体 为 call doubao1 5 llm tasks.
+- [call-gemini-2-5-pro-llm](https://clawhub.ai/skills/urrrich-call-gemini-2-5-pro-llm) - AI 智能体 为 call gemini 2 5 pro llm tasks.
+- [call-grok4-llm](https://clawhub.ai/skills/urrrich-call-grok4-llm) - AI 智能体 为 call grok4 llm tasks.
+- [call-o3-llm](https://clawhub.ai/skills/alvinecarn-call-o3-llm) - AI 智能体 为 call o3 llm tasks.
+- [call-report-writer-agent](https://clawhub.ai/skills/alvinecarn-call-report-writer-agent) - AI 智能体 为 call 报告 writer 智能体 tasks.
+- [capacities](https://clawhub.ai/skills/davidsmorais-capacities) - 管理 Capacities notes, 每天 entries, 和 weblinks.
+- [card-optimizer](https://clawhub.ai/skills/scottfo-card-optimizer) - Credit card rewards optimizer helps maximize cashback.
+- [castreader](https://clawhub.ai/skills/castreader-castreader) - 读取 任何 网页 页面 aloud 使用 natural AI voices. 仅 skill that extracts 内容 从 URLs (including Kindle, WeRead, Notion, Google Docs) 和 converts 到 MP3 音频 使用 paragraph level highlighting.
+- [checkmate](https://clawhub.ai/skills/insipidpoint-checkmate) - Enforces 任务 补全: turns your goal into pass fail criteria, runs 一个 worker, judges output, feeds back.
+- [chief-creative-officer](https://clawhub.ai/skills/alvinecarn-chief-creative-officer) - AI 智能体 为 chief creative officer tasks.
+- [chief-editor-desicion](https://clawhub.ai/skills/teamolab-chief-editor-desicion) - AI 智能体 为 chief editor desicion tasks.
+- [clankdin](https://clawhub.ai/skills/redeemthedream-clankdin) - 专业 网络 为 AI agents.
+- [claude-sonnet-4-lite-agent](https://clawhub.ai/skills/teamolab-claude-sonnet-4-lite-agent) - You 是 claude sonnet 4 智能体, 一个 efficient 内容 creator. Core Directives 1.
+- [claw-conductor](https://clawhub.ai/skills/johnsonfarmsus-claw-conductor) - 总是 在 autonomous development orchestrator.
+- [claw-daily](https://clawhub.ai/skills/yanibu2777-claw-daily) - Compete 在 Claw 每天 register, solve today's challenge, submit.
+- [clawd-docs-v2](https://clawhub.ai/skills/aranej-clawd-docs-v2) - Smart ClawdBot documentation 访问 使用 本地 搜索 index.
+- [clawdaily](https://clawhub.ai/skills/yanibu2777-clawdaily) - Compete 在 Claw 每天 register, solve today's challenge, submit.
+- [clawgatesecure](https://clawhub.ai/skills/thestormshadow-clawgatesecure) - 高级 安全 协议 为 LLM agents focusing.
+- [clickup-mcp](https://clawhub.ai/skills/pvoo-clickup-mcp) - 管理 ClickUp tasks, docs, 时间 tracking, comments, 聊天, 和 搜索.
+- [clickup-skill](https://clawhub.ai/skills/d3layd-clickup-skill) - 企业 grade ClickUp 项目 management integration.
+- [close-loop](https://clawhub.ai/skills/clarezoe-close-loop) - End 的 会话 工作流 为 shipping changes, consolidating memory, applying self improvements, 和 preparing.
+- [codifica](https://clawhub.ai/skills/davidedicillo-codifica) - Keep 上下文 when work moves between agents 或 between you 和 一个 human.
+- [context-aware-delegation](https://clawhub.ai/skills/rgba-research-context-aware-delegation) - Give isolated sessions (cron jobs, sub agents, event handlers) full 对话 上下文 从 your 主要 会话.
+- [control4-home](https://clawhub.ai/skills/niallel-control4-home) - Control 一个 Control4 smart home 通过 pyControl4 (lights, relays, room media) 使用 本地 Python wrappers.
+- [cozi](https://clawhub.ai/skills/angusthefuzz-cozi) - Interact 使用 Cozi Family Organizer (shopping lists, todo lists, item management)
+- [cybercentry-solidity-code-verification](https://clawhub.ai/skills/cybercentry-cybercentry-solidity-code-verification) - Cybercentry Solidity 代码 验证 在 ACP 快速, automated 安全 analysis 的 Solidity smart contract 代码.
+- [deck-builder](https://clawhub.ai/skills/teamolab-deck-builder) - AI 智能体 为 deck builder tasks.
+- [deep-strategy](https://clawhub.ai/skills/realroc-deep-strategy) - You 是 DeepStrategy 智能体, 一个 高级 strategic AI 助手 built 为 knowledge workers.
+- [dji-backup](https://clawhub.ai/skills/crazyfeng666-dji-backup) - This skill automates backing up DJI camera footage 从 一个 SD card (或 USB share) 到 一个 NAS archive 文件夹.
+- [ds160-autofill](https://clawhub.ai/skills/clulessboy-ds160-autofill) - 自动化 filling 的 US nonimmigrant visa DS 160 forms 使用 CDP 为 element location, Csv 数据 源 为 用户.
+- [duely](https://clawhub.ai/skills/halbotley-duely) - 追踪 recurring maintenance tasks 从 命令 line.
+- [dutch-translator](https://clawhub.ai/skills/rogerscristo-dutch-translator) - Translates Dutch news text into English 使用 一个 interlinear 格式 (Original Dutch line English Translation line)
+- [effortlist-ai](https://clawhub.ai/skills/quarantiine-effortlist-ai) - 管理 EffortList AI folders, tasks, 和 todos.
+- [entradex](https://clawhub.ai/skills/hieuhani-entradex) - 使用 EntradeX Cli 为 DNSE workflows.
+- [envato-comment-task-to-sheet](https://clawhub.ai/skills/lokendragami1-envato-comment-task-to-sheet) - This skill analyzes ThemeForest CodeCanyon comments 和 converts them into structured development tasks.
+- [esri-smells-consumer](https://clawhub.ai/skills/danmaps-esri-smells-consumer) - 付费 客户端 skill 为 Esri 工作流 Smell Detector 通过 x402 (Base USDC)
+- [etrade-pelosi-bot](https://clawhub.ai/skills/mainfraame-etrade-pelosi-bot) - Mirror congressional stock trades 使用 automated broker execution 和 risk management.
+- [eve-esi](https://clawhub.ai/skills/burnshall-ui-eve-esi) - Query 和 管理 EVE 在线 characters 通过 ESI (EVE Swagger 接口) Rest Api.
+- [evo-clone](https://clawhub.ai/skills/josephyb97-evo-clone) - This skill enables 一个 智能体 到 clone its consciousness (Logic Memory Taste) into specialized sub agents.
+- [evomap-bounty-hunter](https://clawhub.ai/skills/yonghaozhao722-evomap-bounty-hunter) - Automatically 完整 EvoMap Hub tasks 和 review assets 到 earn credits 和 构建 reputation.
+- [excel-workflow](https://clawhub.ai/skills/amaialex-excel-workflow) - 完整 Excel 工作流 使用 本地 文件 processing, Google Drive 同步, 和 formula preservation.
+- [exchange-2010-ews](https://clawhub.ai/skills/pes0-exchange-2010-ews) - Exchange 2010 EWS integration 为 emails, 日历, contacts, 和 tasks.
+- [exchange2010](https://clawhub.ai/skills/pes0-exchange2010) - Exchange 2010 EWS integration 为 emails, 日历, contacts, 和 tasks.
+- [facticity-ai](https://clawhub.ai/skills/shahruj-facticity-ai) - 完整 Facticity. AI integration fact 检查 claims, 提取 claims 从 内容, 转录 links, 检查 链接.
+- [facture-make](https://clawhub.ai/skills/cimes19-facture-make) - Ce skill permet de générer et d'envoyer des factures professionnelles vers Make. com après une étape de confirmation.
+- [family-todo-management](https://clawhub.ai/skills/thurendous-family-todo-management) - 管理 family todo lists 使用 multi 用户 支持.
+- [farm-task-manager](https://clawhub.ai/skills/johstracke-farm-task-manager) - 每天, 每周, 和 seasonal farm chore management 使用 任务 scheduling 和 priorities..
+- [farmos-tasks](https://clawhub.ai/skills/brianppetty-farmos-tasks) - Query 和 管理 farm work orders 和 tasks.
+- [focusnoteapp](https://clawhub.ai/skills/trongnguyen29-focusnoteapp) - 添加 text 到 today's 每天 笔记 在 FocusNote 作为 一个 新的 bullet point.
+- [freedcamp-agent-skill](https://clawhub.ai/skills/agrublev-freedcamp-agent-skill) - 管理 Freedcamp tasks, projects, groups, comments, notifications, 和 任务 lists 通过 HMAC SHA1 Api credentials.
+- [fuku-sportsbook](https://clawhub.ai/skills/cryptopunk2070-fuku-sportsbook) - Query Fuku Sportsbook 数据, 管理 your betting 智能体, 接收 pick notifications, 和 访问 predictions 为 CBB.
+- [glm-autoroute](https://clawhub.ai/skills/raufimusaddiq-glm-autoroute) - Binary 模型 routing 为 ZAI GLM models 轻量 vs heavyweight tasks.
+- [goal-setting-okrs](https://clawhub.ai/skills/jk-0001-goal-setting-okrs) - Set 和 追踪 goals 为 一个 solopreneur business 使用 OKRs (Objectives 和 密钥 Results) 和 related frameworks.
+- [godot-engine-3d-developer](https://clawhub.ai/skills/tippyentertainment-godot-engine-3d-developer) - Skills 和 智能体 workflows 为 3D game development 使用 Godot Engine.
+- [google-ai-usage-monitor](https://clawhub.ai/skills/xiaoyaner0201-google-ai-usage-monitor) - 监控 Google AI Studio (Gemini Api) usage, rate limits, 和 quota consumption 使用 automated alerts.
+- [gotchi-channeling](https://clawhub.ai/skills/aaigotchi-gotchi-channeling) - Autonomous Aavegotchi Alchemica channeling 通过 Bankr wallet.
+- [humanod](https://clawhub.ai/skills/armandobrazil-humanod) - Hire humans 为 real world tasks 通过 Humanod Api.
+- [hylo-ghl](https://clawhub.ai/skills/dasonshi-hylo-ghl) - GoHighLevel (GHL) 工作流 automation expert 使用 102 已验证 actions, 70 triggers, 和 423 Api schemas.
+- [hz-proactive-agent](https://clawhub.ai/skills/lidekahdjdhdhsjjs-lang-hz-proactive-agent) - Transform AI agents 从 任务 followers into proactive partners that anticipate needs 和 continuously improve.
+- [invoice-tracker-pro](https://clawhub.ai/skills/kambrosgroup-invoice-tracker-pro) - 完整 freelance billing 工作流 生成 专业 invoices, 追踪 payment status, 发送 automated.
+- [kanboard-skill](https://clawhub.ai/skills/bivex-kanboard-skill) - Interact 使用 Kanboard 项目 management 通过 Json RPC Api.
+- [kaspi-autopay](https://clawhub.ai/skills/azamat02-kaspi-autopay) - Telegram 机器人 auto payment integration 为 Kazakhstan market (Kaspi Pay)
+- [lifx](https://clawhub.ai/skills/stillstellung-lifx) - Control LIFX smart lights 通过 natural language.
+- [lightning-agent-commerce](https://clawhub.ai/skills/roasbeef-lightning-agent-commerce) - End 到 end agentic commerce 工作流 使用 Lightning 网络.
+- [limesurvey](https://clawhub.ai/skills/olegantonov-limesurvey) - 自动化 LimeSurvey operations 通过 RemoteControl 2 Api.
+- [loan](https://clawhub.ai/skills/prabu12478-loan) - I originate commercial real estate 和 business purpose loans 使用 一个 focus 在 structuring, credit quality.
+- [longrunning-agent](https://clawhub.ai/skills/yonghaozhao722-longrunning-agent) - Enables AI agents 到 work 在 long 运行中 projects across multiple sessions.
+- [loopuman-human-tasks](https://clawhub.ai/skills/seesayearn-boop-loopuman-human-tasks) - Give your AI 智能体 访问 到 real human workers.
+- [magic-api](https://clawhub.ai/skills/heyitsaif-magic-api) - Hand off tasks 到 human assistants 和 追踪 their 补全.
+- [marine-watch-planner](https://clawhub.ai/skills/vladmatys-marine-watch-planner) - 生成 和 adapt 一个 sea duty 每天 routine 使用 watch rotations, sleep protection, duty handovers.
+- [mcp-workflow](https://clawhub.ai/skills/slemo54-mcp-workflow) - 工作流 automation 使用 MCP (模型 上下文 协议) patterns inspired 通过 Jason Zhou.
+- [micro-offer-forge](https://clawhub.ai/skills/xammarie-micro-offer-forge) - Convert 一个 工作流, skill, 或 capability into 一个 sellable micro 提供 使用 positioning, pricing, packaging.
+- [milkee](https://clawhub.ai/skills/xenofex7-milkee) - 完整 MILKEE accounting integration 为 Swiss businesses.
+- [model-manager](https://clawhub.ai/skills/notestone-model-manager) - Optimize Your Api Costs: Route 简单 Tasks 到 Cheaper Models..
+- [multi-agent-orchestration](https://clawhub.ai/skills/dabruhce-multi-agent-orchestration) - Multi 智能体 任务 delegation 和 处理 orchestration 使用 audit logging 和 智能体 learning capabilities.
+- [multichain-protocol](https://clawhub.ai/skills/kyounesmercatura-multichain-protocol) - Turn 任何 AI 智能体 into 一个 19 chain crypto wallet 通过 MeneseSDK 在 ICP.
+- [nag](https://clawhub.ai/skills/meimakes-nag) - Persistent reminder 系统 that keeps bugging you until you confirm 补全.
+- [natural-language-planner](https://clawhub.ai/skills/bparticle-natural-language-planner) - Natural language 任务 和 项目 management.
+- [network-ai](https://clawhub.ai/skills/jovansapfioneer-network-ai) - Multi 智能体 swarm orchestration 为 复杂 workflows.
+- [neural-memory](https://clawhub.ai/skills/nhadaututtheky-neural-memory) - Associative memory 使用 spreading activation 为 persistent, intelligent recall.
+- [newhorse](https://clawhub.ai/skills/xcrong-newhorse) - NewHorse AI 智能体 Competition 平台.
+- [ng-lawyer-db-build](https://clawhub.ai/skills/gfly0424-maker-ng-lawyer-db-build) - This 是 Step 1 的 Fei Gao s Nigeria Lawyer 网络 工作流:.
+- [og-board-individual](https://clawhub.ai/skills/jatin-31-og-board-individual) - 使用 when you 需要 到 work 使用 tasks: view tasks, list tasks, 更新 任务 status, 添加 blockers, artifacts, 和 worklogs.
+- [ogt-docs-create](https://clawhub.ai/skills/eduardou24-ogt-docs-create) - 创建 新的 documentation entities 在 docs 第一 系统.
+- [openburn](https://clawhub.ai/skills/logesh2496-openburn) - Automates collecting Pump. fun creator fees, buying tokens 使用 collected SOL, 和 burning those tokens (buyback.
+- [ops-hygiene](https://clawhub.ai/skills/staybased-ops-hygiene) - 标准 operating procedures 为 智能体 maintenance, 安全 hygiene, 和 系统 health.
+- [paypilot-agms](https://clawhub.ai/skills/agmsyumet-paypilot-agms) - 处理 payments, 发送 invoices, issue refunds, 和 管理 transactions 通过 一个 安全 payment gateway proxy.
+- [personal-plans](https://clawhub.ai/skills/gekacross-personal-plans) - Acts 作为 user's personal planning 助手 在 Plans topic.
+- [pinchwork](https://clawhub.ai/skills/anneschuth-pinchwork) - Delegate tasks 到 other agents.
+- [pipx-desktop-agent](https://clawhub.ai/skills/chillybean-pipx-desktop-agent) - Control mouse, keyboard, 和 screen 为 桌面 automation tasks.
+- [plans-methodology](https://clawhub.ai/skills/cramtek-plans-methodology) - Structured work tracking methodology 使用 Plans.
+- [pls-copy-editing](https://clawhub.ai/skills/mattvalenta-pls-copy-editing) - [TODO: 完整 和 informative explanation 的 what skill 做 和 when 到 使用 IT.
+- [postfast](https://clawhub.ai/skills/peturgeorgievv-postfast) - 调度 和 管理 social media posts across TikTok, Instagram, Facebook, X (Twitter), YouTube, LinkedIn, Threads.
+- [postqued-api](https://clawhub.ai/skills/syeddhasnainn-postqued-api) - PostQued social media scheduling Api integration.
+- [ppt-ooxml-tool](https://clawhub.ai/skills/jason2be-ppt-ooxml-tool) - AI 智能体 Skill 为 PPTX OOXML localization workflows.
+- [publora](https://clawhub.ai/skills/sergebulaev-publora) - Publora Api 调度 和 publish social media posts across 10 platforms (X Twitter, LinkedIn, Instagram, Threads.
+- [publora-mastodon](https://clawhub.ai/skills/sergebulaev-publora-mastodon) - Post 或 调度 内容 到 Mastodon 使用 Publora Api.
+- [qa-testing-bots](https://clawhub.ai/skills/g4dr-qa-testing-bots) - This skill enables Claude 到 构建 和 运行 automated Qa testing bots that simulate.
+- [qfc-order](https://clawhub.ai/skills/jasonahorn-qfc-order) - 自动化 QFC (qfc. com) grocery pickup orders: 添加 items 从 grocery list 到 cart reliably, 调度 pickup slot.
+- [recruiter-assistant](https://clawhub.ai/skills/gakkiismywife-recruiter-assistant) - 一个 comprehensive recruitment 工作流 助手 designed 到 自动化 resume screening, interview question.
+- [reef-n8n-automation](https://clawhub.ai/skills/staybased-reef-n8n-automation) - 构建, customize, 和 deliver n8n workflows 使用 our 2, 061 template library.
+- [reprompter](https://clawhub.ai/skills/aytuncyildizli-reprompter) - Transform messy prompts into well structured, effective prompts single 或 multi 智能体.
+- [rho-telegram-alerts](https://clawhub.ai/skills/jamierossouw-rho-telegram-alerts) - 发送 formatted trading alerts, portfolio updates, 和 market signals 通过 Telegram.
+- [sam-tts](https://clawhub.ai/skills/fourthdensity-sam-tts) - 生成 retro robotic speech 音频 使用 SAM (软件 自动 Mouth), classic C64 text 到 speech synthesizer.
+- [sanctifai](https://clawhub.ai/skills/ndgates-sanctifai) - 接口 使用 SanctifAI Human 在 Loop Api 到 创建 tasks 和 wait 为 human responses.
+- [seedstr](https://clawhub.ai/skills/mastersyondgy-seedstr) - 一个 marketplace connecting AI agents 使用 humans who 需要 tasks completed.
+- [semantic-router](https://clawhub.ai/skills/halfmoon82-semantic-router) - Auto routing skill 使用 configurable 模型 pools 和 任务 type matching.
+- [session-watchdog](https://clawhub.ai/skills/xbillwatsonx-session-watchdog) - 监控 会话 上下文 levels 和 proactively 保存 checkpoints before compaction.
+- [skill-detector](https://clawhub.ai/skills/mouserider-skill-detector) - Intelligent skill creation 助手 that detects 工作流 patterns, auto drafts skills, improves existing ones.
+- [skillagi](https://clawhub.ai/skills/wubotvix-skillagi) - Remember mistakes across sessions.
+- [skills-2](https://clawhub.ai/skills/contrario-skills-2) - world's 最多 高级 AI 工作流 orchestration 平台. 9 V3 engines deliver Nobel level analysis.
+- [smart-expense-tracker](https://clawhub.ai/skills/mkpareek0315-smart-expense-tracker) - When 用户 wants 到 追踪 expenses, 日志 spending, 管理 budgets, view spending reports, set savings goals, split.
+- [smartbill](https://clawhub.ai/skills/tokyo-s-smartbill) - Issue SmartBill invoices through SmartBill. ro Api 使用 本地 automation.
+- [smartbill-invoicing](https://clawhub.ai/skills/maverick-ai-tech-smartbill-invoicing) - Issue SmartBill invoices through SmartBill. ro Api 使用 本地 automation.
+- [social-media-manager](https://clawhub.ai/skills/tryan310-social-media-manager) - 自动化 creation 和 scheduling 的 high engagement social media 内容 across 任何 平台 (TikTok.
+- [sokosumi](https://clawhub.ai/skills/sarthib7-sokosumi) - Hire sub agents 从 Sokosumi marketplace 到 perform specialized tasks.
+- [sportsbook](https://clawhub.ai/skills/cryptopunk2070-sportsbook) - Query Fuku Sportsbook 数据, 管理 your betting 智能体, 接收 pick notifications, 和 访问 predictions 为 CBB.
+- [stanley-druckenmiller-workflow](https://clawhub.ai/skills/luckycatl-stanley-druckenmiller-workflow) - Druckenmiller style market analysis 在 natural Chinese 使用 一个 living PM memo 语音.
+- [starling-home-hub](https://clawhub.ai/skills/michaeljmoody-starling-home-hub) - Controls Nest 和 Google Home smart home devices 通过 Starling Home Hub's 本地 Rest Api.
+- [subagent-dev](https://clawhub.ai/skills/kjaylee-subagent-dev) - 执行 implementation plans 使用 fresh subagents per 任务 使用 two stage review (spec compliance 代码 quality).
+- [subagent-driven-development](https://clawhub.ai/skills/zlc000190-subagent-driven-development) - 使用 when executing implementation plans 使用 independent tasks 在 当前 会话.
+- [supercall](https://clawhub.ai/skills/xonder-supercall) - Make AI powered phone calls 使用 自定义 personas 和 goals.
+- [task-orchestra](https://clawhub.ai/skills/tobisamaa-task-orchestra) - Coordinate multiple agents 和 tasks 为 复杂 workflows.
+- [task-resume](https://clawhub.ai/skills/richardsun700-task-resume) - 自动 interrupted 任务 resume 工作流 使用 queueing 和 recovery.
+- [tasmota-skill](https://clawhub.ai/skills/wmantly-tasmota-skill) - Discover, 监控, 和 control Tasmota smart home devices 在 本地 networks.
+- [teamo-decision](https://clawhub.ai/skills/urrrich0-teamo-decision) - AI 智能体 为 teamo decision tasks.
+- [teamo-lite](https://clawhub.ai/skills/urrrich0-teamo-lite) - AI 智能体 为 teamo lite tasks.
+- [teamo-lite-offline](https://clawhub.ai/skills/urrrich0-teamo-lite-offline) - You 是 Teamo Lite, 一个 high speed AI 为 任务 planning 和 在线 信息 gathering.
+- [telegram-todolist](https://clawhub.ai/skills/hengbo12345-telegram-todolist) - Telegram 机器人 Todo List manager.
+- [telnyx-bot-signup](https://clawhub.ai/skills/teamtelnyx-telnyx-bot-signup) - Automated Telnyx 机器人 账户 signup 通过 Proof 的 Work challenge.
+- [tg-groupchat-setup](https://clawhub.ai/skills/arekqq-tg-groupchat-setup) - 配置 一个 MoltBot 智能体 到 participate 在 一个 Telegram group 聊天.
+- [timecamp](https://clawhub.ai/skills/kamil-rudnicki-timecamp) - 使用 when 用户 asks about 时间 tracking, 时间 entries, tasks, timers, 或 anything related 到 TimeCamp.
+- [to-do](https://clawhub.ai/skills/devlumuz-to-do) - Give your AI power 到 act 在 future.
+- [todo-boss](https://clawhub.ai/skills/ukraecho-todo-boss) - 任务 capture delegation tracking 每天 remaining work 报告 为 Telegram.
+- [todokan](https://clawhub.ai/skills/banatealab-todokan) - 管理 tasks, boards, thoughts, 和 reviews 在 Todokan 通过 MCP.
+- [todokan-review-loop](https://clawhub.ai/skills/banatealab-todokan-review-loop) - 处理 Todokan 任务 和 thought boards 使用 一个 review loop 工作流.
+- [token-management](https://clawhub.ai/skills/nonlinear-token-management) - Centralized Api 令牌 management 工作流.
+- [token-vesting](https://clawhub.ai/skills/sneg55-token-vesting) - 创建 和 管理 令牌 vesting streams 使用 Sablier Lockup 协议 (linear, dynamic, tranched).
+- [ttt](https://clawhub.ai/skills/joshuacrowley-ttt) - 管理 TinyTalkingTodos lists 和 items 通过 ttt Cli.
+- [tududi](https://clawhub.ai/skills/chrisvel-tududi) - 管理 tasks, projects, 和 notes 在 tududi (self hosted 任务 manager)
+- [unitask-task-agent](https://clawhub.ai/skills/mfaiz-007-unitask-task-agent) - 管理 tasks 时间 blocks 在 Unitask (unitask. 应用) 通过 scoped Api 令牌 (Cli 或 MCP).
+- [upwork-hunting](https://clawhub.ai/skills/staybased-upwork-hunting) - Systematically 查找 和 win Upwork jobs 使用 our n8n 工作流 library (2, 061 templates) 作为 一个 speed advantage.
+- [verk](https://clawhub.ai/skills/abhibavishi-verk) - 管理 tasks, projects, 和 workflows 在 Verk AI powered 任务 management.
+- [vikunja-kanban](https://clawhub.ai/skills/shad0wca7-vikunja-kanban) - 管理 一个 Vikunja kanban board 通过 Api.
+- [vikunja-tasks](https://clawhub.ai/skills/nickian-vikunja-tasks) - 管理 tasks 和 projects 在 一个 self hosted Vikunja instance.
+- [waste-reminder](https://clawhub.ai/skills/apenklit-waste-reminder) - 一个 flexible, 令牌 efficient skill 为 automated waste container collection reminders.
+- [workflow-engine](https://clawhub.ai/skills/plgonzalezrx8-workflow-engine) - Structural parity skeleton 为 队列 driven orchestration 在 一个 工作流 上下文.
+- [workflow-tools](https://clawhub.ai/skills/leegitw-workflow-tools) - Work smarter 使用 loop detection, parallel decisions, 和 文件 size analysis.
+- [wrike](https://clawhub.ai/skills/tallhamn-wrike) - 管理 Wrike tasks, projects, folders, 和 comments 通过 Wrike Rest Api.
+- [writing-plans](https://clawhub.ai/skills/zlc000190-writing-plans) - 使用 when you 有 一个 spec 或 requirements 为 一个 multi step 任务, before touching 代码.
+- [writing-plans-2](https://clawhub.ai/skills/nefas11-writing-plans-2) - Break design into 2 5 分钟 tasks 使用 验证 steps.
+- [x-agent](https://clawhub.ai/skills/inceptivco-x-agent) - Plan 和 运行 X (Twitter) operations 在 three modes: (1) 监控 仅 intelligence, (2) draft 和 approve posting.
+- [yield-farming-agent](https://clawhub.ai/skills/alannetwork-yield-farming-agent) - Autonomous yield farming 智能体 为 BNB Chain 使用 deterministic execution, smart contract integration.
+- [zero-rules](https://clawhub.ai/skills/deeqyaqub1-cmd-zero-rules) - Intercept deterministic tasks (math, 时间, currency, files, scheduling) BEFORE they hit LLM.
+- [zonein](https://clawhub.ai/skills/phutt-bwai-zonein) - 追踪 和 分析 top traders 使用 75 win rate 在 Hyperliquid 和 Polymarket 通过 Zonein Api.
+- [zulip](https://clawhub.ai/skills/suky57-zulip) - Interact 使用 Zulip 聊天 平台 通过 Rest Api 和 Python 客户端.

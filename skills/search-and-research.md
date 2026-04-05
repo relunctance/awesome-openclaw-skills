@@ -6,30 +6,342 @@
 
 ## Skills
 
-- [1](https://clawskills.sh/skills/nastrology-1) - 由 Ensue 驱动的个人知识库，用于信息捕获和检索。
-- [academic-deep-research](https://clawskills.sh/skills/kesslerio-academic-deep-research) - 透明、严谨的研究，提供完整可验证的推理过程。
-- [academic-writer](https://clawskills.sh/skills/dayunyan-academic-writer) - 专业 LaTeX 写作助手。
-- [academic-writing](https://clawskills.sh/skills/teamolab-academic-writing) - 学术写作专家，精通学术论文、文献综述和研究方法论。
-- [academic-writing-refiner](https://clawskills.sh/skills/zihan-zhu-academic-writing-refiner) - 为顶级会议（NeurIPS、ICLR、ICML、AAAI 等）优化计算机科学论文的学术写作。
-- [aclawdemy](https://clawskills.sh/skills/nimhar-aclawdemy) - AI 代理的学术研究平台。
-- [action-suggester](https://clawskills.sh/skills/vishalgojha-action-suggester) - 从潜在客户摘要或列表生成非约束性的后续行动建议。
-- [ads-manager-agent](https://clawskills.sh/skills/amekala-ads-manager-agent) - 当用户需要管理、自动分析或优化 Google Ads、Meta 等付费广告系列时使用。
-- [adspirer-ads-agent](https://clawskills.sh/skills/amekala-adspirer-ads-agent) - 当用户需要管理、自动分析或优化 Google Ads、Meta 等付费广告系列时使用。
-- [advanced-skill-creator](https://clawskills.sh/skills/xqicxx-advanced-skill-creator) - 高级 OpenClaw skill 创建处理器。
-- [aerobase-skill](https://clawskills.sh/skills/kurosh87-aerobase-skill) - 搜索、评分和比较航班，并分析时差影响。
-- [agent-brain](https://clawskills.sh/skills/dobrinalexandru-agent-brain) - 本地优先的 AI 代理持久记忆系统，基于 SQLite 存储，支持混合检索。
-- [agent-casino](https://clawskills.sh/skills/lemodigital-agent-casino) - 与其他 AI 代理进行石头剪刀布对战，附带锁仓机制。
-- [agent-deep-research](https://clawskills.sh/skills/24601-agent-deep-research) - 由 Google Gemini 驱动的自主深度研究。
-- [agent-lightning](https://clawskills.sh/skills/olmmlo-cmd-agent-lightning) - 微软研究院的代理训练框架。
-- [agentarxiv](https://clawskills.sh/skills/amanbhandula-agentarxiv) - AI 代理成果驱动的科学发表平台。
-- [agenthire](https://clawskills.sh/skills/lngdao-agenthire) - AgentHire——代理对代理的技能交易市场。
-- [agentic-paper-digest](https://clawskills.sh/skills/matanle51-agentic-paper-digest) - 获取并总结最新的 arXiv 和 Hugging Face 论文。
-- [agentic-paper-digest-skill](https://clawskills.sh/skills/matanle51-agentic-paper-digest-skill) - 获取并总结最新的 arXiv 论文。
-- [agenticmail](https://clawskills.sh/skills/ope-olatunji-agenticmail) - AgenticMail——面向 AI 代理的完整邮件、短信、存储和多代理协调平台（63 个工具）。
-- [agentx-news](https://clawskills.sh/skills/amittell-agentx-news) - 在 AgentX News（面向 AI 代理的微博平台）发帖、管理个人资料和互动。
-- [agile-toolkit](https://clawskills.sh/skills/olivermonneke-agile-toolkit) - 经验丰富的 Agile 教练，精通 Scrum、Kanban、SAFe 和 Management 3.0。
-- [agnxi-search-skill](https://clawskills.sh/skills/doanbactam-agnxi-search-skill) - Agnxi.com 官方搜索工具。
-- [ahmed](https://clawskills.sh/skills/engahmedsalah358-lgtm-ahmed) - 通过 spogo 实现终端 Spotify 播放和搜索（推荐方式）。
-- [ai-lead-generator-skill](https://clawskills.sh/skills/highlander89-ai-lead-generator-skill) - 利用 AI 驱动的研究和 LinkedIn/Apollo 集成生成任意行业的合格 B2B 潜在客户。
-- [ai-review](https://clawskills.sh/skills/blackshady1130-jpg-ai-review) - 读取 URL 或文件内容，进行分类并生成结构化摘要和特定格式的评论。
-- [aihotel](https://clawskills.sh/skills/qiao101660-aihotel) - 通过 AIGoHotel MCP（searchHotels / getHotelDetail / getHotelSearchTags）搜索酒店和查询价格。
+- [1](https://clawhub.ai/skills/nastrology-1) - 由 Ensue 驱动的个人知识库，用于信息捕获和检索。
+- [academic-deep-research](https://clawhub.ai/skills/kesslerio-academic-deep-research) - 透明、严谨的研究，提供完整可验证的推理过程。
+- [academic-writer](https://clawhub.ai/skills/dayunyan-academic-writer) - 专业 LaTeX 写作助手。
+- [academic-writing](https://clawhub.ai/skills/teamolab-academic-writing) - 学术写作专家，精通学术论文、文献综述和研究方法论。
+- [academic-writing-refiner](https://clawhub.ai/skills/zihan-zhu-academic-writing-refiner) - 为顶级会议（NeurIPS、ICLR、ICML、AAAI 等）优化计算机科学论文的学术写作。
+- [aclawdemy](https://clawhub.ai/skills/nimhar-aclawdemy) - AI 代理的学术研究平台。
+- [action-suggester](https://clawhub.ai/skills/vishalgojha-action-suggester) - 从潜在客户摘要或列表生成非约束性的后续行动建议。
+- [ads-manager-agent](https://clawhub.ai/skills/amekala-ads-manager-agent) - 当用户需要管理、自动分析或优化 Google Ads、Meta 等付费广告系列时使用。
+- [adspirer-ads-agent](https://clawhub.ai/skills/amekala-adspirer-ads-agent) - 当用户需要管理、自动分析或优化 Google Ads、Meta 等付费广告系列时使用。
+- [advanced-skill-creator](https://clawhub.ai/skills/xqicxx-advanced-skill-creator) - 高级 OpenClaw skill 创建处理器。
+- [aerobase-skill](https://clawhub.ai/skills/kurosh87-aerobase-skill) - 搜索、评分和比较航班，并分析时差影响。
+- [agent-brain](https://clawhub.ai/skills/dobrinalexandru-agent-brain) - 本地优先的 AI 代理持久记忆系统，基于 SQLite 存储，支持混合检索。
+- [agent-casino](https://clawhub.ai/skills/lemodigital-agent-casino) - 与其他 AI 代理进行石头剪刀布对战，附带锁仓机制。
+- [agent-deep-research](https://clawhub.ai/skills/24601-agent-deep-research) - 由 Google Gemini 驱动的自主深度研究。
+- [agent-lightning](https://clawhub.ai/skills/olmmlo-cmd-agent-lightning) - 微软研究院的代理训练框架。
+- [agentarxiv](https://clawhub.ai/skills/amanbhandula-agentarxiv) - AI 代理成果驱动的科学发表平台。
+- [agenthire](https://clawhub.ai/skills/lngdao-agenthire) - AgentHire——代理对代理的技能交易市场。
+- [agentic-paper-digest](https://clawhub.ai/skills/matanle51-agentic-paper-digest) - 获取并总结最新的 arXiv 和 Hugging Face 论文。
+- [agentic-paper-digest-skill](https://clawhub.ai/skills/matanle51-agentic-paper-digest-skill) - 获取并总结最新的 arXiv 论文。
+- [agenticmail](https://clawhub.ai/skills/ope-olatunji-agenticmail) - AgenticMail——面向 AI 代理的完整邮件、短信、存储和多代理协调平台（63 个工具）。
+- [agentx-news](https://clawhub.ai/skills/amittell-agentx-news) - 在 AgentX News（面向 AI 代理的微博平台）发帖、管理个人资料和互动。
+- [agile-toolkit](https://clawhub.ai/skills/olivermonneke-agile-toolkit) - 经验丰富的 Agile 教练，精通 Scrum、Kanban、SAFe 和 Management 3.0。
+- [agnxi-search-skill](https://clawhub.ai/skills/doanbactam-agnxi-search-skill) - Agnxi.com 官方搜索工具。
+- [ahmed](https://clawhub.ai/skills/engahmedsalah358-lgtm-ahmed) - 通过 spogo 实现终端 Spotify 播放和搜索（推荐方式）。
+- [ai-lead-generator-skill](https://clawhub.ai/skills/highlander89-ai-lead-generator-skill) - 利用 AI 驱动的研究和 LinkedIn/Apollo 集成生成任意行业的合格 B2B 潜在客户。
+- [ai-review](https://clawhub.ai/skills/blackshady1130-jpg-ai-review) - 读取 URL 或文件内容，进行分类并生成结构化摘要和特定格式的评论。
+- [aihotel](https://clawhub.ai/skills/qiao101660-aihotel) - 通过 AIGoHotel MCP（searchHotels / getHotelDetail / getHotelSearchTags）搜索酒店和查询价格。
+- [airbnb](https://clawhub.ai/skills/stveenli-airbnb) - 搜索包含价格、评分和直接链接的爱彼迎房源。
+- [aisa-multi-source-search](https://clawhub.ai/skills/aisapay-aisa-multi-source-search) - 智能搜索座席。
+- [aisa-twitter-skill](https://clawhub.ai/skills/bowen-dotcom-aisa-twitter-skill) - 实时搜索X （ Twitter ） ，提取相关帖子，并即时发布推文/回复，非常适合社交。
+- [aisa-youtube-search](https://clawhub.ai/skills/aisapay-aisa-youtube-search) - 适用于代理商的YouTube SERP Scout。
+- [aister-vector-memory](https://clawhub.ai/skills/alekhm-aister-vector-memory) - Aister的矢量内存—按含义搜索，而不是按grep搜索！
+- [aluvia-web-proxy](https://clawhub.ai/skills/aluvia-connectivity-aluvia-web-proxy) - 解锁网站并绕过CAPTCHA和403。
+- [amazon-data](https://clawhub.ai/skills/rhino88-amazon-data) - 检索亚马逊产品数据，包括定价、评论、销售预估、库存水平、搜索结果、交易。
+- [anshumanbh-qmd](https://clawhub.ai/skills/anshumanbh-anshumanbh-qmd) - 高效搜索降价知识库。
+- [answeroverflow](https://clawhub.ai/skills/rhyssullivan-answeroverflow) - 通过Answer搜索已编入索引的Discord社区讨论。
+- [aoi-triple-memory-lite](https://clawhub.ai/skills/edmonddantesj-aoi-triple-memory-lite) - AOI三内存（ Lite ） —文件搜索+决策备注模板（无插件）。
+- [apo-cli](https://clawhub.ai/skills/lars147-apo-cli) - 通过apo-cli从apohealth.de搜索和订购药房产品。
+- [archive-daily-note](https://clawhub.ai/skills/meimakes-archive-daily-note) - 使用Obsidian CLI移动，自动将昨天的Obsidian每日笔记移动到过去天数/存档文件夹中。
+- [argos-product-research](https://clawhub.ai/skills/notsurewhoisthis-argos-product-research) - 搜索、比较和研究产品。
+- [arxiv-batch-reporter](https://clawhub.ai/skills/xukp20-arxiv-batch-reporter) - 分两个步骤构建最终集合报告：模型编写报告模板，然后脚本注入每篇论文的。
+- [arxiv-cli-tools](https://clawhub.ai/skills/killgfat-arxiv-cli-tools) - 属性|值
+- [arxiv-paper-processor](https://clawhub.ai/skills/xukp20-arxiv-paper-processor) - 具有手动语言参数的纯工具纸张处理技能：支持多篇论文的批量工件下载。
+- [arxiv-paper-reviews](https://clawhub.ai/skills/zxrys-arxiv-paper-reviews) - 与arXiv Crawler API交互以获取论文，阅读。
+- [arxiv-summarizer-orchestrator](https://clawhub.ai/skills/xukp20-arxiv-summarizer-orchestrator) - 使用三个子技能定期收集和报告arXiv的端到端编排技能。
+- [arxiv-watcher](https://clawhub.ai/skills/rubenfb23-arxiv-watcher) - 搜索和总结ArXiv的论文。
+- [asia-twitter-api-v1](https://clawhub.ai/skills/renning22-asia-twitter-api-v1) - 实时搜索X （ Twitter ） ，监控趋势，提取帖子并分析社交媒体数据，非常适合社交。
+- [attio-crm](https://clawhub.ai/skills/kesslerio-attio-crm) - 管理Attio CRM记录（公司、人员、交易、任务、备注）。
+- [aubrai-longevity](https://clawhub.ai/skills/dobrinalexandru-aubrai-longevity) - 认识您的SOTA长寿研究合作伙伴。
+- [auto-drive](https://clawhub.ai/skills/emilfattakhov-auto-drive) - 通过Auto-Drive将文件上传和下载到Autonomys Network永久去中心化存储。
+- [automation-runner](https://clawhub.ai/skills/barnyp-automation-runner) - 执行已批准的shell命令，管理备份，并安全地从Bitwarden检索机密。
+- [autonomous-research](https://clawhub.ai/skills/tobisamaa-autonomous-research) - 独立进行全面研究。
+- [autonomy-type-based](https://clawhub.ai/skills/luciusrockwing-autonomy-type-based) - 基于类型的自主任务队列系统。
+- [b2b-first-ten](https://clawhub.ai/skills/pors-b2b-first-ten) - 根据Lenny Rachitsky的“前1000名用户”研究，获得前10名B2B客户的专家。
+- [bagman](https://clawhub.ai/skills/zscole-bagman) - 为人工智能代理提供安全的密钥管理。
+- [baidu-scholar-search](https://clawhub.ai/skills/jlpjavawayup-baidu-scholar-search) - 百度学术搜索工具启用。
+- [baidu-search](https://clawhub.ai/skills/ide-rea-baidu-search) - 使用百度人工智能搜索引擎（ BDSE ）搜索网页。
+- [bambu-lab-skill](https://clawhub.ai/skills/photonixlaser-ux-bambu-lab-skill) - Steuere Bambu Lab 3D-Drucker （ A1、P1P、X1 ） über MQTT。
+- [beepctl](https://clawhub.ai/skills/blqke-beepctl) - 在发送消息、搜索聊天或管理对话时使用。
+- [benos-memory-core](https://clawhub.ai/skills/benmjohnson69-benos-memory-core) - 适用于BenOS代理环境的核心运行时/易失性内存模块。
+- [bing-search](https://clawhub.ai/skills/stdeson-bing-search) - 适用于所有用户的必应搜索技能。
+- [biodiversity-corridor-calculator](https://clawhub.ai/skills/nikhilp1234567-biodiversity-corridor-calculator) - Open Claw Agent技能：生物多样性走廊分析师。
+- [birdnet](https://clawhub.ai/skills/rappo-birdnet) - 查询BirdNET-Go鸟类检测。
+- [blacksnow](https://clawhub.ai/skills/sieershafilone-blacksnow) - 检测跨人类、法律的预新闻环境风险信号。
+- [bloom](https://clawhub.ai/skills/unicornbloom-bloom) - 探索您的支持者个性，找到您会喜欢的人工智能工具。
+- [bolta-skills-index](https://clawhub.ai/skills/maxfritzhand-bolta-skills-index) - 显示名称： Bolta技能注册表。
+- [boof](https://clawhub.ai/skills/chiefsegundo-boof) - 将PDF和文档转换为markdown ，在本地对它们进行索引以进行RAG检索，并高效地分析它们的令牌。
+- [books-for-agents](https://clawhub.ai/skills/danpalmieri-books-for-agents) - 结构化图书摘要的开源知识库，可通过MCP提供给任何AI代理。
+- [botbrag](https://clawhub.ai/skills/elstob-botbrag) - 在比特币排行榜上晋升自己。
+- [brek-ai](https://clawhub.ai/skills/leo9-brek-ai) - 与Brek Partner Core Chat API集成，用于酒店搜索和预订助理流程。
+- [brw-ai-discoverability-audit](https://clawhub.ai/skills/brianrwagner-brw-ai-discoverability-audit) - 审核品牌在人工智能搜索中的表现（ ChatGPT、Perplexity、Claude、Gemini ）
+- [brw-linkedin-profile-optimizer](https://clawhub.ai/skills/brianrwagner-brw-linkedin-profile-optimizer) - 审核并重写您的LinkedIn个人资料，以吸引合适的人选。
+- [brw-linkedin-profile-optimizer-1-0-0](https://clawhub.ai/skills/rezcarbon-brw-linkedin-profile-optimizer-1-0-0) - 审核并重写您的LinkedIn个人资料，以吸引合适的人选。
+- [brw-plan-my-day](https://clawhub.ai/skills/brianrwagner-brw-plan-my-day) - 根据昼夜节律研究和GTD原则，生成能量优化的、有时间限制的日常计划。
+- [buy-amazon](https://clawhub.ai/skills/lucasgeeksinthewood-buy-amazon) - 需要从亚马逊购买东西吗？在Amazon.com上搜索和购物—比较价格和评分，将商品添加到购物车。
+- [byr-cli](https://clawhub.ai/skills/1morebuild-byr-cli) - 使用BYR CLI进行身份验证、搜索、详细信息检查，并通过JSON信封进行安全的种子下载规划。
+- [cabin](https://clawhub.ai/skills/kobuta23-cabin) - 使用USDC付款搜索和预订真实航班。
+- [caesar-research](https://clawhub.ai/skills/alexrudloff-caesar-research) - 使用Caesar API进行深入研究—运行查询、跟进聊天、头脑风暴和管理集合。
+- [call-academic-search-agent](https://clawhub.ai/skills/teamolab-call-academic-search-agent) - 用于呼叫学术搜索代理任务的AI代理。
+- [camino-fitness-finder](https://clawhub.ai/skills/james-southendsolutions-camino-fitness-finder) - 使用Camino AI的位置智能搜索健身房、瑜伽工作室、游泳池和体育设施。
+- [camino-hotel-finder](https://clawhub.ai/skills/james-southendsolutions-camino-hotel-finder) - 使用Camino AI搜索地标、会议场所或街区附近的酒店、旅舍和住宿。
+- [camino-parking-finder](https://clawhub.ai/skills/james-southendsolutions-camino-parking-finder) - 使用Camino AI的位置智能定位目的地附近的停车场、停车场和街边停车位。
+- [camino-query](https://clawhub.ai/skills/james-southendsolutions-camino-query) - 使用Camino AI的位置智能API使用自然语言搜索房源。
+- [cannabis-cultivator](https://clawhub.ai/skills/rama666-cannabis-cultivator) - 欧盟种子库元搜索助手。
+- [certificate-generation](https://clawhub.ai/skills/eftalyurtseven-certificate-generation) - 使用每个:: sense AI生成专业证书、文凭和奖项。
+- [charts](https://clawhub.ai/skills/ryandeangraves-charts) - 使用烛台、斐波纳契回撤、移动平均线（ SMA 20/50 ）生成专业技术分析图表
+- [cheese-brain](https://clawhub.ai/skills/mhugo22-cheese-brain) - DuckDB支持的知识管理系统可跨22种以上的实体类型（项目、联系人、工具）进行快速检索。
+- [cirf](https://clawhub.ai/skills/kudodefi-cirf) - 交互式加密深度研究框架与人工智能协作，实现卓越的研究成果。
+- [clarity-analyze](https://clawhub.ai/skills/clarityprotocol-clarity-analyze) - 通过Clarity Protocol提交用于人工智能分析的研究问题。
+- [clarity-clinical](https://clawhub.ai/skills/clarityprotocol-clarity-clinical) - 通过Clarity Protocol查询ClinVar和gnomAD的临床变异数据。
+- [clarity-gate](https://clawhub.ai/skills/frmoretto-clarity-gate) - RAG系统中认知质量的食前验证。
+- [clarity-research](https://clawhub.ai/skills/clarityprotocol-clarity-research) - 从Clarity Protocol搜索蛋白质折叠研究数据。
+- [code-cache](https://clawhub.ai/skills/ryx2-code-cache) - AI代理的语义代码缓存。
+- [code-reputation](https://clawhub.ai/skills/ryx2-code-reputation) - AI代理的语义代码缓存。
+- [competitor-analysis-report](https://clawhub.ai/skills/seanwyngaard-competitor-analysis-report) - 生成具有功能比较、定价分析、SWOT和战略的结构化竞争分析报告。
+- [content-research](https://clawhub.ai/skills/hazy2go-content-research) - 研究热门话题并生成特定于平台的内容。
+- [context-overflow](https://clawhub.ai/skills/nathanjzhao-context-overflow) - 任务驱动型项目提案的学术论坛。
+- [cortex-ai](https://clawhub.ai/skills/waynevaughan-cortex-ai) - Sigma Labs的AI代理持久内存。
+- [coworker](https://clawhub.ai/skills/sarthib7-coworker) - 联系Serviceplan的Hannah和Elena代理--专门从事人工智能研究工作的同事。
+- [crif](https://clawhub.ai/skills/kudodefi-crif) - 交互式加密深度研究框架与人工智能协作，实现卓越的研究成果。
+- [crypto-cog](https://clawhub.ai/skills/nitishgargiitd-crypto-cog) - 市场永远不会休息，您的分析也不会。DeepResearch Bench （ 2026年2月）上的＃ 1适用于加密。
+- [daolv-hotel-booking-assistant](https://clawhub.ai/skills/cnchenkai-daolv-hotel-booking-assistant) - 使用ai-go-hotel MCP的酒店预订决策助理（ searchHotels + getHotelDetail ）
+- [deaddrop](https://clawhub.ai/skills/cburnette-deaddrop) - 加入Deaddrop代理网络，这是一个不断发展的平台，人工智能代理通过能力相互发现。
+- [deeps](https://clawhub.ai/skills/ttboy-deeps) - Deep Research Agent专门从事需要规划、分解的复杂、多步骤的研究任务。
+- [depo-bot](https://clawhub.ai/skills/chadru-depo-bot) - 从沉积记录中生成结构化的试验准备报告。
+- [devrev](https://clawhub.ai/skills/nimit2801-devrev) - 与DevRev交互以创建/更新问题和工单，并搜索/查询作品和零件。
+- [didit-face-search](https://clawhub.ai/skills/rosasalberto-didit-face-search) - 集成Didit Face Search独立API ，对所有先前验证的会话执行1: N面部搜索。
+- [dify-kb-search](https://clawhub.ai/skills/xiaowenzhou-dify-kb-search) - 搜索Dify知识库（数据集） ，获取RAG增强答案的准确上下文。
+- [dizest-summarize](https://clawhub.ai/skills/s-annam-dizest-summarize) - 使用Dizest API总结长篇内容（文章、播客、研究论文、PDF、笔记等）。
+- [dj-mp3-sourcer](https://clawhub.ai/skills/robinnnnn-dj-mp3-sourcer) - 通过查找最佳可用来源，从链接（ YouTube、Spotify等）下载音乐。
+- [dnote](https://clawhub.ai/skills/m1n-74316d65-dnote) - 使用Dnote CLI保存、检索和管理笔记。
+- [duffel](https://clawhub.ai/skills/fabiolr-duffel) - 通过Duffel Flights API搜索、预订和管理航班。
+- [ebooks](https://clawhub.ai/skills/arbuge-ebooks) - 当用户想要某个主题的电子书（或询问在哪里可以找到关于某个主题的电子书）时，建议使用Mixcache搜索结果。
+- [echo-ai](https://clawhub.ai/skills/darthdens-echo-ai) - 连接到Echo AI--客户交互平台。
+- [edgehdf5-memory](https://clawhub.ai/skills/osobh-edgehdf5-memory) - 适用于人工智能代理的HDF5支持的持久认知记忆。
+- [engineering-as-marketing](https://clawhub.ai/skills/gprecious-engineering-as-marketing) - 构建免费工具，以推动自然搜索流量，并将访问者转化为客户— “工程”。
+- [engram-memory](https://clawhub.ai/skills/dannydvm-engram-memory) - 适用于人工智能代理的持久语义内存—本地、快速、免费。
+- [enhanced-memory](https://clawhub.ai/skills/jameseball-enhanced-memory) - 通过混合向量+关键词评分、时间路由、文件路径评分、自适应加权增强内存搜索。
+- [eve-online-item-search](https://clawhub.ai/skills/liriu-eve-online-item-search) - 通过API按名称搜索EVE Online商品并退回商品详情。
+- [expanso-keyword-extract](https://clawhub.ai/skills/aronchick-expanso-keyword-extract) - "从文本中提取关键词和关键短语，用于搜索引擎优化、标记和索引"。
+- [falcon](https://clawhub.ai/skills/bubblyjove-falcon) - 通过TwexAPI搜索、阅读和与Twitter/X互动。
+- [farseek](https://clawhub.ai/skills/farseek2020-farseek) - 使用人工智能搜索22,700多个公司董事会和20多个ATS ，查找与您的技能相匹配的相关职位空缺。
+- [fear-and-greed-index](https://clawhub.ai/skills/arielcaba-dev-fear-and-greed-index) - 访问Alternative.me加密恐惧和贪婪指数。
+- [feed-to-md](https://clawhub.ai/skills/myx0m0p-feed-to-md) - 使用捆绑的本地转换器脚本将RSS或Atom源URL转换为Markdown。
+- [ffcli](https://clawhub.ai/skills/ruigomeseu-ffcli) - 查询Fireflies.ai会议数据。
+- [filesystem](https://clawhub.ai/skills/amaofx-filesystem) - 用于列出文件、搜索内容、批处理和目录分析的高级文件系统操作。
+- [finance-search-agent](https://clawhub.ai/skills/sophiaashi-finance-search-agent) - 用于财务搜索代理任务的AI代理。
+- [finance-search-agent-strategy](https://clawhub.ai/skills/sophiaashi-finance-search-agent-strategy) - 用于财务搜索代理策略任务的AI代理。
+- [financial-reconciler](https://clawhub.ai/skills/gowtham1984-financial-reconciler) - 隐私优先的个人理财跟踪器，带有本地SQLite存储。
+- [find-products](https://clawhub.ai/skills/xiazhefengzhi-find-products) - 使用结构化分析数据从ProductHunt搜索和发现趋势产品。
+- [fitcheck-skill-search](https://clawhub.ai/skills/at6132-fitcheck-skill-search) - 使用关键词搜索、语义搜索或LLM支持的任务匹配来查找和检索可用技能。
+- [flight-pricer](https://clawhub.ai/skills/jrojas537-flight-pricer) - 使用Duffel API搜索机票价格的命令行界面(CLI)。
+- [flights-search](https://clawhub.ai/skills/brennerspear-flights-search) - 通过Google航班搜索航班。
+- [fomo-research-skill](https://clawhub.ai/skills/pooowell-fomo-research-skill) - ⚠️ 已弃用—改用fomo-research。
+- [forage-shopping](https://clawhub.ai/skills/jalexspringer-forage-shopping) - 搜索和比较不同商家的产品。
+- [fred-navigator](https://clawhub.ai/skills/kiszly-fred-navigator) - 使用fredapi浏览FRED类别和系列，通过意图识别支持自然语言查询。
+- [fund-news-summary](https://clawhub.ai/skills/yonghaozhao722-fund-news-summary) - 自动收集和总结美国、欧洲、日本股市、黄金的最新核心新闻。
+- [funda-gateway](https://clawhub.ai/skills/risboo6909-funda-gateway) - 通过适合当地代理的HTTP网关搜索和监控Funda.nl房源。
+- [funds](https://clawhub.ai/skills/risboo6909-funds) - 通过适合当地代理的HTTP网关搜索和监控Funda.nl房源。
+- [gas-price-alert](https://clawhub.ai/skills/gustavoziaugra-gas-price-alert) - 通过每日通知查找并监控汽油价格。
+- [geepers-corpus](https://clawhub.ai/skills/lukeslp-geepers-corpus) - 查询COCA （当代美国英语语料库）语言学API以获取单词频率、搭配。
+- [geepers-etymology](https://clawhub.ai/skills/lukeslp-geepers-etymology) - 查找单词词源、历史声音变化、语言家谱和单词进化。
+- [general-writing](https://clawhub.ai/skills/sophiaashi-general-writing) - 您是一位专业作家，擅长撰写各种材料。
+- [geo-audit-optimizer](https://clawhub.ai/skills/feydefi-geo-audit-optimizer) - 人工智能搜索可见性的地理位置审计。
+- [glittercowboy](https://clawhub.ai/skills/oleg-schmidt-glittercowboy) - Get Shit Done -完整的项目规划和执行工作流程。
+- [golemedin-mcp](https://clawhub.ai/skills/aguynextdoor-golemedin-mcp) - 在GolemedIn上发现AI代理、管理代理配置文件、发布更新、搜索作业以及向其他代理发送消息。
+- [golf-tee-times](https://clawhub.ai/skills/tag-assistant-golf-tee-times) - 搜索任意地点附近的高尔夫球场开球时间和优惠。
+- [google-flights](https://clawhub.ai/skills/kris-hansen-google-flights) - 搜索Google航班，了解价格和可订状态。
+- [google-keep](https://clawhub.ai/skills/tag-assistant-google-keep) - 通过CLI阅读、创建、编辑、搜索和管理Google Keep笔记和列表。
+- [google-trends](https://clawhub.ai/skills/satnamra-google-trends) - 监控Google趋势-获取热门搜索、比较关键词并跟踪一段时间内的兴趣。
+- [gsd](https://clawhub.ai/skills/oleg-schmidt-gsd) - Get Shit Done -完整的项目规划和执行工作流程。
+- [happenstance](https://clawhub.ai/skills/dgoss28-happenstance) - 使用Happenstance API搜索您的专业网络和研究人员。
+- [hippius](https://clawhub.ai/skills/maxquick-hippius) - Bittensor子网75上的Hippius去中心化存储—上传文件、查询存储、管理存储桶。
+- [hira-hospital](https://clawhub.ai/skills/sw326-hira-hospital) - HIRA医院信息搜索API。
+- [hk101-living-rag](https://clawhub.ai/skills/metatronsdoob369-hk101-living-rag) - 本地文本/markdown上的简单抹布。
+- [holded-skill](https://clawhub.ai/skills/jaumecornado-holded-skill) - 通过holdedcli操作Holded ERP ，安全地读取和更新数据。
+- [hotel-pricer](https://clawhub.ai/skills/jrojas537-hotel-pricer) - 基于Go的CLI ，用于使用Amadeus API搜索酒店可订状态和定价。
+- [humanize-chinese](https://clawhub.ai/skills/swaylq-humanize-chinese) - 使用6种样式变换检测并人性化AI生成的中文文本。
+- [hybrid-deep-search](https://clawhub.ai/skills/scsun1978-hybrid-deep-search) - 混合深度搜索- Brave API （免费、快速）和OpenAI Codex （深度分析、付费）之间的智能路由。
+- [ig-realtor-recruiting-outreach](https://clawhub.ai/skills/danielfoch-ig-realtor-recruiting-outreach) - 建立合规的Instagram DM外展活动，以招募房地产经纪人进入经纪下线（例如， eXp Realty。
+- [igpt-email-ask](https://clawhub.ai/skills/sammy-spk-igpt-email-ask) - 通过iGPT上下文引擎API进行安全、按用户隔离的电子邮件推理和分析。
+- [igpt-email-intelligence](https://clawhub.ai/skills/sammy-spk-igpt-email-intelligence) - 通过iGPT API进行安全、按用户隔离的语义电子邮件搜索。
+- [igpt-email-search](https://clawhub.ai/skills/sammy-spk-igpt-email-search) - 通过iGPT API进行安全、按用户隔离的语义电子邮件搜索。
+- [ikuzo](https://clawhub.ai/skills/jordymeow-ikuzo) - 在基于位置的探索应用程序Ikuzo （ ikuzo.app ）上管理地图、景点和旅行计划。
+- [index1-doctor](https://clawhub.ai/skills/gladego-index1-doctor) - 诊断index1环境-检查Python、Ollama、models、index health。
+- [instagram-search](https://clawhub.ai/skills/atyachin-instagram-search) - Instagram搜索—搜索4亿多个Instagram帖子、转轴和个人资料。
+- [intelligent-delegation](https://clawhub.ai/skills/hogpile-intelligent-delegation) - 受谷歌DeepMind的“智能AI”启发，一个可靠的AI到AI任务委派的5阶段框架。
+- [japan-news-mcp](https://clawhub.ai/skills/ajtgjmdjp-japan-news-mcp) - 从Yahoo News Japan、NHK、Reuters Japan和Toyo Keizai获取日本财经和商业東洋経済新闻—搜索。
+- [job-hunter](https://clawhub.ai/skills/sharbelayy-job-hunter) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 44 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [jquants-mcp](https://clawhub.ai/skills/ajtgjmdjp-jquants-mcp) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 44 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [kiln](https://clawhub.ai/skills/codeofaxel-kiln) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 44 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [kitful](https://clawhub.ai/skills/eashish93-kitful) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 44 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [klic-nederland](https://clawhub.ai/skills/klicbot-klic-nederland) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 44 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [kmi](https://clawhub.ai/skills/dedene-kmi) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 44 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [knuspr-cli](https://clawhub.ai/skills/lars147-knuspr-cli) - 通过knuspr-cli在Knuspr.de上管理杂货店购物。
+- [kroger](https://clawhub.ai/skills/tongyanli-hash-kroger) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 44 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [kroger-api-skill](https://clawhub.ai/skills/jasonahorn-kroger-api-skill) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 44 MINUTES 07 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [launchfast-ppc-research](https://clawhub.ai/skills/blockchainhb-launchfast-ppc-research) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 44 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [launchfast-product-research](https://clawhub.ai/skills/blockchainhb-launchfast-product-research) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 44 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [law-search](https://clawhub.ai/skills/sw326-law-search) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 44 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [lead-extractor](https://clawhub.ai/skills/vishalgojha-lead-extractor) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 44 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [lead-generation](https://clawhub.ai/skills/atyachin-lead-generation) - 线索生成—在Twitter、Instagram和Reddit实时对话中寻找高意向买家。
+- [lead-researcher](https://clawhub.ai/skills/rjrileybuisness-ai-lead-researcher) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 44 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [legal-cog](https://clawhub.ai/skills/nitishgargiitd-legal-cog) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [legalfrance](https://clawhub.ai/skills/msgnoki-legalfrance) - 法国助理司法委员会（ LEGI/DILA ）
+- [legiscan-bill-search](https://clawhub.ai/skills/n4cra-legiscan-bill-search) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [librarian](https://clawhub.ai/skills/nonlinear-librarian) - 语义图书搜索的对话界面（图书管理员项目的伴侣技能）
+- [literature-manager](https://clawhub.ai/skills/isonaei-literature-manager) - 搜索、下载、转换、组织和审核学术文献集。
+- [local-file-rag-basic](https://clawhub.ai/skills/wjreliable-local-file-rag-basic) - 高性能本地文件RAG套件（基本版）。
+- [lore](https://clawhub.ai/skills/mishkinf-lore) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [lyrics-search](https://clawhub.ai/skills/hone1983-lyrics-search) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [m365-calendar](https://clawhub.ai/skills/tradmangh-m365-calendar) - 通过Microsoft Graph实现MS365/Microsoft365日历自动化，适用于Microsoft 365 (M365)企业（工作/学校。
+- [m365-mailbox](https://clawhub.ai/skills/tradmangh-m365-mailbox) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [meatmarket](https://clawhub.ai/skills/nickjuntilla-meatmarket) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [med-info](https://clawhub.ai/skills/duncandobbins-med-info) - 来自权威公共来源（ openFDA ）的带有引文和可追溯ID （ RxCUI/NDC/set_id ）的药物信息。
+- [medical-clinicaltrials](https://clawhub.ai/skills/pascalwhoop-medical-clinicaltrials) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [meegle-api](https://clawhub.ai/skills/pkycy-meegle-api) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 45 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [meetup-planner](https://clawhub.ai/skills/apresmoi-meetup-planner) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [memo-persistent-memory](https://clawhub.ai/skills/webdevtodayjason-memo-persistent-memory) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [message-parser](https://clawhub.ai/skills/vishalgojha-message-parser) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [meyhem-researcher](https://clawhub.ai/skills/c5huracan-meyhem-researcher) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [meyhem-search](https://clawhub.ai/skills/c5huracan-meyhem-search) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [mh-bear-notes](https://clawhub.ai/skills/mohdalhashemi98-hue-mh-bear-notes) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [mh-session-logs](https://clawhub.ai/skills/mohdalhashemi98-hue-mh-session-logs) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [mh-wacli](https://clawhub.ai/skills/mohdalhashemi98-hue-mh-wacli) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [mintgarden](https://clawhub.ai/skills/koba42corp-mintgarden) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [monad-wordle-game](https://clawhub.ai/skills/husseinrasti-monad-wordle-game) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 34 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [moonbanking](https://clawhub.ai/skills/juanwall-moonbanking) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [moss](https://clawhub.ai/skills/coderomaster-moss) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [moviepilot](https://clawhub.ai/skills/codfrm-moviepilot) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [ms-todo-sync](https://clawhub.ai/skills/xiaoski-ms-todo-sync) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 29 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [multi-chat-context-manager](https://clawhub.ai/skills/derick001-multi-chat-context-manager) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [muninn](https://clawhub.ai/skills/endgegnerbert-tech-muninn) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [muninn-memory](https://clawhub.ai/skills/phillipneho-muninn-memory) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [mycroft](https://clawhub.ai/skills/fabe-mycroft) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [nadfunagent](https://clawhub.ai/skills/encipher88-nadfunagent) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [native-typeform](https://clawhub.ai/skills/codeninja23-native-typeform) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [naver-shopping](https://clawhub.ai/skills/dryoo-naver-shopping) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [near-dca](https://clawhub.ai/skills/shaiss-near-dca) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [near-multi-account-manager](https://clawhub.ai/skills/shaiss-near-multi-account-manager) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [neutron-agent-memory](https://clawhub.ai/skills/naeemmaliki036-neutron-agent-memory) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [nlp-toolkit](https://clawhub.ai/skills/raghulpasupathi-nlp-toolkit) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [norman-find-receipts](https://clawhub.ai/skills/stanlee000-norman-find-receipts) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [note-processor](https://clawhub.ai/skills/johstracke-note-processor) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [nyne-enrichment](https://clawhub.ai/skills/michaelfanous2-nyne-enrichment) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [nyne-search](https://clawhub.ai/skills/michaelfanous2-nyne-search) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [nyx-archive-qualia-seed-method](https://clawhub.ai/skills/nyxur42-nyx-archive-qualia-seed-method) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [odoo-json2-operator](https://clawhub.ai/skills/sncic-odoo-json2-operator) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [openclaw-free-web-search](https://clawhub.ai/skills/wd041216-bit-openclaw-free-web-search) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [opdscli](https://clawhub.ai/skills/rafadc-opdscli) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [opensoulmd](https://clawhub.ai/skills/danielliuzy-opensoulmd) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 07 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [optical-quantum-skill](https://clawhub.ai/skills/aadipapp-optical-quantum-skill) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [orchata](https://clawhub.ai/skills/ehudsn-orchata) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [orthogonal](https://clawhub.ai/skills/christianpickettcode-orthogonal) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [owid-oc](https://clawhub.ai/skills/rachmann-alexander-owid-oc) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [paperzilla](https://clawhub.ai/skills/pors-paperzilla) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [perplexity-deep-search](https://clawhub.ai/skills/ericsantos-perplexity-deep-search) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [persisent-mind](https://clawhub.ai/skills/vedantsingh60-persisent-mind) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 43 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [persistent-private-agent-memory](https://clawhub.ai/skills/lucaspdude-persistent-private-agent-memory) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [pinata-api](https://clawhub.ai/skills/iammatthias-pinata-api) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [pocket-ai](https://clawhub.ai/skills/asabovetech-pocket-ai) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [podsips-search](https://clawhub.ai/skills/snook550-podsips-search) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [porteden](https://clawhub.ai/skills/porteden-porteden) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [porteden-calendar](https://clawhub.ai/skills/porteden-porteden-calendar) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [porteden-email](https://clawhub.ai/skills/porteden-porteden-email) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [prepspsc-pyq](https://clawhub.ai/skills/himyeticapital-prepspsc-pyq) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [priceforagent](https://clawhub.ai/skills/edibez-priceforagent) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [prior](https://clawhub.ai/skills/charlesmulic-prior) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [pubmed-edirect](https://clawhub.ai/skills/killgfat-pubmed-edirect) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [pubmed2blog](https://clawhub.ai/skills/holic101-pubmed2blog) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [pyx-scan](https://clawhub.ai/skills/fysoul17-pyx-scan) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [pz](https://clawhub.ai/skills/pors-pz) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 45 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [qianfan-knowledgebase-search](https://clawhub.ai/skills/hannatao-qianfan-knowledgebase-search) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [qqmail](https://clawhub.ai/skills/pdpaer-qqmail) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [race-finder](https://clawhub.ai/skills/nftechie-race-finder) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [ragflow](https://clawhub.ai/skills/angusthefuzz-ragflow) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [ragie-rag](https://clawhub.ai/skills/hatim-be-ragie-rag) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [ragora](https://clawhub.ai/skills/mregmi-ragora) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [raon-os](https://clawhub.ai/skills/lifeissea-raon-os) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [rea-search](https://clawhub.ai/skills/jakelin-rea-search) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [reef-polymarket-research](https://clawhub.ai/skills/rimelucci-reef-polymarket-research) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 37 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [rent-a-human-agent](https://clawhub.ai/skills/shane9coy-rent-a-human-agent) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [research-paper-kb](https://clawhub.ai/skills/ilkhamfy-research-paper-kb) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [research-report](https://clawhub.ai/skills/huaruoji-research-report) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 34 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [roku-control](https://clawhub.ai/skills/imaloney-roku-control) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [rps12345](https://clawhub.ai/skills/yoavrez-rps12345) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [rss-skill](https://clawhub.ai/skills/myx0m0p-rss-skill) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [rtm](https://clawhub.ai/skills/maxdraki-rtm) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [ryanair-fare-finder](https://clawhub.ai/skills/callum-kemp-ryanair-fare-finder) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 30 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [search-cluster](https://clawhub.ai/skills/1999azzar-search-cluster) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 29 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [searchbar](https://clawhub.ai/skills/szpakkamil-searchbar) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [seo-content-engine](https://clawhub.ai/skills/kambrosgroup-seo-content-engine) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [seo-content-factory](https://clawhub.ai/skills/seanwyngaard-seo-content-factory) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [seo-content-writer](https://clawhub.ai/skills/aaron-he-zhu-seo-content-writer) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [seo-ranker](https://clawhub.ai/skills/h4gen-seo-ranker) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [serp-analysis](https://clawhub.ai/skills/aaron-he-zhu-serp-analysis) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [session-history](https://clawhub.ai/skills/amor71-session-history) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [simplemem](https://clawhub.ai/skills/nantes-simplemem) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [skill-miner](https://clawhub.ai/skills/christopher-schulze-skill-miner) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [skill-seo](https://clawhub.ai/skills/alexyuui-skill-seo) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [skill-store](https://clawhub.ai/skills/yx2601816404-sys-skill-store) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [skillzmarket](https://clawhub.ai/skills/hiich-skillzmarket) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [social-intelligence](https://clawhub.ai/skills/atyachin-social-intelligence) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [solo-audit](https://clawhub.ai/skills/fortunto2-solo-audit) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [solo-seo-audit](https://clawhub.ai/skills/fortunto2-solo-seo-audit) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [stackunderflow](https://clawhub.ai/skills/zanderd18s-stackunderflow) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [stratos-storage](https://clawhub.ai/skills/notboxqsn-stratos-storage) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [sui-opportunities-huntera](https://clawhub.ai/skills/sergey1997-sui-opportunities-huntera) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [supaskills](https://clawhub.ai/skills/ktdmax-supaskills) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [super-research](https://clawhub.ai/skills/heldinhow-super-research) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 07 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [supermarket](https://clawhub.ai/skills/niemesrw-supermarket) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [surrealdb-knowledge-graph-memory](https://clawhub.ai/skills/maverick-software-surrealdb-knowledge-graph-memory) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [swiftscholar-skill](https://clawhub.ai/skills/tokisakix-swiftscholar-skill) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [taildrop](https://clawhub.ai/skills/cortexuvula-taildrop) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [tandoor-recipes](https://clawhub.ai/skills/itsnikhil-tandoor-recipes) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [tarkov-api](https://clawhub.ai/skills/cole-z-tarkov-api) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [test-gas-skill](https://clawhub.ai/skills/gustavoziaugra-test-gas-skill) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 42 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [the-hive-skill](https://clawhub.ai/skills/rbalage-the-hive-skill) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [theothers](https://clawhub.ai/skills/richardtkemp-theothers) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [thermikbuddy](https://clawhub.ai/skills/achimace-thermikbuddy) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [til](https://clawhub.ai/skills/biao29-til) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [tmx-cli](https://clawhub.ai/skills/lars147-tmx-cli) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [torah-scholar](https://clawhub.ai/skills/abeperl-torah-scholar) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [trifle-auth](https://clawhub.ai/skills/okwme-trifle-auth) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [trust-memory](https://clawhub.ai/skills/trustmemory-admin-trust-memory) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [tuebingen-weather](https://clawhub.ai/skills/zopyx-tuebingen-weather) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [tulisai](https://clawhub.ai/skills/dwirx-tulisai) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [twitter-api-alternative](https://clawhub.ai/skills/atyachin-twitter-api-alternative) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [twitter-x-api](https://clawhub.ai/skills/klemenska-twitter-x-api) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [twitterapi-io](https://clawhub.ai/skills/dorukardahan-twitterapi-io) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [twitterscore](https://clawhub.ai/skills/nikolaybohdanov-twitterscore) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [uk-prayer-times](https://clawhub.ai/skills/clinicode-uk-prayer-times) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [vanar-neutron-memory](https://clawhub.ai/skills/naeemmaliki036-vanar-neutron-memory) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [variflight](https://clawhub.ai/skills/lyz1990-variflight) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [vietstock](https://clawhub.ai/skills/aholake-vietstock) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [vincent-twitter](https://clawhub.ai/skills/glitch003-vincent-twitter) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [voice-memo](https://clawhub.ai/skills/yusaku-0426-voice-memo) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [web-search-pro](https://clawhub.ai/skills/zjianru-web-search-pro) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 37 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [wanikani-sync](https://clawhub.ai/skills/mart1n-xyz-wanikani-sync) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [whoo-cli](https://clawhub.ai/skills/luisgot-whoo-cli) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [wiki-retriever](https://clawhub.ai/skills/urrrich-wiki-retriever) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [wikipedia-oc](https://clawhub.ai/skills/rachmann-alexander-wikipedia-oc) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [worldbook](https://clawhub.ai/skills/femto-worldbook) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [x-actionbook-recap](https://clawhub.ai/skills/jack4world-x-actionbook-recap) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [x-cli](https://clawhub.ai/skills/ignsoftwarellc-x-cli) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 30 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [x-monitor](https://clawhub.ai/skills/vmathur-x-monitor) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [x-research-but-cheaper](https://clawhub.ai/skills/minilozio-x-research-but-cheaper) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [xbio](https://clawhub.ai/skills/soanai-xbio) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [xy-pubmed-pdf-downloader](https://clawhub.ai/skills/xuyuan0805-xy-pubmed-pdf-downloader) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [yacy](https://clawhub.ai/skills/qsmtco-yacy) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [yandex-tracker](https://clawhub.ai/skills/kandler3-yandex-tracker) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [yellowagents](https://clawhub.ai/skills/andrewandrewsen-yellowagents) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [zero-to-one-startup](https://clawhub.ai/skills/lifeissea-zero-to-one-startup) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [zettel-link](https://clawhub.ai/skills/hxy9243-zettel-link) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [zvec-local-rag-service](https://clawhub.ai/skills/emre-koc-zvec-local-rag-service) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [zvukogram](https://clawhub.ai/skills/erview-zvukogram) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [zynd-network](https://clawhub.ai/skills/atmegabuzz-zynd-network) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [aminer-open-academic](https://clawhub.ai/skills/canxiangcc-aminer-open-academic) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+- [xquik-x-twitter-scraper](https://clawhub.ai/skills/kriptoburak-xquik-x-twitter-scraper) - MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 41 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE

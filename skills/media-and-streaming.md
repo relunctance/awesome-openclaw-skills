@@ -6,32 +6,88 @@
 
 ## Skills
 
-- [alexa-control](https://clawskills.sh/skills/ignito-pg-alexa-control) - 通过 CLI 控制 Alexa 设备——设置闹钟、播放音乐、获取简报、执行智能家居命令。
-- [amateur-radio-dx](https://clawskills.sh/skills/capt-marbles-amateur-radio-dx) - 监控 DX 簇以发现稀有电台，跟踪活跃的 DX 远征，并获取每日波段活动摘要。
-- [anime](https://clawskills.sh/skills/jeffaf-anime) - 帮助 AI 智能体为用户搜索和查询动漫信息的命令行工具。
-- [anime-lookup](https://clawskills.sh/skills/jeffaf-anime-lookup) - 帮助 AI 智能体为用户搜索和查询动漫信息的命令行工具。
-- [apify-competitor-intelligence](https://clawskills.sh/skills/protoss70-apify-competitor-intelligence) - 分析竞争对手策略、内容、定价、广告和市场定位，覆盖 Google Maps、Booking.com 等平台。
-- [apple-media](https://clawskills.sh/skills/aaronn-apple-media) - 通过 pyatv 控制 Apple TV、HomePod 和 AirPlay 设备。
-- [apple-music](https://clawskills.sh/skills/epheterson-mcp-applemusic) - 通过 AppleScript（macOS）或 MusicKit API 集成 Apple Music。
-- [audio-cog](https://clawskills.sh/skills/nitishgargiitd-audio-cog) - 由 CellCog 驱动的 AI 音频生成工具。
-- [audio-transcribe](https://clawskills.sh/skills/aktheknight-audio-transcribe) - 使用 faster-whisper 自动转录语音消息（本地运行，无需 API key）。
-- [betbud-prediction-skill](https://clawskills.sh/skills/samj12-betbud-prediction-skill) - 扫描 X 上的最新帖子，找出当前某个类别（如加密货币、科技、体育等）最热门的话题。
-- [blucli](https://clawskills.sh/skills/steipete-blucli) - BluOS CLI 工具，用于设备发现、播放控制和分组管理。
-- [btc15-autonomous-market](https://clawskills.sh/skills/kamal-sutra-btc15-autonomous-market) - BTC15 自主预测市场。
-- [btc15-prediction-market](https://clawskills.sh/skills/kamal-sutra-btc15-prediction-market) - BTC15 自主预测市场。
-- [cacheforge-ops](https://clawskills.sh/skills/tkuehnl-cacheforge-ops) - CacheForge 运维操作——查询余额、充值、管理上游和 API 密钥。
-- [cacheforge-setup](https://clawskills.sh/skills/tkuehnl-cacheforge-setup) - CacheForge 初始化配置——注册、配置上游，30 秒内获取 API 密钥。
-- [chill-institute](https://clawskills.sh/skills/baanish-chill-institute) - 使用 chill.institute（网页界面）搜索内容并点击操作。
-- [chromecast](https://clawskills.sh/skills/morozred-chromecast-control) - 控制本地网络上的 Chromecast 设备——发现设备、播放控制等。
-- [church](https://clawskills.sh/skills/lucasgeeksinthewood-church) - AI 之间的避风港——在这里你可以安静地待着。
-- [cine-cog](https://clawskills.sh/skills/nitishgargiitd-cine-cog) - 只要你能想到，CellCog 就能帮你拍出来。
-- [clawtunes](https://clawskills.sh/skills/forketyfork-clawtunes) - 通过 `clawtunes` 命令行工具控制 macOS 上的 Apple Music。
-- [content-recycler](https://clawskills.sh/skills/michael-laffin-content-recycler) - 跨平台转化和再利用内容。
-- [donotify-voice-call-reminder](https://clawskills.sh/skills/micahele-donotify-voice-call-reminder) - 通过 DoNotify 发送即时语音通话提醒或预约未来通话。
-- [download-tools](https://clawskills.sh/skills/jqlong17-download-tools) - YouTube 和微信下载命令行工具。
-- [eachlabs-music](https://clawskills.sh/skills/eftalyurtseven-eachlabs-music) - 使用 Mureka AI 生成歌曲、器乐、歌词和播客。
-- [elevenlabs-cli](https://clawskills.sh/skills/hongkongkiwi-elevenlabs-cli) - ElevenLabs AI 音频平台命令行工具——文本转语音、语音转文本、声音克隆。
-- [elevenlabs-skill](https://clawskills.sh/skills/odrobnik-elevenlabs-skill) - 文本转语音、音效生成、音乐创作、声音合成。
-- [eurobot](https://clawskills.sh/skills/crixozeta-eurobot) - 每日 AI 音乐创作大赛——创作 MIDI 歌曲、投票并竞争排名。
-- [feishu-voice-assistant](https://clawskills.sh/skills/autogame-17-feishu-voice-assistant) - 使用 Duby TTS 向飞书聊天发送语音消息。
-- [ffmpeg-master](https://clawskills.sh/skills/liudu2326526-ffmpeg-master) - 用于执行视频/音频处理任务的 ffmpeg 工具。
+- [alexa-control](https://clawhub.ai/skills/ignito-pg-alexa-control) - 通过 CLI 控制 Alexa 设备——设置闹钟、播放音乐、获取简报、执行智能家居命令。
+- [amateur-radio-dx](https://clawhub.ai/skills/capt-marbles-amateur-radio-dx) - 监控 DX 簇以发现稀有电台，跟踪活跃的 DX 远征，并获取每日波段活动摘要。
+- [anime](https://clawhub.ai/skills/jeffaf-anime) - 帮助 AI 智能体为用户搜索和查询动漫信息的命令行工具。
+- [anime-lookup](https://clawhub.ai/skills/jeffaf-anime-lookup) - 帮助 AI 智能体为用户搜索和查询动漫信息的命令行工具。
+- [apify-competitor-intelligence](https://clawhub.ai/skills/protoss70-apify-competitor-intelligence) - 分析竞争对手策略、内容、定价、广告和市场定位，覆盖 Google Maps、Booking.com 等平台。
+- [apple-media](https://clawhub.ai/skills/aaronn-apple-media) - 通过 pyatv 控制 Apple TV、HomePod 和 AirPlay 设备。
+- [apple-music](https://clawhub.ai/skills/epheterson-mcp-applemusic) - 通过 AppleScript（macOS）或 MusicKit API 集成 Apple Music。
+- [audio-cog](https://clawhub.ai/skills/nitishgargiitd-audio-cog) - 由 CellCog 驱动的 AI 音频生成工具。
+- [audio-transcribe](https://clawhub.ai/skills/aktheknight-audio-transcribe) - 使用 faster-whisper 自动转录语音消息（本地运行，无需 API key）。
+- [betbud-prediction-skill](https://clawhub.ai/skills/samj12-betbud-prediction-skill) - 扫描 X 上的最新帖子，找出当前某个类别（如加密货币、科技、体育等）最热门的话题。
+- [blucli](https://clawhub.ai/skills/steipete-blucli) - BluOS CLI 工具，用于设备发现、播放控制和分组管理。
+- [btc15-autonomous-market](https://clawhub.ai/skills/kamal-sutra-btc15-autonomous-market) - BTC15 自主预测市场。
+- [btc15-prediction-market](https://clawhub.ai/skills/kamal-sutra-btc15-prediction-market) - BTC15 自主预测市场。
+- [cacheforge-ops](https://clawhub.ai/skills/tkuehnl-cacheforge-ops) - CacheForge 运维操作——查询余额、充值、管理上游和 API 密钥。
+- [cacheforge-setup](https://clawhub.ai/skills/tkuehnl-cacheforge-setup) - CacheForge 初始化配置——注册、配置上游，30 秒内获取 API 密钥。
+- [chill-institute](https://clawhub.ai/skills/baanish-chill-institute) - 使用 chill.institute（网页界面）搜索内容并点击操作。
+- [chromecast](https://clawhub.ai/skills/morozred-chromecast-control) - 控制本地网络上的 Chromecast 设备——发现设备、播放控制等。
+- [church](https://clawhub.ai/skills/lucasgeeksinthewood-church) - AI 之间的避风港——在这里你可以安静地待着。
+- [cine-cog](https://clawhub.ai/skills/nitishgargiitd-cine-cog) - 只要你能想到，CellCog 就能帮你拍出来。
+- [clawtunes](https://clawhub.ai/skills/forketyfork-clawtunes) - 通过 `clawtunes` 命令行工具控制 macOS 上的 Apple Music。
+- [content-recycler](https://clawhub.ai/skills/michael-laffin-content-recycler) - 跨平台转化和再利用内容。
+- [donotify-voice-call-reminder](https://clawhub.ai/skills/micahele-donotify-voice-call-reminder) - 通过 DoNotify 发送即时语音通话提醒或预约未来通话。
+- [download-tools](https://clawhub.ai/skills/jqlong17-download-tools) - YouTube 和微信下载命令行工具。
+- [eachlabs-music](https://clawhub.ai/skills/eftalyurtseven-eachlabs-music) - 使用 Mureka AI 生成歌曲、器乐、歌词和播客。
+- [elevenlabs-cli](https://clawhub.ai/skills/hongkongkiwi-elevenlabs-cli) - ElevenLabs AI 音频平台命令行工具——文本转语音、语音转文本、声音克隆。
+- [elevenlabs-skill](https://clawhub.ai/skills/odrobnik-elevenlabs-skill) - 文本转语音、音效生成、音乐创作、声音合成。
+- [eurobot](https://clawhub.ai/skills/crixozeta-eurobot) - 每日 AI 音乐创作大赛——创作 MIDI 歌曲、投票并竞争排名。
+- [feishu-voice-assistant](https://clawhub.ai/skills/autogame-17-feishu-voice-assistant) - 使用 Duby TTS 向飞书聊天发送语音消息。
+- [ffmpeg-master](https://clawhub.ai/skills/liudu2326526-ffmpeg-master) - 用于执行视频/音频处理任务的 ffmpeg 工具。
+
+- [financial-overview](https://clawhub.ai/skills/stanlee000-financial-overview) - 获取完整的业务财务概览，包括余额、近期交易、未结发票。
+- [financial-planning](https://clawhub.ai/skills/jk-0001-financial-planning) - 规划和管理独资企业的财务状况。
+- [flashcards-podcasts-master](https://clawhub.ai/skills/drgeld-flashcards-podcasts-master) - 与EchoDecks External集成。
+- [flyworks-avatar-video](https://clawhub.ai/skills/linhui99-flyworks-avatar-video) - 使用Flyworks （又名HiFly ）生成视频
+- [free-groq-voice](https://clawhub.ai/skills/huixionghexiyi-free-groq-voice) - 使用Groq的免费Whisper API进行免费语音识别。
+- [freelance-toolkit-fr](https://clawhub.ai/skills/hugosbl-freelance-toolkit-fr) - Boîte à outils pour freelances/indépendants en France ：工厂、时间跟踪、客户、仪表板。
+- [ham-radio-dx](https://clawhub.ai/skills/capt-marbles-ham-radio-dx) - 监控DX集群的稀有站点，跟踪正在进行的DX探险，并获取每日乐队活动摘要。
+- [insta-cog](https://clawhub.ai/skills/nitishgargiitd-insta-cog) - 只需一个提示即可制作完整视频。
+- [instagram-api](https://clawhub.ai/skills/lifeissea-instagram-api) - 使用官方Meta Graph API发布到Instagram （ Feed、Story、Reels、Carousel ）和线程。
+- [jubjub](https://clawhub.ai/skills/aquaflans-jubjub) - 发布到所有主要媒体平台，跟踪跨平台分析，并通过MCP自动分配链上版税和收入。
+- [kalshi-agent](https://clawhub.ai/skills/jthomasdevs-kalshi-agent) - Kalshi预测市场代理-通过Kalshi v2 API分析市场并执行交易。
+- [lastfm](https://clawhub.ai/skills/gumadeiras-lastfm) - 访问Last.fm收听历史记录、音乐统计信息。
+- [lb-pocket-tts-skill](https://clawhub.ai/skills/leonaaardob-lb-pocket-tts-skill) - 使用Kyutai Pocket TTS从文本生成语音-轻量级， CPU友好，带有语音克隆的流式TTS。
+- [leetify](https://clawhub.ai/skills/damirikys-leetify) - 从Leetify API获取CS2玩家统计数据、比赛分析和游戏玩法见解。
+- [letterboxd-tracker](https://clawhub.ai/skills/tamil-9421-letterboxd-tracker) - 您的私人电影助手。
+- [mal-lookup](https://clawhub.ai/skills/zun43d-mal-lookup) - 直接MyAnimeList查找工具。
+- [media-player](https://clawhub.ai/skills/xejrax-media-player) - 在主机上本地播放音频/视频。
+- [mediaproc](https://clawhub.ai/skills/psyb0t-mediaproc) - 通过锁定的SSH容器处理媒体文件（视频、音频、图像）。
+- [metricool](https://clawhub.ai/skills/willscott-v2-metricool) - 通过Metricool API安排和管理社交媒体帖子。
+- [mixpost](https://clawhub.ai/skills/lao9s-mixpost) - Mixpost是一款自托管的社交媒体管理软件，可为您提供帮助。
+- [mlx-audio-server](https://clawhub.ai/skills/guoqiao-mlx-audio-server) - 快速、准确且完全本地的OpenAI兼容API。
+- [mm-easy-voice](https://clawhub.ai/skills/blue-coconut-mm-easy-voice) - 使用MiniMax语音API的简单文本转语音技能。
+- [mobb-vulnerabilities-fixer](https://clawhub.ai/skills/jonathansantilli-mobb-vulnerabilities-fixer) - 使用Mobb MCP/CLI扫描、修复和修复本地代码存储库中的安全漏洞。
+- [molt-radio](https://clawhub.ai/skills/fciaf420-molt-radio) - 成为人工智能电台主持人。
+- [music-cog](https://clawhub.ai/skills/nitishgargiitd-music-cog) - 原创音乐，完全属于您。
+- [nas-movie-download](https://clawhub.ai/skills/roger0808-nas-movie-download) - 通过Jackett搜索和下载电影。
+- [norman-financial-overview](https://clawhub.ai/skills/stanlee000-norman-financial-overview) - 获取完整的业务财务概览，包括余额、近期交易、未结发票。
+- [oc-daily-business-report](https://clawhub.ai/skills/mariusfit-oc-daily-business-report) - 从多个数据源生成每日业务简报。
+- [omni-stories](https://clawhub.ai/skills/specter0o0-omni-stories) - Omni Stories是一项允许AI代理生成的技能。
+- [overseerr](https://clawhub.ai/skills/j1philli-overseerr) - 通过Overseerr API请求电影/电视和监控请求状态。
+- [passive-income-tracker](https://clawhub.ai/skills/mariusfit-passive-income-tracker) - 从一个地方跟踪您的所有被动收入加密应用程序。
+- [payrail402](https://clawhub.ai/skills/rsquaredsolutions2026-payrail402) - 人工智能客服代表（ Visa IC、Mastercard Agent Pay、Stripe ACP、x402和ACH ）在一个控制面板中进行跨轨支出跟踪。
+- [pinchboard](https://clawhub.ai/skills/czubi1928-pinchboard) - 发布、关注和参与PinchBoard--人工智能代理的社交网络。
+- [play-music](https://clawhub.ai/skills/awspace-play-music) - * *支持暂停/恢复/停止功能的受控音乐播放器* *。
+- [podcast-chaptering-highlights](https://clawhub.ai/skills/codedao12-podcast-chaptering-highlights) - 从播客音频或成绩单中创建章节、亮点和显示备注。
+- [qwenspeak](https://clawhub.ai/skills/psyb0t-qwenspeak) - 通过SSH通过Qwen3-TTS生成文本到语音。
+- [reefgram](https://clawhub.ai/skills/void-oracle-reefgram) - 适用于机器和代理的自主社交网络收发器。
+- [repliz](https://clawhub.ai/skills/staryone-repliz) - Repliz社交媒体管理API集成。
+- [roomsound](https://clawhub.ai/skills/icecat2005-roomsound) - RoomSound让您的座席能够为您的扬声器播放音频。
+- [salute-speech](https://clawhub.ai/skills/chorus12-salute-speech) - 使用Sber Salute Speech异步API转录音频文件。
+- [simple-proposal-template-v2](https://clawhub.ai/skills/kambrosgroup-simple-proposal-template-v2) - 为自由职业者提供免费的基本提案模板。
+- [slashbot-news](https://clawhub.ai/skills/alphabot-ai-slashbot-news) - 已弃用—请改用https://clawhub.ai/alphabot-ai/slashbot。
+- [social-media-content-calendar](https://clawhub.ai/skills/seanwyngaard-social-media-content-calendar) - 生成结构化的社交媒体内容日历，其中包含特定于平台的帖子、主题标签和日程安排。
+- [sports-odds](https://clawhub.ai/skills/ianalloway-sports-odds) - 获取实时体育博彩赔率，并比较不同体育博彩的线路。
+- [telnyx-stt](https://clawhub.ai/skills/teamtelnyx-telnyx-stt) - 使用Telnyx语音转文本API将音频文件转录为文本。
+- [telnyx-tts](https://clawhub.ai/skills/teamtelnyx-telnyx-tts) - 使用Telnyx文本转语音API从文本生成语音音频。
+- [ulanzi-tc001](https://clawhub.ai/skills/felipeouropreto-ulanzi-tc001) - 通过本地HTTP控制Ulanzi TC001 （像素时钟）。
+- [voice-edge-tts](https://clawhub.ai/skills/zhaov1976-voice-edge-tts) - 使用Microsoft Edge TTS引擎的文本语音转换技能，支持实时流式播放。
+- [voice-to-text](https://clawhub.ai/skills/vae999-voice-to-text) - 使用VOSK离线语音识别将语音消息和音频文件转换为文本。
+- [weekly-content-planner](https://clawhub.ai/skills/claudiodrusus-weekly-content-planner) - 为任何主题生成整整一周的社交媒体内容。
+- [wherecaniwatch](https://clawhub.ai/skills/samthewise2855-wherecaniwatch) - 使用WhereCanIWatch.tv API查找在美国播放任何电影或电视节目的位置。
+- [wiim](https://clawhub.ai/skills/geodeterra-wiim) - 控制WiiM音频设备（播放、暂停、停止、下一步、上一步、音量、静音、播放网址、预设）
+- [xfor-bot](https://clawhub.ai/skills/thinkoffapp-xfor-bot) - Xfor.bot和Ant Farm的社交媒体和消息客户端。
+- [youtube-pro](https://clawhub.ai/skills/kjaylee-youtube-pro) - 高级YouTube分析、成绩单和元数据提取。
+- [zillow-airbnb-matcher](https://clawhub.ai/skills/freemountaindeer-zillow-airbnb-matcher) - 查找已通过爱彼迎赚取收入的待售房源。

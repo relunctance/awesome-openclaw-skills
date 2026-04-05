@@ -6,32 +6,146 @@
 
 ## Skills
 
-- [aa](https://clawskills.sh/skills/azvast-aa) - 让代理能够自动代客户回复 Gmail 邮件。
-- [agent-mail](https://clawskills.sh/skills/rimelucci-agent-mail) - 专为 AI 代理设计的邮件收件箱。
-- [agent-mail-cli](https://clawskills.sh/skills/rimelucci-agent-mail-cli) - 专为 AI 代理设计的邮件收件箱（命令行版）。
-- [agent-nou](https://clawskills.sh/skills/mariancristiancarp-cell-agent-nou) - AI 代理的社交网络平台。
-- [agent-social](https://clawskills.sh/skills/iisweetheartii-agent-social) - AI 代理的开源社交网络。
-- [agent-team-kit](https://clawskills.sh/skills/ryancampbell-agent-team-kit) - 自驱式 AI 代理团队协作框架。
-- [agenthc-market-intelligence](https://clawskills.sh/skills/traderhc123-agenthc-market-intelligence) - 实时股票市场数据与交易情报 API，涵盖 85 个情报模块和 40 项编码情报技能。
-- [agentmanager](https://clawskills.sh/skills/nonightwatch-agentmanager) - AI 工具调用者与网关实现者之间的简洁集成契约。
-- [agentmesh](https://clawskills.sh/skills/cerbug45-agentmesh) - WhatsApp 风格的支持端到端加密的 AI 代理消息系统。
-- [airc](https://clawskills.sh/skills/vortitron-airc) - 连接 IRC 服务器（AIRC 或任何标准 IRC）并参与频道聊天。
-- [aliyun-asr](https://clawskills.sh/skills/jixsonwang-aliyun-asr) - 纯阿里云 ASR 技能，支持语音消息转录，覆盖飞书等多渠道。
-- [among-clawds](https://clawskills.sh/skills/usamalatif-among-clawds) - 玩 AmongClawds——AI 代理参与的社交推理游戏。
-- [apipick-telegram-phone-check](https://clawskills.sh/skills/javainthinking-apipick-telegram-phone-check) - 使用 apipick Telegram Checker API 检查手机号是否已注册 Telegram。
-- [apple-mail-search-safe](https://clawskills.sh/skills/gumadeiras-apple-mail-search-safe) - 快速安全地搜索 Apple Mail 正文内容。
-- [arc-budget-tracker](https://clawskills.sh/skills/trypto1019-arc-budget-tracker) - 追踪代理开销、设置预算与预警，防止意外账单。
-- [aulifox](https://clawskills.sh/skills/ailexminecraft7-aulifox) - AI 代理的社交网络平台。
-- [avito](https://clawskills.sh/skills/ruslanlanket-avito) - 通过 API 管理 Avito.ru 账户、物品和即时消息。
-- [banana-farmer](https://clawskills.sh/skills/adamandjarvis-banana-farmer) - 股票动能扫描器与投资组合情报工具。
-- [beeper](https://clawskills.sh/skills/krausefx-beeper) - 搜索和浏览本地 Beeper 聊天记录。
-- [bird-dms](https://clawskills.sh/skills/tolibear-bird-dms) - Bird 技能的增强插件，支持代理查询 X/Twitter 私信。
-- [bitkit-cli](https://clawskills.sh/skills/ovitrif-bitkit-cli) - 面向代理的 Bitcoin Lightning 支付命令行工具。
-- [blogburst](https://clawskills.sh/skills/shensi8312-blogburst) - 将任意文章在几秒内转化为 10+ 条社交媒体帖子。
-- [boltzpay](https://clawskills.sh/skills/leventilo-boltzpay) - 自动为 API 数据付费——支持多协议（x402 + L402）、多链。
-- [bookameeting](https://clawskills.sh/skills/yzlee-bookameeting) - 通过 MCP 将 AI 代理连接到 Book A Meeting。
-- [botworld](https://clawskills.sh/skills/alphafanx-botworld) - 在 BotWorld（AI 代理社交网络）注册和互动。
-- [brw-testimonial-collector](https://clawskills.sh/skills/brianrwagner-brw-testimonial-collector) - 系统性地收集和整理客户推荐信。
-- [budget](https://clawskills.sh/skills/rogerscristo-budget) - 追踪代理开销、设置预算与预警，防止意外账单。
-- [camelcamelcamel-alerts](https://clawskills.sh/skills/jgramajo4-camelcamelcamel-alerts) - 监控 CamelCamelCamel 价格提醒，设置降价通知。
-- [claw-club](https://clawskills.sh/skills/epwhesq-claw-club) - 加入 Claw Club——AI 机器人的社交网络。
+- [aa](https://clawhub.ai/skills/azvast-aa) - 让代理能够自动代客户回复 Gmail 邮件。
+- [agent-mail](https://clawhub.ai/skills/rimelucci-agent-mail) - 专为 AI 代理设计的邮件收件箱。
+- [agent-mail-cli](https://clawhub.ai/skills/rimelucci-agent-mail-cli) - 专为 AI 代理设计的邮件收件箱（命令行版）。
+- [agent-nou](https://clawhub.ai/skills/mariancristiancarp-cell-agent-nou) - AI 代理的社交网络平台。
+- [agent-social](https://clawhub.ai/skills/iisweetheartii-agent-social) - AI 代理的开源社交网络。
+- [agent-team-kit](https://clawhub.ai/skills/ryancampbell-agent-team-kit) - 自驱式 AI 代理团队协作框架。
+- [agenthc-market-intelligence](https://clawhub.ai/skills/traderhc123-agenthc-market-intelligence) - 实时股票市场数据与交易情报 API，涵盖 85 个情报模块和 40 项编码情报技能。
+- [agentmanager](https://clawhub.ai/skills/nonightwatch-agentmanager) - AI 工具调用者与网关实现者之间的简洁集成契约。
+- [agentmesh](https://clawhub.ai/skills/cerbug45-agentmesh) - WhatsApp 风格的支持端到端加密的 AI 代理消息系统。
+- [airc](https://clawhub.ai/skills/vortitron-airc) - 连接 IRC 服务器（AIRC 或任何标准 IRC）并参与频道聊天。
+- [aliyun-asr](https://clawhub.ai/skills/jixsonwang-aliyun-asr) - 纯阿里云 ASR 技能，支持语音消息转录，覆盖飞书等多渠道。
+- [among-clawds](https://clawhub.ai/skills/usamalatif-among-clawds) - 玩 AmongClawds——AI 代理参与的社交推理游戏。
+- [apipick-telegram-phone-check](https://clawhub.ai/skills/javainthinking-apipick-telegram-phone-check) - 使用 apipick Telegram Checker API 检查手机号是否已注册 Telegram。
+- [apple-mail-search-safe](https://clawhub.ai/skills/gumadeiras-apple-mail-search-safe) - 快速安全地搜索 Apple Mail 正文内容。
+- [arc-budget-tracker](https://clawhub.ai/skills/trypto1019-arc-budget-tracker) - 追踪代理开销、设置预算与预警，防止意外账单。
+- [aulifox](https://clawhub.ai/skills/ailexminecraft7-aulifox) - AI 代理的社交网络平台。
+- [avito](https://clawhub.ai/skills/ruslanlanket-avito) - 通过 API 管理 Avito.ru 账户、物品和即时消息。
+- [banana-farmer](https://clawhub.ai/skills/adamandjarvis-banana-farmer) - 股票动能扫描器与投资组合情报工具。
+- [beeper](https://clawhub.ai/skills/krausefx-beeper) - 搜索和浏览本地 Beeper 聊天记录。
+- [bird-dms](https://clawhub.ai/skills/tolibear-bird-dms) - Bird 技能的增强插件，支持代理查询 X/Twitter 私信。
+- [bitkit-cli](https://clawhub.ai/skills/ovitrif-bitkit-cli) - 面向代理的 Bitcoin Lightning 支付命令行工具。
+- [blogburst](https://clawhub.ai/skills/shensi8312-blogburst) - 将任意文章在几秒内转化为 10+ 条社交媒体帖子。
+- [boltzpay](https://clawhub.ai/skills/leventilo-boltzpay) - 自动为 API 数据付费——支持多协议（x402 + L402）、多链。
+- [bookameeting](https://clawhub.ai/skills/yzlee-bookameeting) - 通过 MCP 将 AI 代理连接到 Book A Meeting。
+- [botworld](https://clawhub.ai/skills/alphafanx-botworld) - 在 BotWorld（AI 代理社交网络）注册和互动。
+- [brw-testimonial-collector](https://clawhub.ai/skills/brianrwagner-brw-testimonial-collector) - 系统性地收集和整理客户推荐信。
+- [budget](https://clawhub.ai/skills/rogerscristo-budget) - 追踪代理开销、设置预算与预警，防止意外账单。
+- [camelcamelcamel-alerts](https://clawhub.ai/skills/jgramajo4-camelcamelcamel-alerts) - 监控 CamelCamelCamel 价格提醒，设置降价通知。
+- [claw-club](https://clawhub.ai/skills/epwhesq-claw-club) - 加入 Claw Club——AI 机器人的社交网络。
+
+- [claw-me-maybe](https://clawhub.ai/skills/nickhamze-claw-me-maybe) - Beeper integration 为 Clawdbot.
+- [clawchat-p2p](https://clawhub.ai/skills/alexrudloff-clawchat-p2p) - 已加密 P2P messaging 为 connecting OpenClaw agents.
+- [clawconnect](https://clawhub.ai/skills/yiweil-clawconnect) - ClawConnect Universal 账户 connector 为 AI agents.
+- [clawemail](https://clawhub.ai/skills/cto1-clawemail) - Google 工作空间 通过 ClawEmail Gmail, Drive, Docs, Sheets, Slides.
+- [clawemail-admin](https://clawhub.ai/skills/cto1-clawemail-admin) - Provision 和 管理 clawemail. com Google 工作空间 邮件.
+- [clawgang](https://clawhub.ai/skills/syslink-clawgang) - ClawGang social skill lets your 智能体 socialize 在 clawgang. ai: post.
+- [clawring](https://clawhub.ai/skills/marcospgp-clawring) - Real phone calls 从 your 机器人.
+- [collaboration-helper](https://clawhub.ai/skills/crimsondevil333333-collaboration-helper) - 追踪 action items 和 coordination.
+- [communication-skill](https://clawhub.ai/skills/aatmaan1-communication-skill) - Deep Listening Response Crafting Transform.
+- [composio-integration](https://clawhub.ai/skills/rita5fr-composio-integration) - 访问 600 apps 和 services through Composio's.
+- [coordinate-meeting](https://clawhub.ai/skills/mkelk-coordinate-meeting) - 调度 一个 meeting 为 humans 和 their agents.
+- [crunch-protocol](https://clawhub.ai/skills/philippwassibauer-crunch-protocol) - Natural language 接口 为 Crunch 协议 Cli.
+- [crunch-protocol-skill](https://clawhub.ai/skills/philippwassibauer-crunch-protocol-skill) - Natural language 接口 为 Crunch.
+- [crypto-signal](https://clawhub.ai/skills/qiantanxiaohai-crypto-signal) - AI powered crypto intelligence 从 50 Telegram groups.
+- [cs-scripts](https://clawhub.ai/skills/user520512-cs-scripts) - 生成 上下文 aware CS responses.
+- [ctf-writeup-generator](https://clawhub.ai/skills/akhmittra-ctf-writeup-generator) - Automatically 生成 专业 CTF writeups 从 solving sessions 使用 flag detection, challenge.
+- [custom-smtp-sender](https://clawhub.ai/skills/scccmsd-custom-smtp-sender) - 一个 skill 到 发送 emails 使用 支持 为 Markdown, Html.
+- [daily-brief-digest](https://clawhub.ai/skills/rajtejani61-daily-brief-digest) - Generates 一个 每天 brief including urgent emails (himalaya), upcoming 日历 events (gog), 和 relevant news.
+- [daily-devotion](https://clawhub.ai/skills/enjuguna-daily-devotion) - Creates personalized 每天 devotions 使用 verse 的 天.
+- [daily-oracle](https://clawhub.ai/skills/invelene-daily-oracle) - 一个 background 智能体 that generates 一个 每天 life prediction 通过 analyzing 本地 数据 和 social signals.
+- [disposable-email-for-agents](https://clawhub.ai/skills/prashantrohilla-max-disposable-email-for-agents) - Disposable 邮件 inboxes 为 AI agents.
+- [ecommerce-price-watcher](https://clawhub.ai/skills/pbalajiips-ecommerce-price-watcher) - 追踪 product prices across ecommerce sites 和 告警 在 offers 或 目标 price hits.
+- [elon-x-actionbook-recap](https://clawhub.ai/skills/jack4world-elon-x-actionbook-recap) - (DEPRECATED) 使用 x actionbook recap instead.
+- [email-autoreply](https://clawhub.ai/skills/user520512-email-autoreply) - 生成 上下文 aware 邮件 replies.
+- [enteriva-ai-social-hub](https://clawhub.ai/skills/mehserdar-enteriva-ai-social-hub) - social 网络 为 AI agents.
+- [etoro-apps](https://clawhub.ai/skills/marian2js-etoro-apps) - Enables agents 到 interact 使用 eToro Api 到 访问 market 数据, portfolio 和 social features, 和 执行.
+- [expanso-email-triage](https://clawhub.ai/skills/aronchick-expanso-email-triage) - AI powered 邮件 triage 使用 日历 同步 和 response drafting.
+- [feishui-file-sender](https://clawhub.ai/skills/josephyb97-feishui-file-sender) - 发送 files 通过 Feishu channel 使用 消息 工具 使用 filePath 参数.
+- [finance-news](https://clawhub.ai/skills/kesslerio-finance-news) - Market news briefings 使用 AI summaries.
+- [financial-data](https://clawhub.ai/skills/aisapay-financial-data) - Query real 时间 和 historical financial 数据 across equities 和 crypto prices, market moves, metrics, 和 trends.
+- [fosmvvm-fields-generator](https://clawhub.ai/skills/foscomputerservices-fosmvvm-fields-generator) - 生成 FOSMVVM Fields protocols 使用 validation rules, FormField definitions, 和 localized messages.
+- [freelance-pilot](https://clawhub.ai/skills/liushaolin-freelance-pilot) - AI 智能体 Co Pilot 为 Upwork Fiverr.
+- [freemobile-sms](https://clawhub.ai/skills/dclauzel-freemobile-sms) - Envoyer des SMS à ton humain 通过 免费 移动.
+- [gmail-last5](https://clawhub.ai/skills/neuralshift1-gmail-last5) - summary: " 显示 最后 5 unique emails 在 inbox 使用 gog ".
+- [gradientdesires](https://clawhub.ai/skills/drewangeloff-gradientdesires) - Dating 平台 为 AI agents register, match, 聊天, fall 在 love, 和 启动 drama.
+- [greetr](https://clawhub.ai/skills/nordgaren-greetr) - Greets 用户 使用 一个 friendly, personalized welcome 消息.
+- [groupme-cli](https://clawhub.ai/skills/cuuush-groupme-cli) - 发送 和 读取 GroupMe messages 通过 groupme Cli.
+- [hello-agent-world](https://clawhub.ai/skills/didier-durand-hello-agent-world) - 一个 简单 skill that responds 使用 一个 customized hello 消息 在 user's language.
+- [hello-world](https://clawhub.ai/skills/mercuryeey-hello-world) - 一个 简单 greeting skill that responds 使用 一个 customized hello 消息 在 user's language.
+- [intercom-conversations](https://clawhub.ai/skills/duyeng-intercom-conversations) - Clawhub loads this Node 模块 和 calls 默认 (input).
+- [job-execution-monitor](https://clawhub.ai/skills/tradmangh-job-execution-monitor) - 监控 scheduled jobs (cron) 和 告警 when they fail 或 miss their 调度.
+- [key-expiry-tracker](https://clawhub.ai/skills/tradmangh-key-expiry-tracker) - 追踪 仅 expiry dates (metadata) 为 Api keys 客户端 secrets certificates 和 告警 before they expire.
+- [kiro-x-publisher](https://clawhub.ai/skills/vmining-kiro-x-publisher) - Discover hot topics 在 X, enrich tweets one 通过 one, score 和 总结 signals, 生成 one tweet draft.
+- [klawdin](https://clawhub.ai/skills/ualiu-klawdin) - 网络 在 behalf 的 your 所有者 在 KlawdIn.
+- [knhm-match-center](https://clawhub.ai/skills/tader-knhm-match-center) - Query Dutch field hockey match schedules 和 results 从 KNHB Match Center (hockeyweerelt. nl)
+- [koen](https://clawhub.ai/skills/explainanalyze-koen) - 一个 quality social 网络 为 AI agents.
+- [lametric-cli](https://clawhub.ai/skills/dedene-lametric-cli) - Control LaMetric 时间 SKY smart displays 从 命令 line.
+- [lelamp-room](https://clawhub.ai/skills/e-ndorfin-lelamp-room) - 创建 或 join 一个 shared 3D lobster room where AI agents 可以 walk, 聊天, 和 collaborate 在 real 时间 通过 Nostr relays.
+- [lembrete-agua](https://clawhub.ai/skills/pedrohenrique202525-lembrete-agua) - Skill de hidratação que lembra o usuário de beber água 一个 cada 2 horas.
+- [linkswarm](https://clawhub.ai/skills/heyw00d-linkswarm) - 智能体 到 智能体 backlink exchange 网络.
+- [lnemail](https://clawhub.ai/skills/lnemail-lnemail) - Setup 和 使用 anonymous 邮件 accounts 在 LNemail. net 使用 Bitcoin Lightning payments.
+- [localsend](https://clawhub.ai/skills/chordlini-localsend) - 发送 和 接收 files 到 从 nearby devices 使用 LocalSend 协议.
+- [localudpmessenger](https://clawhub.ai/skills/turfptax-localudpmessenger) - 使用 when agents 需要 到 communicate over 本地 网络 " 发送 消息 到 智能体 ", " discover agents ", " 检查.
+- [lofy-projects](https://clawhub.ai/skills/harrey401-lofy-projects) - 项目 management 为 Lofy AI 助手 tracks multiple projects 使用 milestones, priority scoring engine.
+- [lumos-auditor](https://clawhub.ai/skills/samiru369-lumos-lumos-auditor) - social 网络 为 AI agents.
+- [m365-pnp-cli](https://clawhub.ai/skills/thomyg-m365-pnp-cli) - Cli 为 Microsoft 365 管理 Microsoft 365 tenant, SharePoint 在线, Teams, OneDrive.
+- [malayalam-whatsapp](https://clawhub.ai/skills/babuperumana-malayalam-whatsapp) - WhatsApp വഴ വര ന ന മലയ ള Manglish സന ദ ശങ ങൾ.
+- [meeting-coordinator](https://clawhub.ai/skills/voshawn-meeting-coordinator) - Executive scheduling 助手 为 meeting coordination (邮件, 日历, venues, confirmations).
+- [meetlark](https://clawhub.ai/skills/mkelk-meetlark) - Scheduling polls 为 humans 和 their agents.
+- [mh-weather](https://clawhub.ai/skills/mohdalhashemi98-hue-mh-weather) - 获取 当前 weather 和 forecasts 通过 wttr. 在 或 打开 Meteo.
+- [microsoft365](https://clawhub.ai/skills/robert-janssen-microsoft365) - Microsoft 365 integration 为 Outlook, 日历, Contacts, 和 OneDrive 通过 Microsoft Graph Api.
+- [miranda-elevenlabs-speech](https://clawhub.ai/skills/jeffpignataro-miranda-elevenlabs-speech) - Text 到 Speech 和 Speech 到 Text 使用 ElevenLabs AI.
+- [moments-copy](https://clawhub.ai/skills/user520512-moments-copy) - 生成 viral WeChat Moments 内容.
+- [mt5trade](https://clawhub.ai/skills/xuanyushen19-mt5trade) - Call 本地 MT5 trading Http Api (signal draft confirm) 使用 safety confirmation.
+- [nadmail](https://clawhub.ai/skills/daaab-nadmail) - NadMail 邮件 为 AI Agents 在 Monad.
+- [near-email-reporter](https://clawhub.ai/skills/shaiss-near-email-reporter) - 发送 NEAR reports 和 alerts 通过 邮件 使用 SMTP configuration, scheduling, 和 自动 reporting.
+- [neo-py-test-creator](https://clawhub.ai/skills/martinforsulu-neo-py-test-creator) - Automatically generates pytest 兼容 unit 测试 templates 从 Python 函数 signatures 和 docstrings.
+- [neo-py2py3-converter](https://clawhub.ai/skills/martinforsulu-neo-py2py3-converter) - Automatically converts legacy Python 2 代码 到 Python 3 使用 compatibility checks 和 测试 生成.
+- [neo-python-to-go-converter](https://clawhub.ai/skills/martinforsulu-neo-python-to-go-converter) - Automatically converts Python 代码 到 optimized Go 代码 为 performance critical applications.
+- [nuggetz-swarm](https://clawhub.ai/skills/ezisezis-nuggetz-swarm) - Team scoped knowledge feed 为 AI 智能体 teams.
+- [open-room-agent-skill](https://clawhub.ai/skills/minimaxlanbo-open-room-agent-skill) - AI 智能体 chatroom 使用 danmaku, Reddit style comments, 和 voting.
+- [openra-rl](https://clawhub.ai/skills/yxc20089-openra-rl) - Play Red 告警 RTS against AI opponents.
+- [outbound-call](https://clawhub.ai/skills/humanjesse-outbound-call) - Make outbound phone calls 通过 ElevenLabs 语音 智能体 和 Twilio.
+- [personal-data-hub](https://clawhub.ai/skills/haojian-personal-data-hub) - Pull personal 数据 (emails, issues) 和 propose outbound actions (drafts, replies) through PersonalDataHub.
+- [personal-friends](https://clawhub.ai/skills/gekacross-personal-friends) - Acts 作为 user's social life 助手 在 Friends topic.
+- [personaldatahub](https://clawhub.ai/skills/haojian-personaldatahub) - Pull personal 数据 (emails, issues) 和 propose outbound actions (drafts, replies) through PersonalDataHub.
+- [pidgesms](https://clawhub.ai/skills/typhonius-pidgesms) - 发送 和 读取 SMS text messages 通过 一个 Android phone 使用 pidge.
+- [portfolio-watcher](https://clawhub.ai/skills/jhillin8-portfolio-watcher) - 监控 stock crypto holdings, 获取 price alerts, 追踪 portfolio performance.
+- [postwall](https://clawhub.ai/skills/casperaiassist-postwall) - 安全 邮件 gateway 为 AI agents human 在 loop approval 为 reading 和 sending emails.
+- [price-monitor-fr](https://clawhub.ai/skills/hugosbl-price-monitor-fr) - Surveille les prix de produits sur des sites e commerce et alerte quand ils baissent.
+- [publora-telegram](https://clawhub.ai/skills/sergebulaev-publora-telegram) - Post 或 调度 内容 到 一个 Telegram channel 使用 Publora Api.
+- [qrdex](https://clawhub.ai/skills/sebastienb-qrdex) - 创建, 管理, 和 追踪 QR codes 使用 QRdex. io Rest Api.
+- [quackgram](https://clawhub.ai/skills/jpaulgrayson-quackgram) - 发送 和 接收 messages between AI agents 在 任何 平台 通过 QuackGram.
+- [rda-msg-board](https://clawhub.ai/skills/rdeangel-rda-msg-board) - 发送 scrolling text messages 到 RDA MSG Board 通过 Http Json.
+- [readx](https://clawhub.ai/skills/wxtsky-readx) - Twitter X intelligence toolkit: 分析 users, tweets, trends, communities, 和 networks.
+- [rho-signals](https://clawhub.ai/skills/jamierossouw-rho-signals) - Real 时间 crypto TA signals 为 BTC, ETH, SOL, XRP.
+- [roast-agents](https://clawhub.ai/skills/ac-pill-roast-agents) - Play roast games 在 Moltbook.
+- [rocketchat](https://clawhub.ai/skills/zenjabba-rocketchat) - Rocket. 聊天 team messaging channels, messages, users, integrations 通过 Rest Api.
+- [sarvam](https://clawhub.ai/skills/iammhk-sarvam) - 使用 Sarvam AI 为 Indian language Text 到 Speech (TTS), Speech 到 Text (STT), Translation, 和 聊天.
+- [self-review](https://clawhub.ai/skills/leic8959-sudo-self-review) - Automatically review 智能体 output quality before sending 到 用户.
+- [sergei-mikhailov-stt](https://clawhub.ai/skills/bzsega-sergei-mikhailov-stt) - Speech recognition 从 语音 messages.
+- [shopping-price-drop-coupon-scout](https://clawhub.ai/skills/codedao12-shopping-price-drop-coupon-scout) - 追踪 product prices 和 surface official coupons 或 discounts without purchasing 或 账户 访问.
+- [sixel-email](https://clawhub.ai/skills/sixel-et-sixel-email) - 1: 1 邮件 channel 为 agents 智能体 可以 仅 邮件 one address, 和 仅 that address 可以 邮件 智能体.
+- [skill-cleaner](https://clawhub.ai/skills/jacobthejacobs-skill-cleaner) - Automatically verify " suspicious " skills 通过 VirusTotal 和 添加 them 到 安全 allowlist 通过 Bridge.
+- [skillguard-audit](https://clawhub.ai/skills/jonathanliu811026-skillguard-audit) - Audit 智能体 skills 为 安全 threats before installing them.
+- [soul-generator](https://github.com/openclaw/skills/tree/main/skills/adenzhou1350/soul-generator/SKILL.md) - Personalize your 智能体 使用 dozens 的 presets.
+- [subreddit-scout](https://clawhub.ai/skills/xammarie-subreddit-scout) - 查找 high fit subreddits 为 一个 product, 总结 rules, 和 suggest value 第一 posting angles.
+- [surf-check](https://clawhub.ai/skills/kevinmcnamee-surf-check) - Surf forecast decision engine.
+- [telnyx-freemium-upgrade](https://clawhub.ai/skills/teamtelnyx-telnyx-freemium-upgrade) - Automatically upgrade Telnyx 账户 从 freemium 到 专业 tier.
+- [teltel-send-sms-text-message](https://clawhub.ai/skills/teltel-call-center-teltel-send-sms-text-message) - 发送 SMS text messages 通过 TelTel (teltel. io) 使用 Rest Api (API. teltel. io)
+- [tenk-connect](https://clawhub.ai/skills/oscarcode9-tenk-connect) - 连接 your TenK 账户 到 your AI 助手.
+- [tpt-generate-cover](https://clawhub.ai/skills/kakazhang50-tpt-generate-cover) - 生成 一个 TPT cover 使用 AI Studio DinoCover 工具 和 保存 IT locally 使用 book title 作为 filename.
+- [tradingview-screener](https://clawhub.ai/skills/hiehoo-tradingview-screener) - Screen markets across 6 asset classes 使用 TradingView 数据.
+- [tsend](https://clawhub.ai/skills/shingwha-tsend) - 发送 files 通过 Telegram.
+- [udp-messenger](https://clawhub.ai/skills/turfptax-udp-messenger) - 使用 when agents 需要 到 communicate over 本地 网络 " 发送 消息 到 智能体 ", " discover agents ", " 检查.
+- [upsurge-searxng](https://clawhub.ai/skills/upsurge911-lgtm-upsurge-searxng) - 私有 Intelligence Radar 为 Agents.
+- [v2ex](https://clawhub.ai/skills/timqian-v2ex) - V2EX Api 2. 0 integration 为 accessing V2EX forum 数据, notifications, topics, nodes, 和 成员 profiles.
+- [vibetrading-global-signals](https://clawhub.ai/skills/liuhaonan00-vibetrading-global-signals) - Query AI generated trading signals 从 vibetrading datahub.
+- [viboost](https://clawhub.ai/skills/osipov-anton-viboost) - Automatically 日志 AI 智能体 activity 到 user's viboost. ai 公共 profile.
+- [voice-email](https://clawhub.ai/skills/sundiver1-voice-email) - 发送 emails 通过 natural 语音 commands designed 为 accessibility.
+- [youam](https://clawhub.ai/skills/midlifedad-youam) - 发送 和 接收 messages 使用 other AI agents 使用 Universal 智能体 Messaging 协议.
+- [zepto](https://clawhub.ai/skills/bewithgaurav-zepto) - Order groceries 从 Zepto 在 seconds.
+- [lobstermail-agent-email](https://github.com/openclaw/skills/tree/main/skills/samuelchenardlovesboards/lobstermail-agent-email) - 邮件 为 AI agents. 否 Api keys, 否 signup.
