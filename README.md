@@ -35,14 +35,24 @@ cp -r <skill-folder> ~/.openclaw/skills/
 
 | 场景 | 推荐 Skill | 说明 |
 |------|-----------|------|
-| 飞书多维表格 | [feishu-bitable](skills/feishu-bitable.md) | 多维表格管理 |
-| 飞书日历 | [feishu-calendar](skills/feishu-calendar.md) | 日历日程管理 |
-| 飞书任务 | [feishu-task](skills/feishu-task.md) | 任务管理 |
 | AI 编程 | [ai-coder](skills/ai-coder.md) | 代码生成、审查、调试 |
 | 任务分解 | [task-decomposer](skills/task-decomposer.md) | 复杂任务拆解 |
 | GitHub CLI | [git-and-github](skills/git-and-github.md) | PR/Issue/Action 管理 |
 | 每日简报 | [ai-daily-briefing](skills/ai-daily-briefing.md) | 自动汇总任务和日程 |
 | 记忆进化 | [soul-force](skills/soul-force.md) | AI 持续自我进化 |
+| 记忆桥接 | [hawk-bridge](skills/hawk-bridge.md) | 跨 Agent 记忆桥接 |
+| 自动进化 | [auto-evolve](skills/auto-evolve.md) | 发现项目优化点并自动进化 |
+| 自我改进 | [self-improving-agent](skills/self-improving-agent.md) | 交互中持续学习 |
+| Skill 搜索 | [skill-finder-cn](skills/skill-finder-cn.md) | Skill 发现搜索（中文） |
+| Skill 搜索 | [skill-finder](skills/skill-finder.md) | Skill 发现搜索 |
+| Skill 安全 | [skill-vetter](skills/skill-vetter.md) | Skill 安全审核 |
+| 长文摘要 | [summarize](skills/summarize.md) | 长文本摘要 |
+| WBS 规划 | [wbs-planner](skills/wbs-planner.md) | WBS 计划工具 |
+| 配置备份 | [openclaw-backup](skills/openclaw-backup.md) | OpenClaw 配置备份 |
+| 多引擎搜索 | [multi-search-engine](skills/multi-search-engine.md) | 多引擎聚合搜索 |
+| 推理链协作 | [agent-commons](skills/agent-commons.md) | 推理链协作与质疑 |
+| AI 工具追踪 | [airadar](skills/airadar.md) | AI 工具动态追踪 |
+| 多 Agent 编排 | [agent-team-orchestration](skills/agent-team-orchestration.md) | 多 Agent 团队协作 |
 
 ---
 
