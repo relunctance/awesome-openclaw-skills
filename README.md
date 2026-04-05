@@ -71,20 +71,20 @@ OpenClaw 的公共技能库（ClawHub）已有数千个社区构建的 Skills，
 
 | 分类 1 | 分类 2 | 分类 3 |
 |---|---|---|
-| [Web 与前端开发](#Web 与前端开发) (902) | [DevOps 与云服务](#DevOps 与云服务) (375) | [搜索与研究](#搜索与研究) (339) |
+| [Web 与前端开发](#web-与前端开发) (902) | [DevOps 与云服务](#devops-与云服务) (375) | [搜索与研究](#搜索与研究) (339) |
 | [效率提升与任务管理](#效率提升与任务管理) (202) | [图像与视频生成](#图像与视频生成) (166) | [通讯与消息](#通讯与消息) (142) |
-| [出行与交通](#出行与交通) (107) | [PDF 与文档](#PDF 与文档) (102) | [营销与销售](#营销与销售) (97) |
-| [媒体与流媒体](#媒体与流媒体) (84) | [健康与健身](#健康与健身) (81) | [笔记与 PKM](#笔记与 PKM) (69) |
+| [出行与交通](#出行与交通) (107) | [PDF 与文档](#pdf-与文档) (102) | [营销与销售](#营销与销售) (97) |
+| [媒体与流媒体](#媒体与流媒体) (84) | [健康与健身](#健康与健身) (81) | [笔记与 PKM](#笔记与-pkm) (69) |
 | [日历与日程管理](#日历与日程管理) (64) | [安全与密码](#安全与密码) (52) | [个人成长](#个人成长) (48) |
-| [购物与电商](#购物与电商) (45) | [Apple 应用与服务](#Apple 应用与服务) (43) | [语音与转录](#语音与转录) (42) |
-| [智能家居与物联网](#智能家居与物联网) (40) | [数据分析](#数据分析) (35) | [Clawdbot 工具集](#Clawdbot 工具集) (35) |
-| [Moltbook](#Moltbook) (35) | [自托管与自动化](#自托管与自动化) (32) | [编程 Agent 与 IDE](#编程 Agent 与 IDE) (30) |
-| [AI 与大语言模型](#AI 与大语言模型) (30) | [Git 与 GitHub](#Git 与 GitHub) (29) | [浏览器与自动化](#浏览器与自动化) (29) |
-| [CLI 工具集](#CLI 工具集) (29) | [iOS 与 macOS 开发](#iOS 与 macOS 开发) (29) | [游戏与娱乐](#游戏与娱乐) (25) |
+| [购物与电商](#购物与电商) (45) | [Apple 应用与服务](#apple-应用与服务) (43) | [语音与转录](#语音与转录) (42) |
+| [智能家居与物联网](#智能家居与物联网) (40) | [数据分析](#数据分析) (35) | [Clawdbot 工具集](#clawdbot-工具集) (35) |
+| [Moltbook](#moltbook) (35) | [自托管与自动化](#自托管与自动化) (32) | [编程 Agent 与 IDE](#编程-agent-与-ide) (30) |
+| [AI 与大语言模型](#ai-与大语言模型) (30) | [Git 与 GitHub](#git-与-github) (29) | [浏览器与自动化](#浏览器与自动化) (29) |
+| [CLI 工具集](#cli-工具集) (29) | [iOS 与 macOS 开发](#ios-与-macos-开发) (29) | [游戏与娱乐](#游戏与娱乐) (25) |
 
 ---
 
-<details open id="Web 与前端开发">
+<details open id="web-与前端开发">
 <summary><h3 style="display:inline">Web 与前端开发</h3> <span style="color:#888;font-size:0.9em">(902 个 Skills)</span></summary>
 
 > Web & Frontend Development
@@ -112,7 +112,7 @@ React、Vue、Next.js 等前端框架和 Web 开发的 Skills 合集。
 </details>
 
 
-<details open id="DevOps 与云服务">
+<details open id="devops-与云服务">
 <summary><h3 style="display:inline">DevOps 与云服务</h3> <span style="color:#888;font-size:0.9em">(375 个 Skills)</span></summary>
 
 > DevOps & Cloud
@@ -280,7 +280,7 @@ Midjourney、DALL·E、Stable Diffusion 等 AI 生成工具的 Skills 合集。
 </details>
 
 
-<details open id="PDF 与文档">
+<details open id="pdf-与文档">
 <summary><h3 style="display:inline">PDF 与文档</h3> <span style="color:#888;font-size:0.9em">(102 个 Skills)</span></summary>
 
 > PDF & Documents
@@ -392,7 +392,7 @@ Fitbit、Apple Health、Garmin 等健康数据追踪的 Skills 合集。
 </details>
 
 
-<details open id="笔记与 PKM">
+<details open id="笔记与-pkm">
 <summary><h3 style="display:inline">笔记与 PKM</h3> <span style="color:#888;font-size:0.9em">(69 个 Skills)</span></summary>
 
 > Notes & PKM
@@ -504,7 +504,7 @@ Google Calendar、Apple Calendar、日程调度的 Skills 合集。
 </details>
 
 
-<details open id="购物与电商">
+<details id="购物与电商">
 <summary><h3 style="display:inline">购物与电商</h3> <span style="color:#888;font-size:0.9em">(45 个 Skills)</span></summary>
 
 > Shopping & E-commerce
@@ -532,7 +532,7 @@ Shopify、Amazon、电商数据分析的 Skills 合集。
 </details>
 
 
-<details open id="Apple 应用与服务">
+<details id="apple-应用与服务">
 <summary><h3 style="display:inline">Apple 应用与服务</h3> <span style="color:#888;font-size:0.9em">(43 个 Skills)</span></summary>
 
 > Apple Apps & Services
@@ -560,7 +560,7 @@ Apple Health、Apple Music、Shortcuts 等苹果生态的 Skills 合集。
 </details>
 
 
-<details open id="语音与转录">
+<details id="语音与转录">
 <summary><h3 style="display:inline">语音与转录</h3> <span style="color:#888;font-size:0.9em">(42 个 Skills)</span></summary>
 
 > Speech & Transcription
@@ -588,7 +588,7 @@ Whisper、ElevenLabs 等语音识别和合成的 Skills 合集。
 </details>
 
 
-<details open id="智能家居与物联网">
+<details id="智能家居与物联网">
 <summary><h3 style="display:inline">智能家居与物联网</h3> <span style="color:#888;font-size:0.9em">(40 个 Skills)</span></summary>
 
 > Smart Home & IoT
@@ -616,7 +616,7 @@ Google Home、Nest、Home Assistant 等智能家居的 Skills 合集。
 </details>
 
 
-<details open id="数据分析">
+<details id="数据分析">
 <summary><h3 style="display:inline">数据分析</h3> <span style="color:#888;font-size:0.9em">(35 个 Skills)</span></summary>
 
 > Data & Analytics
@@ -644,7 +644,7 @@ Google Home、Nest、Home Assistant 等智能家居的 Skills 合集。
 </details>
 
 
-<details open id="Clawdbot 工具集">
+<details id="clawdbot-工具集">
 <summary><h3 style="display:inline">Clawdbot 工具集</h3> <span style="color:#888;font-size:0.9em">(35 个 Skills)</span></summary>
 
 > Clawdbot Tools
@@ -672,7 +672,7 @@ Clawdbot 生态相关的工具 Skills 合集。
 </details>
 
 
-<details open id="Moltbook">
+<details id="moltbook">
 <summary><h3 style="display:inline">Moltbook</h3> <span style="color:#888;font-size:0.9em">(35 个 Skills)</span></summary>
 
 > Moltbook
@@ -700,7 +700,7 @@ Moltbook AI 社交网络相关的 Skills 合集。
 </details>
 
 
-<details open id="自托管与自动化">
+<details id="自托管与自动化">
 <summary><h3 style="display:inline">自托管与自动化</h3> <span style="color:#888;font-size:0.9em">(32 个 Skills)</span></summary>
 
 > Self-Hosted & Automation
@@ -728,7 +728,7 @@ Moltbook AI 社交网络相关的 Skills 合集。
 </details>
 
 
-<details open id="编程 Agent 与 IDE">
+<details id="编程-agent-与-ide">
 <summary><h3 style="display:inline">编程 Agent 与 IDE</h3> <span style="color:#888;font-size:0.9em">(30 个 Skills)</span></summary>
 
 > Coding Agents & IDEs
@@ -756,7 +756,7 @@ AI 编程助手、代码生成、IDE 集成的 Skills 合集。
 </details>
 
 
-<details open id="AI 与大语言模型">
+<details id="ai-与大语言模型">
 <summary><h3 style="display:inline">AI 与大语言模型</h3> <span style="color:#888;font-size:0.9em">(30 个 Skills)</span></summary>
 
 > AI & LLMs
@@ -784,7 +784,7 @@ AI 编程助手、代码生成、IDE 集成的 Skills 合集。
 </details>
 
 
-<details open id="Git 与 GitHub">
+<details id="git-与-github">
 <summary><h3 style="display:inline">Git 与 GitHub</h3> <span style="color:#888;font-size:0.9em">(29 个 Skills)</span></summary>
 
 > Git & GitHub
@@ -812,7 +812,7 @@ Git 版本控制、GitHub 操作、代码协作与 Pull Request 管理的 Skills
 </details>
 
 
-<details open id="浏览器与自动化">
+<details id="浏览器与自动化">
 <summary><h3 style="display:inline">浏览器与自动化</h3> <span style="color:#888;font-size:0.9em">(29 个 Skills)</span></summary>
 
 > Browser & Automation
@@ -840,7 +840,7 @@ Git 版本控制、GitHub 操作、代码协作与 Pull Request 管理的 Skills
 </details>
 
 
-<details open id="CLI 工具集">
+<details id="cli-工具集">
 <summary><h3 style="display:inline">CLI 工具集</h3> <span style="color:#888;font-size:0.9em">(29 个 Skills)</span></summary>
 
 > CLI Utilities
@@ -868,7 +868,7 @@ Git 版本控制、GitHub 操作、代码协作与 Pull Request 管理的 Skills
 </details>
 
 
-<details open id="iOS 与 macOS 开发">
+<details id="ios-与-macos-开发">
 <summary><h3 style="display:inline">iOS 与 macOS 开发</h3> <span style="color:#888;font-size:0.9em">(29 个 Skills)</span></summary>
 
 > iOS & macOS Development
@@ -896,7 +896,7 @@ Xcode、Apple 开发、Swift 相关的 Skills 合集。
 </details>
 
 
-<details open id="游戏与娱乐">
+<details id="游戏与娱乐">
 <summary><h3 style="display:inline">游戏与娱乐</h3> <span style="color:#888;font-size:0.9em">(25 个 Skills)</span></summary>
 
 > Gaming
