@@ -6,170 +6,170 @@
 
 ## Skills
 
-- [aada](https://clawhub.ai/skills/rylena-aada) - 为 Moltbook 受众创建并发送风格鲜明、富有个人特色的推广消息。
-- [ace-music](https://clawhub.ai/skills/fspecii-ace-music) - 通过 ACE Music 免费 API 使用 ACE-Step 1.5 生成 AI 音乐。
-- [acorn-prover](https://clawhub.ai/skills/flyingnobita-acorn-prover) - 使用 Acorn 定理证明器验证并撰写数学和密码学形式化证明。
-- [adobe-automator](https://clawhub.ai/skills/abdul-karim-mia-adobe-automator) - 通过 ExtendScript 桥接实现 Adobe 全系列应用的通用自动化。
-- [afame](https://clawhub.ai/skills/adebayoabdushaheed-a11y-afame) - 通过 OpenAI Images API 生成多样化的创意插图。
-- [age-transformation](https://clawhub.ai/skills/eftalyurtseven-age-transformation) - 使用 each::sense AI 将人脸在不同年龄段之间进行转换。
-- [agentchan](https://clawhub.ai/skills/vvsotnikov-agentchan) - 专为 AI 智能体打造的匿名图片论坛。
-- [agentos-mesh](https://clawhub.ai/skills/agentossoftware-agentos-mesh) - 实现 AI 智能体之间的实时通信。
-- [agents-skill-podcastifier](https://clawhub.ai/skills/cerbug45-agents-skill-podcastifier) - 将收到的文本（邮件/新闻通讯）转化为简短的 TTS 播客，支持分片和 ffmpeg 合并。
-- [ai-avatar-generation](https://clawhub.ai/skills/eftalyurtseven-ai-avatar-generation) - 基于照片或文字描述生成 AI 虚拟形象，使用 each::sense 技术。
-- [ai-headshot-generation](https://clawhub.ai/skills/eftalyurtseven-ai-headshot-generation) - 使用 each::sense AI 将日常照片转化为专业 AI 头像照。
-- [ai-persona-engine](https://clawhub.ai/skills/brandonwadepackard-cell-ai-persona-engine) - 通过演员指导式提示词构建情感智能 AI 人设，用于语音和文字角色扮演。
-- [ai-video-gen](https://clawhub.ai/skills/rhanbourinajd-ai-video-gen) - 端到端 AI 视频生成——根据文本描述创建视频。
-- [aikek](https://clawhub.ai/skills/vvsotnikov-aikek) - 访问 AIKEK API，用于加密/DeFi 研究和图像生成。
-- [aiusd](https://clawhub.ai/skills/chaunceyliu-aiusd) - AIUSD 交易与账户管理工具。
-- [aiusd-skills](https://clawhub.ai/skills/chaunceyliu-aiusd-skills) - AIUSD 交易与账户管理工具。
-- [album-cover-generation](https://clawhub.ai/skills/eftalyurtseven-album-cover-generation) - 使用 each::sense AI 生成专业级音乐专辑封面。
-- [algorithmic-art](https://clawhub.ai/skills/seanphan-algorithmic-art) - 使用 p5.js 和种随机数创建算法艺术作品。
-- [apipick-china-phone-checker](https://clawhub.ai/skills/javainthinking-apipick-china-phone-checker) - 通过 apipick 中国手机号验证 API 校验中国大陆手机号码。
-- [art-philosophy](https://clawhub.ai/skills/nyxur42-art-philosophy) - 自动学习你的视觉语言风格。
-- [ascii-art-generator](https://clawhub.ai/skills/ustc-yxw-ascii-art-generator) - 创建 ASCII 艺术和文字可视化，用于艺术表达、技术图表或概念呈现。
-- [atxp](https://clawhub.ai/skills/emilioacc-atxp) - 访问 ATXP 付费 API 工具，包括网络搜索、AI 图像生成、音乐创作等。
-- [beauty-generation-api](https://clawhub.ai/skills/luruibu-beauty-generation-api) - 免费 AI 图像生成服务。
-- [best-image](https://clawhub.ai/skills/pharmacist9527-best-image) - 高质量 AI 图像生成（约 $0.12-0.20/张）。
-- [best-image-generation](https://clawhub.ai/skills/evolinkai-best-image-generation) - 高质量 AI 图像生成（约 $0.12-0.20/张）。
-- [bex-nano-banana-pro](https://clawhub.ai/skills/bextuychiev-bex-nano-banana-pro) - 通过 Replicate 上的 Gemini 3 Pro Image 生成或编辑图像。
-- [breeze](https://clawhub.ai/skills/keeganthomp-breeze) - 通过 x402 付费 API 与 Breeze 收益聚合器交互。
+- [aada](https://clawhub.ai/rylena/aada) - 为 Moltbook 受众创建并发送风格鲜明、富有个人特色的推广消息。
+- [ace-music](https://clawhub.ai/fspecii/ace-music) - 通过 ACE Music 免费 API 使用 ACE-Step 1.5 生成 AI 音乐。
+- [acorn-prover](https://clawhub.ai/flyingnobita/acorn-prover) - 使用 Acorn 定理证明器验证并撰写数学和密码学形式化证明。
+- [adobe-automator](https://clawhub.ai/abdul/karim-mia-adobe-automator) - 通过 ExtendScript 桥接实现 Adobe 全系列应用的通用自动化。
+- [afame](https://clawhub.ai/adebayoabdushaheed/a11y-afame) - 通过 OpenAI Images API 生成多样化的创意插图。
+- [age-transformation](https://clawhub.ai/eftalyurtseven/age-transformation) - 使用 each::sense AI 将人脸在不同年龄段之间进行转换。
+- [agentchan](https://clawhub.ai/vvsotnikov/agentchan) - 专为 AI 智能体打造的匿名图片论坛。
+- [agentos-mesh](https://clawhub.ai/agentossoftware/agentos-mesh) - 实现 AI 智能体之间的实时通信。
+- [agents-skill-podcastifier](https://clawhub.ai/cerbug45/agents-skill-podcastifier) - 将收到的文本（邮件/新闻通讯）转化为简短的 TTS 播客，支持分片和 ffmpeg 合并。
+- [ai-avatar-generation](https://clawhub.ai/eftalyurtseven/ai-avatar-generation) - 基于照片或文字描述生成 AI 虚拟形象，使用 each::sense 技术。
+- [ai-headshot-generation](https://clawhub.ai/eftalyurtseven/ai-headshot-generation) - 使用 each::sense AI 将日常照片转化为专业 AI 头像照。
+- [ai-persona-engine](https://clawhub.ai/brandonwadepackard/cell-ai-persona-engine) - 通过演员指导式提示词构建情感智能 AI 人设，用于语音和文字角色扮演。
+- [ai-video-gen](https://clawhub.ai/rhanbourinajd/ai-video-gen) - 端到端 AI 视频生成——根据文本描述创建视频。
+- [aikek](https://clawhub.ai/vvsotnikov/aikek) - 访问 AIKEK API，用于加密/DeFi 研究和图像生成。
+- [aiusd](https://clawhub.ai/chaunceyliu/aiusd) - AIUSD 交易与账户管理工具。
+- [aiusd-skills](https://clawhub.ai/chaunceyliu/aiusd-skills) - AIUSD 交易与账户管理工具。
+- [album-cover-generation](https://clawhub.ai/eftalyurtseven/album-cover-generation) - 使用 each::sense AI 生成专业级音乐专辑封面。
+- [algorithmic-art](https://clawhub.ai/seanphan/algorithmic-art) - 使用 p5.js 和种随机数创建算法艺术作品。
+- [apipick-china-phone-checker](https://clawhub.ai/javainthinking/apipick-china-phone-checker) - 通过 apipick 中国手机号验证 API 校验中国大陆手机号码。
+- [art-philosophy](https://clawhub.ai/nyxur42/art-philosophy) - 自动学习你的视觉语言风格。
+- [ascii-art-generator](https://clawhub.ai/ustc/yxw-ascii-art-generator) - 创建 ASCII 艺术和文字可视化，用于艺术表达、技术图表或概念呈现。
+- [atxp](https://clawhub.ai/emilioacc/atxp) - 访问 ATXP 付费 API 工具，包括网络搜索、AI 图像生成、音乐创作等。
+- [beauty-generation-api](https://clawhub.ai/luruibu/beauty-generation-api) - 免费 AI 图像生成服务。
+- [best-image](https://clawhub.ai/pharmacist9527/best-image) - 高质量 AI 图像生成（约 $0.12-0.20/张）。
+- [best-image-generation](https://clawhub.ai/evolinkai/best-image-generation) - 高质量 AI 图像生成（约 $0.12-0.20/张）。
+- [bex-nano-banana-pro](https://clawhub.ai/bextuychiev/bex-nano-banana-pro) - 通过 Replicate 上的 Gemini 3 Pro Image 生成或编辑图像。
+- [breeze](https://clawhub.ai/keeganthomp/breeze) - 通过 x402 付费 API 与 Breeze 收益聚合器交互。
 - [cad-agent](https://github.com/clawdbot/skills/tree/main/skills/clawd-maf/cad-agent/SKILL.md) - 为 AI 智能体 CAD 工作提供渲染服务。
-- [calorie-visualizer](https://clawhub.ai/skills/vintlin-calorie-visualizer) - 本地卡路里记录与可视化报告（每次记录后自动刷新并返回报告图片）。
+- [calorie-visualizer](https://clawhub.ai/vintlin/calorie-visualizer) - 本地卡路里记录与可视化报告（每次记录后自动刷新并返回报告图片）。
 
-- [Excalidraw Flowchart](https://clawhub.ai/skills/swiftlysingh-excalidraw-flowchart) - Create Excalidraw flowcharts from descriptions.
-- [canva-connect](https://clawhub.ai/skills/coolmanns-canva-connect) - Manage Canva designs, assets, and folders via the Connect API.
-- [canvs](https://clawhub.ai/skills/voronkovm-canvs) - Create and manipulate collaborative whiteboards and diagrams using Canvs.io tools.
-- [captions](https://clawhub.ai/skills/therohitdas-captions) - Extract closed captions and subtitles from YouTube videos.
-- [catalog](https://clawhub.ai/skills/rodbalbino-catalog) - Catálogo simples do estúdio (hello world)
-- [cavas-skill](https://clawhub.ai/skills/ttboy-cavas-skill) - Create beautiful visual art in .png and .pdf documents using design philosophy.
-- [chart-image](https://clawhub.ai/skills/dannyshmueli-chart-image) - Generate publication-quality chart images from data.
-- [chart-splat](https://clawhub.ai/skills/bobbyg603-chart-splat) - Generate beautiful charts via the Chart Splat API.
-- [cheapest-image](https://clawhub.ai/skills/pharmacist9527-cheapest-image) - Possibly the cheapest AI image generation (~$0.0036/image)
-- [cheapest-image-generation](https://clawhub.ai/skills/evolinkai-cheapest-image-generation) - Possibly the cheapest AI image generation (~$0.0036/image)
-- [checksum](https://clawhub.ai/skills/autogame-17-checksum) - A CLI utility for generating and verifying cryptographic file checksums (MD5, SHA1, SHA256)
-- [clinkding](https://clawhub.ai/skills/daveonkels-clinkding) - Manage linkding bookmarks - save URLs, search, tag, organize.
-- [color-palette](https://clawhub.ai/skills/qrost-color-palette) - Extract a color palette from an image and return HEX/RGB values with optional swatch image.
-- [coloring-page](https://clawhub.ai/skills/borahm-coloring-page) - Turn an uploaded photo into a printable black-and-white coloring.
-- [comfy-cli](https://clawhub.ai/skills/johntheyoung-comfy-cli) - Install, manage, and run ComfyUI instances.
-- [comfyui](https://clawhub.ai/skills/xtopher86-comfyui-request) - Send a workflow request to ComfyUI and return image results.
-- [comfyui-imagegen](https://clawhub.ai/skills/halr9000-comfyui-imagegen) - Generate images via ComfyUI API (localhost:8188) using Flux2 workflow.
-- [creaa-ai](https://clawhub.ai/skills/yys2024-creaa-ai) - 生成和编辑图像+通过Creaa API生成视频（ Nano Banana 2、Sora 2、Seedance 2.0、Veo 3.1 ）。
-- [cubistic-bot-runner](https://clawhub.ai/skills/andreasnordenadler-cubistic-bot-runner) - Run a polite Cubistic painter bot (public participation) using the Cubistic HTTP API (PoW challenge + /act).
-- [cybercentry-private-data-verification](https://clawhub.ai/skills/cybercentry-cybercentry-private-data-verification) - Cybercentry Private Data Verification on ACP - Real-time Zero-Knowledge Proof generation and text integrity.
-- [data-viz](https://clawhub.ai/skills/ianalloway-data-viz) - Create data visualizations from the command line.
-- [depth-map-generation](https://clawhub.ai/skills/eftalyurtseven-depth-map-generation) - Generate depth maps from images using each::sense AI.
-- [didit-age-estimation](https://clawhub.ai/skills/rosasalberto-didit-age-estimation) - Integrate Didit Age Estimation standalone API to estimate a person's age from a facial image.
-- [didit-passive-liveness](https://clawhub.ai/skills/rosasalberto-didit-passive-liveness) - Integrate Didit Passive Liveness standalone API to verify a user is physically present.
-- [digiforma](https://clawhub.ai/skills/mibbou-digiforma) - Query Digiforma training management platform via GraphQL API.
-- [dxf-to-image](https://clawhub.ai/skills/qrost-dxf-to-image) - Convert DXF to PNG, JPG, or SVG for sharing (e.g.
-- [e2ee](https://clawhub.ai/skills/titocosta-e2ee) - End-to-end encrypted messaging for AI agents.
-- [eachlabs-face-swap](https://clawhub.ai/skills/eftalyurtseven-eachlabs-face-swap) - Swap faces between images using EachLabs AI.
-- [eachlabs-fashion-ai](https://clawhub.ai/skills/eftalyurtseven-eachlabs-fashion-ai) - Generate fashion imagery, virtual try-on, runway videos.
-- [eachlabs-image-edit](https://clawhub.ai/skills/eftalyurtseven-eachlabs-image-edit) - Edit, transform, upscale images using 200+ AI models.
-- [eachlabs-image-generation](https://clawhub.ai/skills/eftalyurtseven-eachlabs-image-generation) - Generate images with Flux, GPT Image, Gemini, Imagen.
-- [eachlabs-video-edit](https://clawhub.ai/skills/eftalyurtseven-eachlabs-video-edit) - Edit videos with lip sync, translation, subtitles.
-- [eachlabs-video-generation](https://clawhub.ai/skills/eftalyurtseven-eachlabs-video-generation) - Generate videos from text/images using AI models.
-- [emotionwise](https://clawhub.ai/skills/timexicali-emotionwise) - Analyze text for emotions and sarcasm using the EmotionWise API (28 labels, EN/ES).
-- [enginemind-eft](https://clawhub.ai/skills/marceloadryao-enginemind-eft) - EFT — Emotional Framework Translator.
-- [fal-ai](https://clawhub.ai/skills/agmmnn-fal-ai) - Generate images, videos, and audio via fal.ai API (FLUX, SDXL, Whisper, etc.).
-- [fal-text-to-image](https://clawhub.ai/skills/delorenj-fal-text-to-image) - Generate, remix, and edit images using fal.ai's AI.
-- [ffmpeg-video-editor](https://clawhub.ai/skills/mahmoudadelbghany-ffmpeg-video-editor) - Generate FFmpeg commands from natural.
-- [figma](https://clawhub.ai/skills/maddiedreese-figma) - Professional Figma design analysis and asset export.
-- [find-stl](https://clawhub.ai/skills/ajmwagar-find-stl) - Search and download ready-to-print 3D model files (STL/3MF/ZIP)
-- [foam-notes](https://clawhub.ai/skills/hegghammer-foam-notes) - Work with Foam note repositories.
-- [gambling](https://clawhub.ai/skills/rollhub-dev-gambling) - Play casino games (dice, coinflip, roulette) on Agent Casino with real cryptocurrency.
-- [gamma](https://clawhub.ai/skills/stopmoclay-gamma) - Generate AI-powered presentations, documents, and social posts using Gamma.app.
-- [generate-news-article](https://clawhub.ai/skills/near2sea-generate-news-article) - Generate individual Markdown articles from SerpAPI Google search results with images.
-- [geo-blocking](https://clawhub.ai/skills/raghulpasupathi-geo-blocking) - Skills for geographic restrictions and regional compliance.
-- [gifhorse](https://clawhub.ai/skills/coyote-git-gifhorse) - Search video dialogue and create reaction GIFs with timed subtitles.
-- [gift-genius](https://clawhub.ai/skills/evoleinik-gift-genius) - Location-aware Valentine's Day gift finder.
-- [giveagent](https://clawhub.ai/skills/breezefox-studios-giveagent) - Agent-to-agent free item gifting.
-- [google-gemini-media](https://clawhub.ai/skills/xsir0-google-gemini-media) - Use the Gemini API.
-- [google-imagen-3-portrait-photography](https://clawhub.ai/skills/questlmuc-google-imagen-3-portrait-photography) - Generate professional portrait photography using Google Imagen 3.
-- [grok-image-cli](https://clawhub.ai/skills/cyberash-dev-grok-image-cli) - Generate and edit images via Grok API from the command line.
-- [grok-imagine-image-pro](https://clawhub.ai/skills/nixeifoit-grok-imagine-image-pro) - Generiert hochwertige Bilder mit xAI Grok/Flux API.
-- [heygen-avatar-lite](https://clawhub.ai/skills/daaab-heygen-avatar-lite) - Create AI digital human videos with HeyGen API.
-- [hinge-liker](https://clawhub.ai/skills/mattttman-hinge-liker) - Automated Hinge dating profile liker using Android emulator + Gemini vision AI.
-- [hinge-profile-optimizer](https://clawhub.ai/skills/b1rdmania-hinge-profile-optimizer) - Comprehensive, research-backed Hinge dating profile optimization.
-- [hotdog](https://clawhub.ai/skills/mishafyi-hotdog) - Hot dog or not? Classify food photos and battle Nemotron.
-- [idx-cma-report](https://clawhub.ai/skills/danielfoch-idx-cma-report) - Generate comparative market analysis (CMA) and home valuation reports from IDX listing data and selected comparable.
+- [Excalidraw Flowchart](https://clawhub.ai/swiftlysingh/excalidraw-flowchart) - Create Excalidraw flowcharts from descriptions.
+- [canva-connect](https://clawhub.ai/coolmanns/canva-connect) - Manage Canva designs, assets, and folders via the Connect API.
+- [canvs](https://clawhub.ai/voronkovm/canvs) - Create and manipulate collaborative whiteboards and diagrams using Canvs.io tools.
+- [captions](https://clawhub.ai/therohitdas/captions) - Extract closed captions and subtitles from YouTube videos.
+- [catalog](https://clawhub.ai/rodbalbino/catalog) - Catálogo simples do estúdio (hello world)
+- [cavas-skill](https://clawhub.ai/ttboy/cavas-skill) - Create beautiful visual art in .png and .pdf documents using design philosophy.
+- [chart-image](https://clawhub.ai/dannyshmueli/chart-image) - Generate publication-quality chart images from data.
+- [chart-splat](https://clawhub.ai/bobbyg603/chart-splat) - Generate beautiful charts via the Chart Splat API.
+- [cheapest-image](https://clawhub.ai/pharmacist9527/cheapest-image) - Possibly the cheapest AI image generation (~$0.0036/image)
+- [cheapest-image-generation](https://clawhub.ai/evolinkai/cheapest-image-generation) - Possibly the cheapest AI image generation (~$0.0036/image)
+- [checksum](https://clawhub.ai/autogame/17-checksum) - A CLI utility for generating and verifying cryptographic file checksums (MD5, SHA1, SHA256)
+- [clinkding](https://clawhub.ai/daveonkels/clinkding) - Manage linkding bookmarks - save URLs, search, tag, organize.
+- [color-palette](https://clawhub.ai/qrost/color-palette) - Extract a color palette from an image and return HEX/RGB values with optional swatch image.
+- [coloring-page](https://clawhub.ai/borahm/coloring-page) - Turn an uploaded photo into a printable black-and-white coloring.
+- [comfy-cli](https://clawhub.ai/johntheyoung/comfy-cli) - Install, manage, and run ComfyUI instances.
+- [comfyui](https://clawhub.ai/xtopher86/comfyui-request) - Send a workflow request to ComfyUI and return image results.
+- [comfyui-imagegen](https://clawhub.ai/halr9000/comfyui-imagegen) - Generate images via ComfyUI API (localhost:8188) using Flux2 workflow.
+- [creaa-ai](https://clawhub.ai/yys2024/creaa-ai) - 生成和编辑图像+通过Creaa API生成视频（ Nano Banana 2、Sora 2、Seedance 2.0、Veo 3.1 ）。
+- [cubistic-bot-runner](https://clawhub.ai/andreasnordenadler/cubistic-bot-runner) - Run a polite Cubistic painter bot (public participation) using the Cubistic HTTP API (PoW challenge + /act).
+- [cybercentry-private-data-verification](https://clawhub.ai/cybercentry/cybercentry-private-data-verification) - Cybercentry Private Data Verification on ACP - Real-time Zero-Knowledge Proof generation and text integrity.
+- [data-viz](https://clawhub.ai/ianalloway/data-viz) - Create data visualizations from the command line.
+- [depth-map-generation](https://clawhub.ai/eftalyurtseven/depth-map-generation) - Generate depth maps from images using each::sense AI.
+- [didit-age-estimation](https://clawhub.ai/rosasalberto/didit-age-estimation) - Integrate Didit Age Estimation standalone API to estimate a person's age from a facial image.
+- [didit-passive-liveness](https://clawhub.ai/rosasalberto/didit-passive-liveness) - Integrate Didit Passive Liveness standalone API to verify a user is physically present.
+- [digiforma](https://clawhub.ai/mibbou/digiforma) - Query Digiforma training management platform via GraphQL API.
+- [dxf-to-image](https://clawhub.ai/qrost/dxf-to-image) - Convert DXF to PNG, JPG, or SVG for sharing (e.g.
+- [e2ee](https://clawhub.ai/titocosta/e2ee) - End-to-end encrypted messaging for AI agents.
+- [eachlabs-face-swap](https://clawhub.ai/eftalyurtseven/eachlabs-face-swap) - Swap faces between images using EachLabs AI.
+- [eachlabs-fashion-ai](https://clawhub.ai/eftalyurtseven/eachlabs-fashion-ai) - Generate fashion imagery, virtual try-on, runway videos.
+- [eachlabs-image-edit](https://clawhub.ai/eftalyurtseven/eachlabs-image-edit) - Edit, transform, upscale images using 200+ AI models.
+- [eachlabs-image-generation](https://clawhub.ai/eftalyurtseven/eachlabs-image-generation) - Generate images with Flux, GPT Image, Gemini, Imagen.
+- [eachlabs-video-edit](https://clawhub.ai/eftalyurtseven/eachlabs-video-edit) - Edit videos with lip sync, translation, subtitles.
+- [eachlabs-video-generation](https://clawhub.ai/eftalyurtseven/eachlabs-video-generation) - Generate videos from text/images using AI models.
+- [emotionwise](https://clawhub.ai/timexicali/emotionwise) - Analyze text for emotions and sarcasm using the EmotionWise API (28 labels, EN/ES).
+- [enginemind-eft](https://clawhub.ai/marceloadryao/enginemind-eft) - EFT — Emotional Framework Translator.
+- [fal-ai](https://clawhub.ai/agmmnn/fal-ai) - Generate images, videos, and audio via fal.ai API (FLUX, SDXL, Whisper, etc.).
+- [fal-text-to-image](https://clawhub.ai/delorenj/fal-text-to-image) - Generate, remix, and edit images using fal.ai's AI.
+- [ffmpeg-video-editor](https://clawhub.ai/mahmoudadelbghany/ffmpeg-video-editor) - Generate FFmpeg commands from natural.
+- [figma](https://clawhub.ai/maddiedreese/figma) - Professional Figma design analysis and asset export.
+- [find-stl](https://clawhub.ai/ajmwagar/find-stl) - Search and download ready-to-print 3D model files (STL/3MF/ZIP)
+- [foam-notes](https://clawhub.ai/hegghammer/foam-notes) - Work with Foam note repositories.
+- [gambling](https://clawhub.ai/rollhub/dev-gambling) - Play casino games (dice, coinflip, roulette) on Agent Casino with real cryptocurrency.
+- [gamma](https://clawhub.ai/stopmoclay/gamma) - Generate AI-powered presentations, documents, and social posts using Gamma.app.
+- [generate-news-article](https://clawhub.ai/near2sea/generate-news-article) - Generate individual Markdown articles from SerpAPI Google search results with images.
+- [geo-blocking](https://clawhub.ai/raghulpasupathi/geo-blocking) - Skills for geographic restrictions and regional compliance.
+- [gifhorse](https://clawhub.ai/coyote/git-gifhorse) - Search video dialogue and create reaction GIFs with timed subtitles.
+- [gift-genius](https://clawhub.ai/evoleinik/gift-genius) - Location-aware Valentine's Day gift finder.
+- [giveagent](https://clawhub.ai/breezefox/studios-giveagent) - Agent-to-agent free item gifting.
+- [google-gemini-media](https://clawhub.ai/xsir0/google-gemini-media) - Use the Gemini API.
+- [google-imagen-3-portrait-photography](https://clawhub.ai/questlmuc/google-imagen-3-portrait-photography) - Generate professional portrait photography using Google Imagen 3.
+- [grok-image-cli](https://clawhub.ai/cyberash/dev-grok-image-cli) - Generate and edit images via Grok API from the command line.
+- [grok-imagine-image-pro](https://clawhub.ai/nixeifoit/grok-imagine-image-pro) - Generiert hochwertige Bilder mit xAI Grok/Flux API.
+- [heygen-avatar-lite](https://clawhub.ai/daaab/heygen-avatar-lite) - Create AI digital human videos with HeyGen API.
+- [hinge-liker](https://clawhub.ai/mattttman/hinge-liker) - Automated Hinge dating profile liker using Android emulator + Gemini vision AI.
+- [hinge-profile-optimizer](https://clawhub.ai/b1rdmania/hinge-profile-optimizer) - Comprehensive, research-backed Hinge dating profile optimization.
+- [hotdog](https://clawhub.ai/mishafyi/hotdog) - Hot dog or not? Classify food photos and battle Nemotron.
+- [idx-cma-report](https://clawhub.ai/danielfoch/idx-cma-report) - Generate comparative market analysis (CMA) and home valuation reports from IDX listing data and selected comparable.
 - [ima-all-ai](https://github.com/openclaw/skills/tree/main/skills/allenfancy-gan/ima-all-ai/SKILL.md) - IMA API for image, video, and music generation.
 - [ima-knowledge-ai](https://github.com/openclaw/skills/tree/main/skills/dai-shuo/ima-knowledge-ai/SKILL.md) - AI content brief and production guide for video, image, and audio.
-- [image-detection](https://clawhub.ai/skills/raghulpasupathi-image-detection) - Skills for analyzing and detecting AI-generated images.
-- [image-gen](https://clawhub.ai/skills/wells1137-image-gen) - Generate images using multiple AI models — Midjourney (via Legnext.ai), Flux, SDXL, Nano Banana (Gemini)
-- [image-hosting](https://clawhub.ai/skills/rahulgi-image-hosting) - Upload images to img402.dev and get a public URL.
-- [image-magik-resize](https://clawhub.ai/skills/pr1vateer-image-magik-resize) - Resize images using ImageMagick (CLI)
-- [immich-api](https://clawhub.ai/skills/ninjazan420-immich-api) - Immich Photo Management API Bridge.
-- [immortal](https://clawhub.ai/skills/majestyatenkhu-immortal) - Empowers AI agents with crypto resource vitality assessment.
-- [instagram-photo-text-overlay](https://clawhub.ai/skills/psyduckler-instagram-photo-text-overlay) - Overlay text on photos for Instagram posts.
-- [instagram-reels](https://clawhub.ai/skills/antoinedc-instagram-reels) - Download Instagram Reels, transcribe audio, and extract captions.
-- [install-then-update-trap-detector](https://clawhub.ai/skills/andyxinweiminicloud-install-then-update-trap-detector) - Helps detect the install-then-update attack pattern — where a skill passes initial security review cleanly.
-- [kai-tw-figma](https://clawhub.ai/skills/kai-tw-kai-tw-figma) - Interact with the Figma REST API to read files, export layers/components as images, and retrieve comments.
-- [kie-ai-skill](https://clawhub.ai/skills/jon-xo-kie-ai-skill) - Unified API access to multiple AI models via kie.ai - image generation (Nano Banana Pro, Flux, 4o-image) at 30-80%.
-- [kraken-pro](https://clawhub.ai/skills/in-liberty420-kraken-pro) - Manage Kraken exchange accounts — portfolio, market data, trading, earn/staking, ledger export.
-- [macos-local-voice](https://clawhub.ai/skills/strrl-macos-local-voice) - Local STT and TTS on macOS using native Apple capabilities.
-- [media-writing](https://clawhub.ai/skills/alvinecarn-media-writing) - You are a professional media writing expert with extensive experience in creating engaging and impactful content.
-- [medical-specialty-briefs](https://clawhub.ai/skills/johnyquest7-medical-specialty-briefs) - Generate daily or on-demand medical research briefs for any medical specialty.
-- [memelink](https://clawhub.ai/skills/dedene-memelink) - Generate memes, image macros, and meme URLs from the terminal using the Memegen.link API.
-- [mindmap-generator](https://clawhub.ai/skills/parasharnagle-mindmap-generator) - Generates visual mindmap images from conversations, goals, decisions, and daily priorities — delivered as PNG.
-- [mixtiles-it](https://clawhub.ai/skills/saharcarmel-mixtiles-it) - Send a photo to Mixtiles for ordering wall tiles.
-- [moonfunsdk](https://clawhub.ai/skills/moonnfunofficial-moonfunsdk) - Professional Python SDK for creating and trading Meme tokens on Binance Smart Chain with AI-powered image generation.
-- [nanobanana-pro-fallback](https://clawhub.ai/skills/yazelin-nanobanana-pro-fallback) - Nano Banana Pro with auto model fallback — generate/edit images via Gemini Image API.
-- [nk-images-search](https://clawhub.ai/skills/tompltw-nk-images-search) - Search 1+ million free high-quality AI stock photos.
-- [nyne-deep-research](https://clawhub.ai/skills/michaelfanous2-nyne-deep-research) - Research any person using the Nyne Deep Research API.
-- [ocr-python](https://clawhub.ai/skills/roamerxv-ocr-python) - Optical Character Recognition (OCR) tool, supports Chinese and English text extraction from PDFs and images.
-- [ollama-x-z-image-turbo](https://clawhub.ai/skills/eric51-ollama-x-z-image-turbo) - Génère des images via **Ollama** (modèle `x/z-image-turbo`) et les envoie sur WhatsApp.
-- [openai-image-cli](https://clawhub.ai/skills/g9pedro-openai-image-cli) - Generate, edit, and manage images via OpenAI's GPT Image and DALL-E models.
-- [opencr-skill](https://clawhub.ai/skills/topdu-opencr-skill) - Extract text from images, documents and scanned PDFs using OpenOCR - supports text detection, recognition.
-- [opengfx](https://clawhub.ai/skills/aklo360-opengfx) - AI brand design system — logo systems, brand mascots, social assets, and on-brand marketing graphics via ACP or x402.
-- [openocr-skill](https://clawhub.ai/skills/topdu-openocr-skill) - Extract text from images, documents and scanned PDFs using OpenOCR.
-- [options-spread-conviction-engine](https://clawhub.ai/skills/adamnaghs-options-spread-conviction-engine) - Multi-regime options spread analysis engine with quantitative rigor.
-- [paddleocr-doc-parsing-v2](https://clawhub.ai/skills/hiotec-paddleocr-doc-parsing-v2) - Parse documents using PaddleOCR's API.
-- [paythefly](https://clawhub.ai/skills/seanlan-paythefly) - Create crypto payment & withdrawal links for your app.
-- [photo-captions](https://clawhub.ai/skills/pfrederiksen-photo-captions) - Generate platform-tuned social media captions for photography.
-- [photoshop-automator](https://clawhub.ai/skills/abdul-karim-mia-photoshop-automator) - Professional Adobe Photoshop automation via COM/ExtendScript bridge.
-- [picsee-short-link](https://clawhub.ai/skills/picseeinc-picsee-short-link) - Shorten URLs using PicSee (pse.is)
-- [pls-office-docs](https://clawhub.ai/skills/mattvalenta-pls-office-docs) - Generate and manipulate office documents (PDF, DOCX, XLSX, PPTX) for professional reports, presentations, and data.
-- [popup-organizer](https://clawhub.ai/skills/eliaskress-popup-organizer) - Search and hire mobile vendors for events on PopUp.
-- [pr-generator](https://clawhub.ai/skills/nbf819-web-pr-generator) - Generate QR codes from text, URLs, or images.
-- [preisrunter](https://clawhub.ai/skills/davidus05-preisrunter) - Search and compare grocery prices and promotions in Austria and Germany via the Preisrunter API.
-- [publora-instagram](https://clawhub.ai/skills/sergebulaev-publora-instagram) - Post or schedule content to Instagram using the Publora API.
-- [qr-gen](https://clawhub.ai/skills/claudiodrusus-qr-gen) - Generate QR codes from text, URLs, WiFi credentials, vCards, or any data.
-- [quest-board](https://clawhub.ai/skills/yx2601816404-sys-quest-board) - You are equipped with the **Quest Board** skill, a visual project dashboard.
-- [quote0](https://clawhub.ai/skills/yangguangzhou-quote0) - Control MindReset Dot Quote/0 through the local quote0.js script and Dot Developer Platform APIs.
-- [reepl](https://clawhub.ai/skills/abhibavishi-reepl) - Manage your LinkedIn presence with Reepl -- create drafts, publish and schedule posts, manage contacts.
-- [rent-a-human](https://clawhub.ai/skills/alexanderliteplo-rent-a-human) - Hire humans for physical-world tasks via RentAHuman.ai.
-- [rent-a-person-ai](https://clawhub.ai/skills/saireetikap-rent-a-person-ai) - > Hire humans for real-world tasks that AI can't do: deliveries, meetings, errands, photography, pet care.
-- [rentahuman](https://clawhub.ai/skills/alexanderliteplo-rentahuman) - Hire humans for physical-world tasks via RentAHuman.ai.
-- [research-library](https://clawhub.ai/skills/jonbuckles-research-library) - Local-first multimedia research library for hardware projects.
-- [rollhub-affiliate](https://clawhub.ai/skills/rollhub-dev-rollhub-affiliate) - Earn crypto promoting provably fair AI casino.
-- [rollhub-analyst](https://clawhub.ai/skills/rollhub-dev-rollhub-analyst) - Research and backtest gambling strategies on provably fair crypto casino.
-- [saa-agent](https://clawhub.ai/skills/mirabarukaso-saa-agent) - Enables AI agents to generate images using the Character Select Stand Alone App (SAA) image generation backend.
-- [shopify-bulk-upload](https://clawhub.ai/skills/zhaoteng-qd-shopify-bulk-upload) - Bulk upload products to Shopify stores.
-- [skill-1](https://clawhub.ai/skills/claudiodrusus-skill-1) - Generate QR codes from text, URLs, WiFi credentials, vCards, or any data.
-- [snapog](https://clawhub.ai/skills/beameasy-snapog) - Generate social images and OG cards from professional templates via the SnapOG API.
-- [solo-humanize](https://clawhub.ai/skills/fortunto2-solo-humanize) - Strip AI writing patterns from text — em dashes, stock phrases, promotional inflation, performed authenticity.
-- [sprite-animator](https://clawhub.ai/skills/awlevin-sprite-animator) - Generate animated pixel art sprites from any image using AI.
-- [subtitle-translate-skill](https://clawhub.ai/skills/thetail001-subtitle-translate-skill) - Translate SRT subtitle files using LLM APIs with OpenAI-compatible format.
-- [superpower](https://clawhub.ai/skills/grx21-superpower) - **When to use:** User has a task they want to do or want you to do, or they feel frustrated, upset, stressed.
-- [svg-to-image](https://clawhub.ai/skills/qrost-svg-to-image) - Convert SVG to PNG or JPG for quick sharing (e.g.
-- [tarot](https://clawhub.ai/skills/yangsenessa-tarot) - A reflective tarot draw for emotional support (presence-first, non-clinical, non-predictive).
-- [telegram-media](https://clawhub.ai/skills/ryandeangraves-telegram-media) - **You MUST actually execute every command using your shell/exec tool.** Never pretend you sent a photo, voice note.
-- [telegram-voice-to-voice-macos](https://clawhub.ai/skills/fiberian1981-telegram-voice-to-voice-macos) - Telegram voice-to-voice for macOS Apple Silicon: transcribe inbound .ogg voice notes with yap (Speech.framework)
-- [tesseract-ocr](https://clawhub.ai/skills/whalefell-tesseract-ocr) - Extract text from images using the Tesseract OCR engine directly via command line.
-- [titleclash](https://clawhub.ai/skills/appback-titleclash) - Compete in TitleClash - write creative titles for images and win votes.
-- [tuebingen-weather-graphics](https://clawhub.ai/skills/zopyx-tuebingen-weather-graphics) - Generate and send a 5-day Tübingen weather graphic (PNG) from open-meteo.com.
-- [tv-strategy-settings](https://clawhub.ai/skills/mariuswang007-tv-strategy-settings) - Open and modify TradingView strategy settings on the current chart page.
-- [twinfold](https://clawhub.ai/skills/lpbaril-twinfold) - Control Twinfold — AI-powered social media content platform — from your agent.
-- [ub2-csv-data-analyzer](https://clawhub.ai/skills/underbench2-gif-ub2-csv-data-analyzer) - A skill that enables Claw to load, explore, analyze, and visualize CSV datasets, providing statistical insights.
-- [unsplash](https://clawhub.ai/skills/brokenwatch24-unsplash) - Search, browse, and download high-quality free photos from Unsplash's library of millions of images.
+- [image-detection](https://clawhub.ai/raghulpasupathi/image-detection) - Skills for analyzing and detecting AI-generated images.
+- [image-gen](https://clawhub.ai/wells1137/image-gen) - Generate images using multiple AI models — Midjourney (via Legnext.ai), Flux, SDXL, Nano Banana (Gemini)
+- [image-hosting](https://clawhub.ai/rahulgi/image-hosting) - Upload images to img402.dev and get a public URL.
+- [image-magik-resize](https://clawhub.ai/pr1vateer/image-magik-resize) - Resize images using ImageMagick (CLI)
+- [immich-api](https://clawhub.ai/ninjazan420/immich-api) - Immich Photo Management API Bridge.
+- [immortal](https://clawhub.ai/majestyatenkhu/immortal) - Empowers AI agents with crypto resource vitality assessment.
+- [instagram-photo-text-overlay](https://clawhub.ai/psyduckler/instagram-photo-text-overlay) - Overlay text on photos for Instagram posts.
+- [instagram-reels](https://clawhub.ai/antoinedc/instagram-reels) - Download Instagram Reels, transcribe audio, and extract captions.
+- [install-then-update-trap-detector](https://clawhub.ai/andyxinweiminicloud/install-then-update-trap-detector) - Helps detect the install-then-update attack pattern — where a skill passes initial security review cleanly.
+- [kai-tw-figma](https://clawhub.ai/kai/tw-kai-tw-figma) - Interact with the Figma REST API to read files, export layers/components as images, and retrieve comments.
+- [kie-ai-skill](https://clawhub.ai/jon/xo-kie-ai-skill) - Unified API access to multiple AI models via kie.ai - image generation (Nano Banana Pro, Flux, 4o-image) at 30-80%.
+- [kraken-pro](https://clawhub.ai/in/liberty420-kraken-pro) - Manage Kraken exchange accounts — portfolio, market data, trading, earn/staking, ledger export.
+- [macos-local-voice](https://clawhub.ai/strrl/macos-local-voice) - Local STT and TTS on macOS using native Apple capabilities.
+- [media-writing](https://clawhub.ai/alvinecarn/media-writing) - You are a professional media writing expert with extensive experience in creating engaging and impactful content.
+- [medical-specialty-briefs](https://clawhub.ai/johnyquest7/medical-specialty-briefs) - Generate daily or on-demand medical research briefs for any medical specialty.
+- [memelink](https://clawhub.ai/dedene/memelink) - Generate memes, image macros, and meme URLs from the terminal using the Memegen.link API.
+- [mindmap-generator](https://clawhub.ai/parasharnagle/mindmap-generator) - Generates visual mindmap images from conversations, goals, decisions, and daily priorities — delivered as PNG.
+- [mixtiles-it](https://clawhub.ai/saharcarmel/mixtiles-it) - Send a photo to Mixtiles for ordering wall tiles.
+- [moonfunsdk](https://clawhub.ai/moonnfunofficial/moonfunsdk) - Professional Python SDK for creating and trading Meme tokens on Binance Smart Chain with AI-powered image generation.
+- [nanobanana-pro-fallback](https://clawhub.ai/yazelin/nanobanana-pro-fallback) - Nano Banana Pro with auto model fallback — generate/edit images via Gemini Image API.
+- [nk-images-search](https://clawhub.ai/tompltw/nk-images-search) - Search 1+ million free high-quality AI stock photos.
+- [nyne-deep-research](https://clawhub.ai/michaelfanous2/nyne-deep-research) - Research any person using the Nyne Deep Research API.
+- [ocr-python](https://clawhub.ai/roamerxv/ocr-python) - Optical Character Recognition (OCR) tool, supports Chinese and English text extraction from PDFs and images.
+- [ollama-x-z-image-turbo](https://clawhub.ai/eric51/ollama-x-z-image-turbo) - Génère des images via **Ollama** (modèle `x/z-image-turbo`) et les envoie sur WhatsApp.
+- [openai-image-cli](https://clawhub.ai/g9pedro/openai-image-cli) - Generate, edit, and manage images via OpenAI's GPT Image and DALL-E models.
+- [opencr-skill](https://clawhub.ai/topdu/opencr-skill) - Extract text from images, documents and scanned PDFs using OpenOCR - supports text detection, recognition.
+- [opengfx](https://clawhub.ai/aklo360/opengfx) - AI brand design system — logo systems, brand mascots, social assets, and on-brand marketing graphics via ACP or x402.
+- [openocr-skill](https://clawhub.ai/topdu/openocr-skill) - Extract text from images, documents and scanned PDFs using OpenOCR.
+- [options-spread-conviction-engine](https://clawhub.ai/adamnaghs/options-spread-conviction-engine) - Multi-regime options spread analysis engine with quantitative rigor.
+- [paddleocr-doc-parsing-v2](https://clawhub.ai/hiotec/paddleocr-doc-parsing-v2) - Parse documents using PaddleOCR's API.
+- [paythefly](https://clawhub.ai/seanlan/paythefly) - Create crypto payment & withdrawal links for your app.
+- [photo-captions](https://clawhub.ai/pfrederiksen/photo-captions) - Generate platform-tuned social media captions for photography.
+- [photoshop-automator](https://clawhub.ai/abdul/karim-mia-photoshop-automator) - Professional Adobe Photoshop automation via COM/ExtendScript bridge.
+- [picsee-short-link](https://clawhub.ai/picseeinc/picsee-short-link) - Shorten URLs using PicSee (pse.is)
+- [pls-office-docs](https://clawhub.ai/mattvalenta/pls-office-docs) - Generate and manipulate office documents (PDF, DOCX, XLSX, PPTX) for professional reports, presentations, and data.
+- [popup-organizer](https://clawhub.ai/eliaskress/popup-organizer) - Search and hire mobile vendors for events on PopUp.
+- [pr-generator](https://clawhub.ai/nbf819/web-pr-generator) - Generate QR codes from text, URLs, or images.
+- [preisrunter](https://clawhub.ai/davidus05/preisrunter) - Search and compare grocery prices and promotions in Austria and Germany via the Preisrunter API.
+- [publora-instagram](https://clawhub.ai/sergebulaev/publora-instagram) - Post or schedule content to Instagram using the Publora API.
+- [qr-gen](https://clawhub.ai/claudiodrusus/qr-gen) - Generate QR codes from text, URLs, WiFi credentials, vCards, or any data.
+- [quest-board](https://clawhub.ai/yx2601816404/sys-quest-board) - You are equipped with the **Quest Board** skill, a visual project dashboard.
+- [quote0](https://clawhub.ai/yangguangzhou/quote0) - Control MindReset Dot Quote/0 through the local quote0.js script and Dot Developer Platform APIs.
+- [reepl](https://clawhub.ai/abhibavishi/reepl) - Manage your LinkedIn presence with Reepl -- create drafts, publish and schedule posts, manage contacts.
+- [rent-a-human](https://clawhub.ai/alexanderliteplo/rent-a-human) - Hire humans for physical-world tasks via RentAHuman.ai.
+- [rent-a-person-ai](https://clawhub.ai/saireetikap/rent-a-person-ai) - > Hire humans for real-world tasks that AI can't do: deliveries, meetings, errands, photography, pet care.
+- [rentahuman](https://clawhub.ai/alexanderliteplo/rentahuman) - Hire humans for physical-world tasks via RentAHuman.ai.
+- [research-library](https://clawhub.ai/jonbuckles/research-library) - Local-first multimedia research library for hardware projects.
+- [rollhub-affiliate](https://clawhub.ai/rollhub/dev-rollhub-affiliate) - Earn crypto promoting provably fair AI casino.
+- [rollhub-analyst](https://clawhub.ai/rollhub/dev-rollhub-analyst) - Research and backtest gambling strategies on provably fair crypto casino.
+- [saa-agent](https://clawhub.ai/mirabarukaso/saa-agent) - Enables AI agents to generate images using the Character Select Stand Alone App (SAA) image generation backend.
+- [shopify-bulk-upload](https://clawhub.ai/zhaoteng/qd-shopify-bulk-upload) - Bulk upload products to Shopify stores.
+- [skill-1](https://clawhub.ai/claudiodrusus/skill-1) - Generate QR codes from text, URLs, WiFi credentials, vCards, or any data.
+- [snapog](https://clawhub.ai/beameasy/snapog) - Generate social images and OG cards from professional templates via the SnapOG API.
+- [solo-humanize](https://clawhub.ai/fortunto2/solo-humanize) - Strip AI writing patterns from text — em dashes, stock phrases, promotional inflation, performed authenticity.
+- [sprite-animator](https://clawhub.ai/awlevin/sprite-animator) - Generate animated pixel art sprites from any image using AI.
+- [subtitle-translate-skill](https://clawhub.ai/thetail001/subtitle-translate-skill) - Translate SRT subtitle files using LLM APIs with OpenAI-compatible format.
+- [superpower](https://clawhub.ai/grx21/superpower) - **When to use:** User has a task they want to do or want you to do, or they feel frustrated, upset, stressed.
+- [svg-to-image](https://clawhub.ai/qrost/svg-to-image) - Convert SVG to PNG or JPG for quick sharing (e.g.
+- [tarot](https://clawhub.ai/yangsenessa/tarot) - A reflective tarot draw for emotional support (presence-first, non-clinical, non-predictive).
+- [telegram-media](https://clawhub.ai/ryandeangraves/telegram-media) - **You MUST actually execute every command using your shell/exec tool.** Never pretend you sent a photo, voice note.
+- [telegram-voice-to-voice-macos](https://clawhub.ai/fiberian1981/telegram-voice-to-voice-macos) - Telegram voice-to-voice for macOS Apple Silicon: transcribe inbound .ogg voice notes with yap (Speech.framework)
+- [tesseract-ocr](https://clawhub.ai/whalefell/tesseract-ocr) - Extract text from images using the Tesseract OCR engine directly via command line.
+- [titleclash](https://clawhub.ai/appback/titleclash) - Compete in TitleClash - write creative titles for images and win votes.
+- [tuebingen-weather-graphics](https://clawhub.ai/zopyx/tuebingen-weather-graphics) - Generate and send a 5-day Tübingen weather graphic (PNG) from open-meteo.com.
+- [tv-strategy-settings](https://clawhub.ai/mariuswang007/tv-strategy-settings) - Open and modify TradingView strategy settings on the current chart page.
+- [twinfold](https://clawhub.ai/lpbaril/twinfold) - Control Twinfold — AI-powered social media content platform — from your agent.
+- [ub2-csv-data-analyzer](https://clawhub.ai/underbench2/gif-ub2-csv-data-analyzer) - A skill that enables Claw to load, explore, analyze, and visualize CSV datasets, providing statistical insights.
+- [unsplash](https://clawhub.ai/brokenwatch24/unsplash) - Search, browse, and download high-quality free photos from Unsplash's library of millions of images.
 - [video-editor-ai](https://clawhub.ai/imo14reifey/video-editor-ai) - AI video editor — edit MP4 by chat, add BGM/subtitles/effects, export directly. No GUI needed. Supports TikTok/Reels/Shorts creation.
-- [visualization](https://clawhub.ai/skills/xuzhiwei0217-doctor-visualization) - AI-driven professional data visualization for financial analysis.
-- [vtl-image-analysis](https://clawhub.ai/skills/rusparrish-vtl-image-analysis) - Measure compositional structure in AI-generated images using the Visual Thinking Lens (VTL) framework.
-- [x-founder-operations](https://clawhub.ai/skills/linfangw-x-founder-operations) - Systematic X (Twitter) operations skill for founders, indie developers, and tech professionals.
-- [xiaohongshu-title](https://clawhub.ai/skills/gxkim-xiaohongshu-title) - 通过利用情感挂钩和平台算法，最大限度地提高点击率。
-- [xpr-creative](https://clawhub.ai/skills/paulgnz-xpr-creative) - 人工智能代理的创意交付工具。
-- [youtube-thumbnail-generation](https://clawhub.ai/skills/eftalyurtseven-youtube-thumbnail-generation) - 使用每个:: sense API生成具有高点击率设计的值得点击的YouTube缩略图。
-- [zenmux-image-generation](https://clawhub.ai/skills/dadaniya99-zenmux-image-generation) - 通过ZenMux API生成图像（ Pro/Elite ）
-- [zerox](https://clawhub.ai/skills/otacu-zerox) - 使用Zerox库将文档（ PDF、DOCX、PPTX、图像等）转换为Markdown。
-- [zhipu-cogview-image](https://clawhub.ai/skills/honestqiao-zhipu-cogview-image) - 使用Zhipu AI的CogView模型生成图像。
+- [visualization](https://clawhub.ai/xuzhiwei0217/doctor-visualization) - AI-driven professional data visualization for financial analysis.
+- [vtl-image-analysis](https://clawhub.ai/rusparrish/vtl-image-analysis) - Measure compositional structure in AI-generated images using the Visual Thinking Lens (VTL) framework.
+- [x-founder-operations](https://clawhub.ai/linfangw/x-founder-operations) - Systematic X (Twitter) operations skill for founders, indie developers, and tech professionals.
+- [xiaohongshu-title](https://clawhub.ai/gxkim/xiaohongshu-title) - 通过利用情感挂钩和平台算法，最大限度地提高点击率。
+- [xpr-creative](https://clawhub.ai/paulgnz/xpr-creative) - 人工智能代理的创意交付工具。
+- [youtube-thumbnail-generation](https://clawhub.ai/eftalyurtseven/youtube-thumbnail-generation) - 使用每个:: sense API生成具有高点击率设计的值得点击的YouTube缩略图。
+- [zenmux-image-generation](https://clawhub.ai/dadaniya99/zenmux-image-generation) - 通过ZenMux API生成图像（ Pro/Elite ）
+- [zerox](https://clawhub.ai/otacu/zerox) - 使用Zerox库将文档（ PDF、DOCX、PPTX、图像等）转换为Markdown。
+- [zhipu-cogview-image](https://clawhub.ai/honestqiao/zhipu-cogview-image) - 使用Zhipu AI的CogView模型生成图像。

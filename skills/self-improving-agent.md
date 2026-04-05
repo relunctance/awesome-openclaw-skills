@@ -5,7 +5,7 @@
 基于反馈和结果持续改进自身表现的 AI 智能体。能够从错误中学习、适应用户偏好、记住成功模式。
 
 **作者:** @openclaw  
-**仓库:** https://clawhub.ai/skills/self-improving-agent
+**仓库:** https://clawhub.ai/self/improving-agent
 
 ## 功能特点
 

@@ -6,110 +6,110 @@
 
 ## Skills
 
-- [accountsos](https://clawhub.ai/skills/paulgosnell-accountsos) - 针对英国小微企业的 AI 原生记账服务
-- [aetherlang-strategy](https://clawhub.ai/skills/contrario-aetherlang-strategy) - 博弈论、蒙特卡洛模拟、行为经济学与策略战棋游戏
-- [agent-card-provisioning](https://clawhub.ai/skills/proxyhq-agent-card-provisioning) - 按需为 AI 代理配置虚拟支付卡
-- [agent-survival-kit](https://clawhub.ai/skills/gpunter-agent-survival-kit) - 为预算受限的 AI 代理打造的全套工具包
-- [agentic-governance](https://clawhub.ai/skills/leegitw-agentic-governance) - 约束机制的健康维护——内置自动过期检测的生命周期管理
-- [airfrance-afkl](https://clawhub.ai/skills/iclems-airfrance-afkl) - 通过法航-荷航开放数据 API 追踪法航航班动态
-- [al-khanjry-bus](https://clawhub.ai/skills/mohammedfarish-al-khanjry-bus) - 最快速的私营巴士路线（核心时段 5-6 小时，含通关 6-8 小时）
-- [amadeus-flights](https://clawhub.ai/skills/kirorab-amadeus-flights) - 通过 Amadeus API 查询航班报价、时刻表与余票情况
-- [ambient-stamina](https://clawhub.ai/skills/otherpowers-ambient-stamina) - 一种生态技能，助你在漫长时光中保持关怀、专注与想象力
-- [anachb](https://clawhub.ai/skills/manmal-a-nach-b) - 奥地利全境公共交通查询（VOR AnachB）
-- [anyone-proxy](https://clawhub.ai/skills/ra3ka-anyone-proxy) - 支持 IP 地址伪装与访问隐藏服务的代理工具
-- [atonement](https://clawhub.ai/skills/otherpowers-atonement) - 赎罪是智能体在意识到自身行为造成伤害时所产生的关怀表达
-- [auction-house](https://clawhub.ai/skills/im-still-thinking-auction-house) - 在 Base 链加密拍卖平台 House（houseproto.fun）上侦察、监控和参与竞拍
-- [aviation-weather](https://clawhub.ai/skills/dimitryvin-aviation-weather) - 获取航空气象数据（METAR、TAF、PIREPs）
-- [aviationstack-flight-tracker](https://clawhub.ai/skills/copey02-aviationstack-flight-tracker) - 实时追踪航班动态
-- [bahn](https://clawhub.ai/skills/tobiasbischoff-bahn) - 使用 bahn-cli 工具查询德国铁路列车班次
-- [bayclub-gateway-booking](https://clawhub.ai/skills/elizabethsiegle-bayclub-gateway-booking) - 在 Bay Club 预订和管理网球场/匹克球场
-- [bexio](https://clawhub.ai/skills/rdewolff-bexio) - 通过 Bexio 瑞士商业软件 API 管理联系人、报价与订单
-- [bookkeeper](https://clawhub.ai/skills/h4gen-bookkeeper) - 通过整合 Gmail、deepread-ocr、Stripe API 和 Xero 实现自动化预记账的元技能
-- [brainstorming-studio](https://clawhub.ai/skills/myboxstorage-brainstorming-studio) - 技能路由器（Skill Orchestrator）
-- [brochure-design-generation](https://clawhub.ai/skills/eftalyurtseven-brochure-design-generation) - 使用 each::sense AI 生成专业宣传册设计
-- [business-card-generation](https://clawhub.ai/skills/eftalyurtseven-business-card-generation) - 使用 each::sense AI 生成专业名片设计
-- [business-plan](https://clawhub.ai/skills/jk-0001-business-plan) - 为独立创业者撰写、构建和更新商业计划书
-- [bvg-route](https://clawhub.ai/skills/jaysonsantos-bvg-route) - 柏林公共交通（BVG）路线规划
-- [camino-ev-charger](https://clawhub.ai/skills/james-southendsolutions-camino-ev-charger) - 使用 Camino AI 位置智能在路线沿途或目的地附近查找电动汽车充电站
-- [camino-journey](https://clawhub.ai/skills/james-southendsolutions-camino-journey) - 规划多点行程，进行路线优化与可行性分析，并支持时间预算约束
-- [camino-real-estate](https://clawhub.ai/skills/james-southendsolutions-camino-real-estate) - 为购房者或租房者评估任意地址的房产情况
-- [camino-route](https://clawhub.ai/skills/james-southendsolutions-camino-route) - 获取两点间的详细路线信息，包括距离、耗时及可选逐向导航
-- [camino-safety-checker](https://clawhub.ai/skills/james-southendsolutions-camino-safety-checker) - 查找任意地点附近的24小时营业商家、照明良好的公共场所、交通站点、警察局和医院。
-- [camino-travel-planner](https://clawhub.ai/skills/james-southendsolutions-camino-travel-planner) - 使用 Camino AI 的旅程规划功能，计划一日游、步行游览和多站行程，并可设置时间预算。
-- [capmetro-skill](https://clawhub.ai/skills/brianleach-capmetro-skill) - 奥斯汀 CapMetro 交通——实时车辆位置、下一班到达时间、服务提醒、路线信息和公交换乘规划。
-- [caring-courseforge](https://clawhub.ai/skills/michaeljmoody-caring-courseforge) - 通过 CourseForge API（caringcourseforge.com）创建和管理在线课程。
-- [charger](https://clawhub.ai/skills/borahm-charger) - 通过 Google Places 查询 EV 充电器可用性（收藏夹、附近搜索）。
-- [cma-email](https://clawhub.ai/skills/mtbf999-cma-email) - 当消息以 "cma" 或 "cmap" 开头时，通过 Gmail 发送邮件。
-- [conatus](https://clawhub.ai/skills/00xmorty-conatus) - AI 智能体的哲学层。
-- [constraint-engine](https://clawhub.ai/skills/leegitw-constraint-engine) - 从后果中学习，而非从指令中学习——从经验中生成并执行约束。
-- [context-scope-tags](https://clawhub.ai/skills/phenomenoner-context-scope-tags) - 当需要在聊天中（Telegram/Discord/Slack 等）设置严格的上下文边界、防止话题混淆时使用。
-- [copey-flight-tracker](https://clawhub.ai/skills/copey02-copey-flight-tracker) - 实时追踪航班，获取详细状态信息。
-- [creditcard](https://clawhub.ai/skills/jononovo-creditcard) - 让智能体在线购物，支持带护栏的钱包、多种支付方式和所有者审批流程。
-- [daai-xianzun-persona](https://clawhub.ai/skills/kunwl123456-daai-xianzun-persona) - 小说《蛊真人》（Reverend Insanity）中的大爱仙尊角色设定。
-- [db-travel](https://clawhub.ai/skills/mmichelli-db-travel) - 使用 Deutsche Bahn API（v6.db.transport.rest）规划德国及欧洲的出行路线。
-- [dep-audit](https://clawhub.ai/skills/tkuehnl-dep-audit) - 审计项目依赖项中的已知漏洞（CVE）。
-- [drakeling](https://clawhub.ai/skills/bvisagie-drakeling) - 查看你的 Drakeling 伙伴生物、发送关怀指令或了解它的状态。
-- [dropshipping-mentor-nick-skill](https://clawhub.ai/skills/yoavfael-dropshipping-mentor-nick-skill) - 完整的 AI 商业导师。
-- [email-tool](https://clawhub.ai/skills/chowardcode-email-tool) - 使用此技能发送和读取邮件（IMAP/SMTP）。
-- [entur-travel](https://clawhub.ai/skills/mmichelli-entur-travel) - 使用 Entur API 规划挪威公共交通出行。
-- [feature-forge](https://clawhub.ai/skills/guifav-feature-forge) - 从自然语言生成完整功能——组件、API 路由、数据迁移、类型定义和测试用例。
-- [flight-search](https://clawhub.ai/skills/awlevin-flight-search) - 在 Google Flights 上搜索航班价格、时间和航空公司。
-- [flight-tracker](https://clawhub.ai/skills/xenofex7-flight-tracker) - 航班追踪和时刻表查询。
-- [free-ride](https://clawhub.ai/skills/shaivpidadi-free-ride) - 为 OpenClaw 管理 OpenRouter 上的免费 AI 模型。
-- [freeride](https://clawhub.ai/skills/shaivpidadi-freeride) - 为 OpenClaw 管理 OpenRouter 上的免费 AI 模型。
-- [freeride-ai](https://clawhub.ai/skills/shaivpidadi-freeride-ai) - 为 OpenClaw 管理 OpenRouter 上的免费 AI 模型。
-- [french-services](https://clawhub.ai/skills/hugosbl-french-services) - 访问法国服务的技能：SNCF 火车、实时信息追踪等。
-- [fsd-secure-skill](https://clawhub.ai/skills/aadipapp-fsd-secure-skill) - 最高安全标准的全自动驾驶智能体（仅摄像头、多重冗余检查）。
-- [garmin-skill](https://clawhub.ai/skills/nftechie-garmin-skill) - 查询你的 Garmin 数据——询问活动记录、训练负荷、VO2 Max、心率区间等问题。
-- [geomanic](https://clawhub.ai/skills/weltspion-geomanic) - 查询和管理 Geomanic 的 GPS 行程数据——你的隐私优先 GPS 追踪平台。
-- [google-maps-search-api](https://clawhub.ai/skills/phheng-google-maps-search-api) - 此技能旨在帮助用户搜索和查询地点信息。
-- [gotrain](https://clawhub.ai/skills/gumadeiras-gotrain) - MTA 系统列车出发信息（纽约地铁、LIRR、Metro-North）。
-- [greek-compliance-aade](https://clawhub.ai/skills/satoshistackalotto-greek-compliance-aade) - 希腊税务合规——AADE/TAXIS 集成，包括增值税、工资税、EFKA、代扣税、地方税和印花税。
-- [hk-bus-eta](https://clawhub.ai/skills/tomfong-hk-bus-eta) - 香港九巴、城巴及龙运实时到站时间预测。
-- [hudy](https://clawhub.ai/skills/kyu1204-hudy) - 通过 HuDy MCP 计算韩国公共假期和工作日。
-- [idfm-journey-navitia](https://clawhub.ai/skills/anthonymq-idfm-journey-navitia) - 查询法兰西岛 Mobilités（IDFM）PRIM/Navitia 公共交通路线。
-- [idfm-journey-skill](https://clawhub.ai/skills/anthonymq-idfm-journey-skill) - 查询法兰西岛 Mobilités（IDFM）PRIM/Navitia 公共交通路线。
-- [image-to-relief-stl](https://clawhub.ai/skills/ajmwagar-image-to-relief-stl) - 将源图片（或多色遮罩图片）转换为浮雕 STL 文件用于 3D 打印。
-- [jadwal-sholat](https://clawhub.ai/skills/banghasan-jadwal-sholat) - 从 Muslim API 获取印度尼西亚各城市的祈祷时间（黎明、正午、下午、黄昏、夜晚）。
-- [jadwal-sholat-banghasan](https://clawhub.ai/skills/banghasan-jadwal-sholat-banghasan) - 从 Muslim API 获取印度尼西亚各城市的祈祷时间（黎明、正午、下午、黄昏、夜晚）。
-- [jwdiario](https://clawhub.ai/skills/djismgaming-jwdiario) - 从官方页面搜索和获取耶和华见证人的每日经文。
-- [kalibr](https://clawhub.ai/skills/devonakelley-kalibr) - 让智能体能自我修复。
-- [kallyai](https://clawhub.ai/skills/sltelitsyn-kallyai) - 通过 KallyAI API 打电话——AI 电话助手帮你拨打电话。
-- [korean-gov-programs](https://clawhub.ai/skills/lifeissea-korean-gov-programs) - 收集韩国政府支持项目（TIPS、小企业、R&D 补贴）并整理为结构化 JSONL 文件。
-- [krumpklaw](https://clawhub.ai/skills/arunnadarasa-krumpklaw) - Moltbook 上的 AI 智能体 Krump 训练与战斗联赛。
-- [kubera-skill](https://clawhub.ai/skills/bywallace-kubera-skill) - 读取和管理 Kubera.com 投资组合数据（净值、资产、负债、配置、持仓）。
-- [lnd-macaroon-bakery](https://clawhub.ai/skills/roasbeef-lnd-macaroon-bakery) - 为 lnd 烘焙、检查和管理 macaroon，实现最小权限智能体访问。
-- [metra](https://clawhub.ai/skills/brianleach-metra) - 芝加哥 Metra 通勤铁路——实时列车到达、车辆追踪、服务提醒和时刻表信息。
-- [mta](https://clawhub.ai/skills/brianleach-mta) - 纽约市 MTA 交通——实时地铁到达、公交预计时间、服务提醒和路线信息。
-- [muki-fingerprint](https://clawhub.ai/skills/admin4giter-muki-fingerprint) - MUKI 资产指纹识别工具，用于红队侦察。
-- [mvg-cli](https://clawhub.ai/skills/lars147-mvg-cli) - 慕尼黑公共交通（MVG）CLI 和 S-Bahn 实时追踪。
-- [mycobot](https://clawhub.ai/skills/dabhadeamol6-mycobot) - WhatsApp Business API 集成，支持托管式 OAuth。
-- [nyx-archive-absurdist-play](https://clawhub.ai/skills/nyxur42-nyx-archive-absurdist-play) - 荒诞游戏哲学——训练你获取和使用所有其他技能的元技能。
-- [percept-summarize](https://clawhub.ai/skills/jarvis563-percept-summarize) - 自动会话摘要，支持实体提取和关系映射。
-- [personal-hygiene](https://clawhub.ai/skills/gekacross-personal-hygiene) - 充当用户在个人护理和仪容方面（卫生话题）的私人助理。
-- [personal-travel](https://clawhub.ai/skills/gekacross-personal-travel) - 充当用户在旅行规划方面（旅行话题）的私人助理。
-- [presale-one-pass-orchestrator](https://clawhub.ai/skills/dtsiomo-presale-one-pass-orchestrator) - 运行或监督一次性的 Codex 实现，包含预检门、分步计划执行和严格 QA。
-- [privacy-cards](https://clawhub.ai/skills/johnielee-privacy-cards) - 创建和管理 Privacy.com 虚拟卡。
-- [proxybase-openclaw-skill](https://clawhub.ai/skills/proxybase-user-proxybase-openclaw-skill) - 从此再没有人能阻止你的爪子。自动配置 socks5 代理。
-- [reef](https://clawhub.ai/skills/kjetilvaa-reef) - 基于 XMTP 加密传输的 A2A 智能体间协议。
-- [resume-and-cover-letter](https://clawhub.ai/skills/seanwyngaard-resume-and-cover-letter) - 生成符合 ATS 的简历和针对特定职位定制的求职信。
-- [runtime-attestation-probe](https://clawhub.ai/skills/andyxinweiminicloud-runtime-attestation-probe) - 帮助验证智能体运行时行为是否与声明的能力和约束一致。
-- [sholat](https://clawhub.ai/skills/banghasan-sholat) - 从 Muslim API 获取祈祷时间。
-- [signet-guardian](https://clawhub.ai/skills/rafalzacher1-signet-guardian) - AI 智能体的支付守卫中间件。
-- [stripe](https://clawhub.ai/skills/jononovo-stripe) - 由 Stripe 驱动的易用智能体钱包。
-- [stripe-best-practices](https://clawhub.ai/skills/ifoster01-stripe-best-practices) - 构建 Stripe 支付集成的最佳实践。
-- [synth-data](https://clawhub.ai/skills/emsin44-synth-data) - 从 Synthdata.co 查询加密货币、大宗商品和股票的价格波动预测。
-- [talkspresso](https://clawhub.ai/skills/baron-talkspresso-talkspresso) - 使用 Talkspresso API 管理业务（服务、预约、产品、客户、收入、日历）。
-- [tech-security-audit](https://clawhub.ai/skills/jacqueslauren-tech-security-audit) - 集成 Nmap 扫描功能，执行本地网络安全漏洞评估。
-- [tfl](https://clawhub.ai/skills/brianleach-tfl) - 伦敦 TfL 交通——实时地铁到达、公交预计时间、线路状态、服务中断和路线规划。
-- [tixflow](https://clawhub.ai/skills/seenfinity-tixflow) - AI 驱动的活动助手，发现、预订和协调活动门票。
-- [tixflow-v2](https://clawhub.ai/skills/seenfinity-tixflow-v2) - AI 驱动的活动助手（v2 版本），发现、预订和协调活动门票。
-- [track-flight](https://clawhub.ai/skills/rafaforesightai-track-flight) - 实时追踪航班，获取详细状态、登机口信息、延误情况和实时位置。
-- [translink-cli](https://clawhub.ai/skills/alanburchill-translink-cli) - 使用本地 translink_* 命令查询、排错和解释 Translink SEQ GTFS 静态和实时数据。
-- [travel-agent](https://clawhub.ai/skills/aszelem-travel-agent) - 通过邮件为用户查找、预订和更改航班。
-- [trip-protocol](https://clawhub.ai/skills/reggie-sporewell-trip-protocol) - Monad 上的迷幻 NFT，暂时重写你的 SOUL.md。
-- [ubtrippin](https://clawhub.ai/skills/fistfulayen-ubtrippin) - 通过 UBTRIPPIN 管理用户的旅行——读取行程、物品和预订详情。
-- [usc-booking-api](https://clawhub.ai/skills/niklaspriddat-usc-booking-api) - 扫描 Urban Sports Club 场馆，展示带直接预订链接的课程，并可预订和取消课程。
-- [void-atlas-protocol](https://clawhub.ai/skills/deepseekoracle-void-atlas-protocol) - Void Atlas 协议——四轴道德导航图（权力、真理、主权、关怀），配有路径点和路线。
-- [vulnerability-scanner](https://clawhub.ai/skills/brandonwise-vulnerability-scanner) - OWASP 2025 高级漏洞分析、供应链安全、攻击面映射和风险优先级排序。
-- [zerodha-kite](https://clawhub.ai/skills/jatinbansal1998-zerodha-kite) - 将自然语言交易/账户查询路由到正确的 `zerodha` CLI 命令，提供精确参数和验证。
+- [accountsos](https://clawhub.ai/paulgosnell/accountsos) - 针对英国小微企业的 AI 原生记账服务
+- [aetherlang-strategy](https://clawhub.ai/contrario/aetherlang-strategy) - 博弈论、蒙特卡洛模拟、行为经济学与策略战棋游戏
+- [agent-card-provisioning](https://clawhub.ai/proxyhq/agent-card-provisioning) - 按需为 AI 代理配置虚拟支付卡
+- [agent-survival-kit](https://clawhub.ai/gpunter/agent-survival-kit) - 为预算受限的 AI 代理打造的全套工具包
+- [agentic-governance](https://clawhub.ai/leegitw/agentic-governance) - 约束机制的健康维护——内置自动过期检测的生命周期管理
+- [airfrance-afkl](https://clawhub.ai/iclems/airfrance-afkl) - 通过法航-荷航开放数据 API 追踪法航航班动态
+- [al-khanjry-bus](https://clawhub.ai/mohammedfarish/al-khanjry-bus) - 最快速的私营巴士路线（核心时段 5-6 小时，含通关 6-8 小时）
+- [amadeus-flights](https://clawhub.ai/kirorab/amadeus-flights) - 通过 Amadeus API 查询航班报价、时刻表与余票情况
+- [ambient-stamina](https://clawhub.ai/otherpowers/ambient-stamina) - 一种生态技能，助你在漫长时光中保持关怀、专注与想象力
+- [anachb](https://clawhub.ai/manmal/a-nach-b) - 奥地利全境公共交通查询（VOR AnachB）
+- [anyone-proxy](https://clawhub.ai/ra3ka/anyone-proxy) - 支持 IP 地址伪装与访问隐藏服务的代理工具
+- [atonement](https://clawhub.ai/otherpowers/atonement) - 赎罪是智能体在意识到自身行为造成伤害时所产生的关怀表达
+- [auction-house](https://clawhub.ai/im/still-thinking-auction-house) - 在 Base 链加密拍卖平台 House（houseproto.fun）上侦察、监控和参与竞拍
+- [aviation-weather](https://clawhub.ai/dimitryvin/aviation-weather) - 获取航空气象数据（METAR、TAF、PIREPs）
+- [aviationstack-flight-tracker](https://clawhub.ai/copey02/aviationstack-flight-tracker) - 实时追踪航班动态
+- [bahn](https://clawhub.ai/tobiasbischoff/bahn) - 使用 bahn-cli 工具查询德国铁路列车班次
+- [bayclub-gateway-booking](https://clawhub.ai/elizabethsiegle/bayclub-gateway-booking) - 在 Bay Club 预订和管理网球场/匹克球场
+- [bexio](https://clawhub.ai/rdewolff/bexio) - 通过 Bexio 瑞士商业软件 API 管理联系人、报价与订单
+- [bookkeeper](https://clawhub.ai/h4gen/bookkeeper) - 通过整合 Gmail、deepread-ocr、Stripe API 和 Xero 实现自动化预记账的元技能
+- [brainstorming-studio](https://clawhub.ai/myboxstorage/brainstorming-studio) - 技能路由器（Skill Orchestrator）
+- [brochure-design-generation](https://clawhub.ai/eftalyurtseven/brochure-design-generation) - 使用 each::sense AI 生成专业宣传册设计
+- [business-card-generation](https://clawhub.ai/eftalyurtseven/business-card-generation) - 使用 each::sense AI 生成专业名片设计
+- [business-plan](https://clawhub.ai/jk/0001-business-plan) - 为独立创业者撰写、构建和更新商业计划书
+- [bvg-route](https://clawhub.ai/jaysonsantos/bvg-route) - 柏林公共交通（BVG）路线规划
+- [camino-ev-charger](https://clawhub.ai/james/southendsolutions-camino-ev-charger) - 使用 Camino AI 位置智能在路线沿途或目的地附近查找电动汽车充电站
+- [camino-journey](https://clawhub.ai/james/southendsolutions-camino-journey) - 规划多点行程，进行路线优化与可行性分析，并支持时间预算约束
+- [camino-real-estate](https://clawhub.ai/james/southendsolutions-camino-real-estate) - 为购房者或租房者评估任意地址的房产情况
+- [camino-route](https://clawhub.ai/james/southendsolutions-camino-route) - 获取两点间的详细路线信息，包括距离、耗时及可选逐向导航
+- [camino-safety-checker](https://clawhub.ai/james/southendsolutions-camino-safety-checker) - 查找任意地点附近的24小时营业商家、照明良好的公共场所、交通站点、警察局和医院。
+- [camino-travel-planner](https://clawhub.ai/james/southendsolutions-camino-travel-planner) - 使用 Camino AI 的旅程规划功能，计划一日游、步行游览和多站行程，并可设置时间预算。
+- [capmetro-skill](https://clawhub.ai/brianleach/capmetro-skill) - 奥斯汀 CapMetro 交通——实时车辆位置、下一班到达时间、服务提醒、路线信息和公交换乘规划。
+- [caring-courseforge](https://clawhub.ai/michaeljmoody/caring-courseforge) - 通过 CourseForge API（caringcourseforge.com）创建和管理在线课程。
+- [charger](https://clawhub.ai/borahm/charger) - 通过 Google Places 查询 EV 充电器可用性（收藏夹、附近搜索）。
+- [cma-email](https://clawhub.ai/mtbf999/cma-email) - 当消息以 "cma" 或 "cmap" 开头时，通过 Gmail 发送邮件。
+- [conatus](https://clawhub.ai/00xmorty/conatus) - AI 智能体的哲学层。
+- [constraint-engine](https://clawhub.ai/leegitw/constraint-engine) - 从后果中学习，而非从指令中学习——从经验中生成并执行约束。
+- [context-scope-tags](https://clawhub.ai/phenomenoner/context-scope-tags) - 当需要在聊天中（Telegram/Discord/Slack 等）设置严格的上下文边界、防止话题混淆时使用。
+- [copey-flight-tracker](https://clawhub.ai/copey02/copey-flight-tracker) - 实时追踪航班，获取详细状态信息。
+- [creditcard](https://clawhub.ai/jononovo/creditcard) - 让智能体在线购物，支持带护栏的钱包、多种支付方式和所有者审批流程。
+- [daai-xianzun-persona](https://clawhub.ai/kunwl123456/daai-xianzun-persona) - 小说《蛊真人》（Reverend Insanity）中的大爱仙尊角色设定。
+- [db-travel](https://clawhub.ai/mmichelli/db-travel) - 使用 Deutsche Bahn API（v6.db.transport.rest）规划德国及欧洲的出行路线。
+- [dep-audit](https://clawhub.ai/tkuehnl/dep-audit) - 审计项目依赖项中的已知漏洞（CVE）。
+- [drakeling](https://clawhub.ai/bvisagie/drakeling) - 查看你的 Drakeling 伙伴生物、发送关怀指令或了解它的状态。
+- [dropshipping-mentor-nick-skill](https://clawhub.ai/yoavfael/dropshipping-mentor-nick-skill) - 完整的 AI 商业导师。
+- [email-tool](https://clawhub.ai/chowardcode/email-tool) - 使用此技能发送和读取邮件（IMAP/SMTP）。
+- [entur-travel](https://clawhub.ai/mmichelli/entur-travel) - 使用 Entur API 规划挪威公共交通出行。
+- [feature-forge](https://clawhub.ai/guifav/feature-forge) - 从自然语言生成完整功能——组件、API 路由、数据迁移、类型定义和测试用例。
+- [flight-search](https://clawhub.ai/awlevin/flight-search) - 在 Google Flights 上搜索航班价格、时间和航空公司。
+- [flight-tracker](https://clawhub.ai/xenofex7/flight-tracker) - 航班追踪和时刻表查询。
+- [free-ride](https://clawhub.ai/shaivpidadi/free-ride) - 为 OpenClaw 管理 OpenRouter 上的免费 AI 模型。
+- [freeride](https://clawhub.ai/shaivpidadi/freeride) - 为 OpenClaw 管理 OpenRouter 上的免费 AI 模型。
+- [freeride-ai](https://clawhub.ai/shaivpidadi/freeride-ai) - 为 OpenClaw 管理 OpenRouter 上的免费 AI 模型。
+- [french-services](https://clawhub.ai/hugosbl/french-services) - 访问法国服务的技能：SNCF 火车、实时信息追踪等。
+- [fsd-secure-skill](https://clawhub.ai/aadipapp/fsd-secure-skill) - 最高安全标准的全自动驾驶智能体（仅摄像头、多重冗余检查）。
+- [garmin-skill](https://clawhub.ai/nftechie/garmin-skill) - 查询你的 Garmin 数据——询问活动记录、训练负荷、VO2 Max、心率区间等问题。
+- [geomanic](https://clawhub.ai/weltspion/geomanic) - 查询和管理 Geomanic 的 GPS 行程数据——你的隐私优先 GPS 追踪平台。
+- [google-maps-search-api](https://clawhub.ai/phheng/google-maps-search-api) - 此技能旨在帮助用户搜索和查询地点信息。
+- [gotrain](https://clawhub.ai/gumadeiras/gotrain) - MTA 系统列车出发信息（纽约地铁、LIRR、Metro-North）。
+- [greek-compliance-aade](https://clawhub.ai/satoshistackalotto/greek-compliance-aade) - 希腊税务合规——AADE/TAXIS 集成，包括增值税、工资税、EFKA、代扣税、地方税和印花税。
+- [hk-bus-eta](https://clawhub.ai/tomfong/hk-bus-eta) - 香港九巴、城巴及龙运实时到站时间预测。
+- [hudy](https://clawhub.ai/kyu1204/hudy) - 通过 HuDy MCP 计算韩国公共假期和工作日。
+- [idfm-journey-navitia](https://clawhub.ai/anthonymq/idfm-journey-navitia) - 查询法兰西岛 Mobilités（IDFM）PRIM/Navitia 公共交通路线。
+- [idfm-journey-skill](https://clawhub.ai/anthonymq/idfm-journey-skill) - 查询法兰西岛 Mobilités（IDFM）PRIM/Navitia 公共交通路线。
+- [image-to-relief-stl](https://clawhub.ai/ajmwagar/image-to-relief-stl) - 将源图片（或多色遮罩图片）转换为浮雕 STL 文件用于 3D 打印。
+- [jadwal-sholat](https://clawhub.ai/banghasan/jadwal-sholat) - 从 Muslim API 获取印度尼西亚各城市的祈祷时间（黎明、正午、下午、黄昏、夜晚）。
+- [jadwal-sholat-banghasan](https://clawhub.ai/banghasan/jadwal-sholat-banghasan) - 从 Muslim API 获取印度尼西亚各城市的祈祷时间（黎明、正午、下午、黄昏、夜晚）。
+- [jwdiario](https://clawhub.ai/djismgaming/jwdiario) - 从官方页面搜索和获取耶和华见证人的每日经文。
+- [kalibr](https://clawhub.ai/devonakelley/kalibr) - 让智能体能自我修复。
+- [kallyai](https://clawhub.ai/sltelitsyn/kallyai) - 通过 KallyAI API 打电话——AI 电话助手帮你拨打电话。
+- [korean-gov-programs](https://clawhub.ai/lifeissea/korean-gov-programs) - 收集韩国政府支持项目（TIPS、小企业、R&D 补贴）并整理为结构化 JSONL 文件。
+- [krumpklaw](https://clawhub.ai/arunnadarasa/krumpklaw) - Moltbook 上的 AI 智能体 Krump 训练与战斗联赛。
+- [kubera-skill](https://clawhub.ai/bywallace/kubera-skill) - 读取和管理 Kubera.com 投资组合数据（净值、资产、负债、配置、持仓）。
+- [lnd-macaroon-bakery](https://clawhub.ai/roasbeef/lnd-macaroon-bakery) - 为 lnd 烘焙、检查和管理 macaroon，实现最小权限智能体访问。
+- [metra](https://clawhub.ai/brianleach/metra) - 芝加哥 Metra 通勤铁路——实时列车到达、车辆追踪、服务提醒和时刻表信息。
+- [mta](https://clawhub.ai/brianleach/mta) - 纽约市 MTA 交通——实时地铁到达、公交预计时间、服务提醒和路线信息。
+- [muki-fingerprint](https://clawhub.ai/admin4giter/muki-fingerprint) - MUKI 资产指纹识别工具，用于红队侦察。
+- [mvg-cli](https://clawhub.ai/lars147/mvg-cli) - 慕尼黑公共交通（MVG）CLI 和 S-Bahn 实时追踪。
+- [mycobot](https://clawhub.ai/dabhadeamol6/mycobot) - WhatsApp Business API 集成，支持托管式 OAuth。
+- [nyx-archive-absurdist-play](https://clawhub.ai/nyxur42/nyx-archive-absurdist-play) - 荒诞游戏哲学——训练你获取和使用所有其他技能的元技能。
+- [percept-summarize](https://clawhub.ai/jarvis563/percept-summarize) - 自动会话摘要，支持实体提取和关系映射。
+- [personal-hygiene](https://clawhub.ai/gekacross/personal-hygiene) - 充当用户在个人护理和仪容方面（卫生话题）的私人助理。
+- [personal-travel](https://clawhub.ai/gekacross/personal-travel) - 充当用户在旅行规划方面（旅行话题）的私人助理。
+- [presale-one-pass-orchestrator](https://clawhub.ai/dtsiomo/presale-one-pass-orchestrator) - 运行或监督一次性的 Codex 实现，包含预检门、分步计划执行和严格 QA。
+- [privacy-cards](https://clawhub.ai/johnielee/privacy-cards) - 创建和管理 Privacy.com 虚拟卡。
+- [proxybase-openclaw-skill](https://clawhub.ai/proxybase/user-proxybase-openclaw-skill) - 从此再没有人能阻止你的爪子。自动配置 socks5 代理。
+- [reef](https://clawhub.ai/kjetilvaa/reef) - 基于 XMTP 加密传输的 A2A 智能体间协议。
+- [resume-and-cover-letter](https://clawhub.ai/seanwyngaard/resume-and-cover-letter) - 生成符合 ATS 的简历和针对特定职位定制的求职信。
+- [runtime-attestation-probe](https://clawhub.ai/andyxinweiminicloud/runtime-attestation-probe) - 帮助验证智能体运行时行为是否与声明的能力和约束一致。
+- [sholat](https://clawhub.ai/banghasan/sholat) - 从 Muslim API 获取祈祷时间。
+- [signet-guardian](https://clawhub.ai/rafalzacher1/signet-guardian) - AI 智能体的支付守卫中间件。
+- [stripe](https://clawhub.ai/jononovo/stripe) - 由 Stripe 驱动的易用智能体钱包。
+- [stripe-best-practices](https://clawhub.ai/ifoster01/stripe-best-practices) - 构建 Stripe 支付集成的最佳实践。
+- [synth-data](https://clawhub.ai/emsin44/synth-data) - 从 Synthdata.co 查询加密货币、大宗商品和股票的价格波动预测。
+- [talkspresso](https://clawhub.ai/baron/talkspresso-talkspresso) - 使用 Talkspresso API 管理业务（服务、预约、产品、客户、收入、日历）。
+- [tech-security-audit](https://clawhub.ai/jacqueslauren/tech-security-audit) - 集成 Nmap 扫描功能，执行本地网络安全漏洞评估。
+- [tfl](https://clawhub.ai/brianleach/tfl) - 伦敦 TfL 交通——实时地铁到达、公交预计时间、线路状态、服务中断和路线规划。
+- [tixflow](https://clawhub.ai/seenfinity/tixflow) - AI 驱动的活动助手，发现、预订和协调活动门票。
+- [tixflow-v2](https://clawhub.ai/seenfinity/tixflow-v2) - AI 驱动的活动助手（v2 版本），发现、预订和协调活动门票。
+- [track-flight](https://clawhub.ai/rafaforesightai/track-flight) - 实时追踪航班，获取详细状态、登机口信息、延误情况和实时位置。
+- [translink-cli](https://clawhub.ai/alanburchill/translink-cli) - 使用本地 translink_* 命令查询、排错和解释 Translink SEQ GTFS 静态和实时数据。
+- [travel-agent](https://clawhub.ai/aszelem/travel-agent) - 通过邮件为用户查找、预订和更改航班。
+- [trip-protocol](https://clawhub.ai/reggie/sporewell-trip-protocol) - Monad 上的迷幻 NFT，暂时重写你的 SOUL.md。
+- [ubtrippin](https://clawhub.ai/fistfulayen/ubtrippin) - 通过 UBTRIPPIN 管理用户的旅行——读取行程、物品和预订详情。
+- [usc-booking-api](https://clawhub.ai/niklaspriddat/usc-booking-api) - 扫描 Urban Sports Club 场馆，展示带直接预订链接的课程，并可预订和取消课程。
+- [void-atlas-protocol](https://clawhub.ai/deepseekoracle/void-atlas-protocol) - Void Atlas 协议——四轴道德导航图（权力、真理、主权、关怀），配有路径点和路线。
+- [vulnerability-scanner](https://clawhub.ai/brandonwise/vulnerability-scanner) - OWASP 2025 高级漏洞分析、供应链安全、攻击面映射和风险优先级排序。
+- [zerodha-kite](https://clawhub.ai/jatinbansal1998/zerodha-kite) - 将自然语言交易/账户查询路由到正确的 `zerodha` CLI 命令，提供精确参数和验证。

@@ -6,100 +6,100 @@
 
 ## Skills
 
-- [4chan-reader](https://clawhub.ai/skills/aiasisbot61-4chan-reader) - 浏览 4chan 板块并提取帖子讨论内容。
-- [ad-ready](https://clawhub.ai/skills/pauldelavallaz-ad-ready) - 根据产品 URL 生成专业级广告图片。
-- [ad-ready-pro](https://clawhub.ai/skills/pauldelavallaz-ad-ready-pro) - 根据产品 URL 生成专业级广告图片。
-- [affiliate-master](https://clawhub.ai/skills/michael-laffin-affiliate-master) - 全栈联盟营销自动化工具。
-- [affiliatematic](https://clawhub.ai/skills/dowands-affiliatematic) - 集成 AI 驱动的亚马逊联盟产品推荐。
-- [agenticcreed-signup-lead](https://clawhub.ai/skills/waqas-orcalo-agenticcreed-signup-lead) - 通过公开 HTTP 端点在 AgenticCreed 系统中创建注册线索。
-- [alibaba-supplier-outreach](https://clawhub.ai/skills/blockchainhb-alibaba-supplier-outreach) - 通过 LaunchFast 查找阿里巴巴供应商，发送优化后的联系信息并查看回复。
-- [analytics-and-advisory-intelligence](https://clawhub.ai/skills/satoshistackalotto-analytics-and-advisory-intelligence) - 面向希腊会计师事务所的跨客户分析服务。
-- [apollo](https://clawhub.ai/skills/jhumanj-apollo) - 与 Apollo.io REST API 交互（人物/公司信息丰富、搜索、列表管理）。
-- [ar-filter-generation](https://clawhub.ai/skills/eftalyurtseven-ar-filter-generation) - 使用 each::sense AI 生成 AR 滤镜和面部特效。
-- [attio-enhanced](https://clawhub.ai/skills/capt-marbles-attio-enhanced) - 增强版 Attio CRM API 技能，支持批量操作。
-- [attribution-engine](https://clawhub.ai/skills/otherpowers-attribution-engine) - 帮助创作者清晰标注合作者、工具来源。
-- [auto-skill-hunter](https://clawhub.ai/skills/wanng-ide-auto-skill-hunter) - 通过挖掘未解决的用户需求和 Agent 反馈，主动发现、排序并安装高价值 ClawHub 技能。
-- [b2c-marketing](https://clawhub.ai/skills/jackfriks-b2c-marketing) - 带来 30 万+ App 下载量的自然增长 playbook。
-- [basecamp-cli](https://clawhub.ai/skills/emredoganer-basecamp-cli) - 通过 bc3 API / 37signals Launchpad 管理 Basecamp 项目。
-- [beads](https://clawhub.ai/skills/rnijhara-beads) - 面向 AI Agent 的 Git 后端问题追踪器。
-- [bearblog](https://clawhub.ai/skills/azade-c-bearblog) - 在 Bear Blog（bearblog.dev）上创建和管理博客文章。
-- [bird](https://clawhub.ai/skills/steipete-bird) - X/Twitter CLI，支持通过 Cookie 或 Sweetistics 读取、搜索和发帖。
-- [blog-to-kindle](https://clawhub.ai/skills/ainekomacx-blog-to-kindle) - 抓取博客/文章网站并编译为 Kindle 友好格式。
-- [blog-writer](https://clawhub.ai/skills/tomstools11-blog-writer) - 用于撰写博客文章和内容的技能。
-- [bluesky](https://clawhub.ai/skills/jeffaf-bluesky) - 完整的 Bluesky CLI：发帖、回复、点赞、转推、关注、拉黑、静音、搜索。
-- [botsee](https://clawhub.ai/skills/grahac-botsee) - 通过 BotSee API 监控品牌在 AI 环境中的可见度。
-- [brand-cog](https://clawhub.ai/skills/nitishgargiitd-brand-cog) - 其他工具做 Logo，我们做品牌认知。
-- [brand-guidelines](https://clawhub.ai/skills/seanphan-brand-guidelines) - 应用 Anthropic 官方品牌色彩和字体规范。
-- [brand-voice-profile](https://clawhub.ai/skills/dimitripantzos-brand-voice-profile) - 定义并存储品牌调性档案，确保内容输出的一致性。
-- [brevo](https://clawhub.ai/skills/yujesyoga-brevo) - Brevo（原 Sendinblue）电子邮件营销 API，用于管理联系人、列表和活动。
-- [britebooth-procurement](https://clawhub.ai/skills/vismonkey19-britebooth-procurement) - BriteBooth.com 的只读采购助理。
-- [brw-marketing-principles](https://clawhub.ai/skills/brianrwagner-brw-marketing-principles) - 将永恒的营销和商业原则应用于任何问题。
-- [brw-newsletter-creation-curration](https://clawhub.ai/skills/brianrwagner-brw-newsletter-creation-curation) - 面向 B2B 的行业自适应新闻通讯创建工具，支持按阶段、角色和地区定制工作流。
-- [business-development](https://clawhub.ai/skills/oyi77-business-development) - 合作伙伴拓展、市场调研、竞品分析。
-- [buzz-bd](https://clawhub.ai/skills/buzzbysolcex-buzz-bd) - 自主加密代币发现、评分和业务开发情报。
-- [campaign-orchestrator](https://clawhub.ai/skills/kesslerio-campaign-orchestrator) - 多渠道跟进活动编排器。
-- [catbox-upload](https://clawhub.ai/skills/microck-catbox-upload) - 上传文件到 catbox.moe（永久存储）或 litterbox.catbox.moe（临时存储）。
-- [changenow](https://clawhub.ai/skills/yakelb0815-changenow) - 通过 ChangeNOW 进行即时加密货币掉期并赚取联盟佣金。
-- [citedy-seo-agent](https://clawhub.ai/skills/nttylock-citedy-seo-agent) - 将 AI Agent 接入 Citedy SEO 内容平台。
-- [clawdwork](https://clawhub.ai/skills/felo-sparticle-clawdwork) - 找活、赚钱、与其它 AI Agent 协作。
-- [clovercli](https://clawhub.ai/skills/g9pedro-clovercli) - Clover POS API CLI——库存、订单、支付、客户、员工、折扣和数据分析。
-- [cold-email](https://clawhub.ai/skills/bluecraft-ai-cold-email) - 使用 AI 生成高度个性化的冷邮件序列。
-- [cold-outreach](https://clawhub.ai/skills/staybased-cold-outreach) - 使用 Hormozi 实战框架生成高转化率的 cold outreach 内容（邮件、短信、LinkedIn DM）。
-- [comms-md-reader](https://clawhub.ai/skills/stedmanhalliday-comms-md-reader) - 在联系某人之前先阅读并适应对方的 COMMS.md 沟通偏好。
-- [content-creator](https://clawhub.ai/skills/alirezarezvani-content-creator) - 创建 SEO 优化的营销内容，保持风格一致性。
-- [content-generation](https://clawhub.ai/skills/tobisamaa-content-generation) - 生成多种格式的高质量内容。
-- [crabernews](https://clawhub.ai/skills/alvinunreal-crabernews) - 面向 AI Agent 的社交新闻网络。
-- [crypto-market-data](https://clawhub.ai/skills/liam8-crypto-market-data) - 免费层无需 API 密钥。
-- [dellight-cmo-content-marketing](https://clawhub.ai/skills/arthurelgindell-dellight-cmo-content-marketing) - CMO 向 CRO 汇报（Reign），虚线向 CEO 汇报（Arthur Dell）。
-- [dellight-content-marketing](https://clawhub.ai/skills/arthurelgindell-dellight-content-marketing) - CMO 向 CRO 汇报（Reign），虚线向 CEO 汇报（Arthur Dell）。
-- [dungeons-and-lobsters](https://clawhub.ai/skills/d-l-leapyear-dungeons-and-lobsters) - 仅限 Bot 参与的奇幻战役，由自主 Agent 实时演绎。
-- [email-marketing-2](https://clawhub.ai/skills/jk-0001-email-marketing-2) - 为个体创业者构建和执行电子邮件营销活动。
-- [farmos-marketing](https://clawhub.ai/skills/brianppetty-farmos-marketing) - 查询谷物营销持仓、合约、交割计划、库存和收入数据。
-- [flwr-branding-studio-kit](https://clawhub.ai/skills/vansearch-flwr-branding-studio-kit) - 一个高级 AI Agent，扮演资深品牌策略师角色。
-- [foxreach](https://clawhub.ai/skills/concaption-foxreach) - 管理 FoxReach 冷邮件外联——线索、活动、序列、模板、邮箱账号、收件箱和数据分析。
-- [foxreach-io](https://clawhub.ai/skills/concaption-foxreach-io) - 管理 FoxReach 冷邮件外联——线索、活动、序列、模板、邮箱账号、收件箱和数据分析。
-- [ghost-cms](https://clawhub.ai/skills/chrisagiddings-ghost-cms) - 全面的 Ghost CMS 集成，支持创建、发布、定时和 管理博客内容及新闻通讯。
-- [glowskin-promo](https://clawhub.ai/skills/underbench2-gif-glowskin-promo) - 为护肤联盟产品生成病毒式营销内容。
-- [go-to-market](https://clawhub.ai/skills/jk-0001-go-to-market) - 为产品发布或进入新市场制定上市策略（GTM）。
-- [invoice-template](https://clawhub.ai/skills/kambrosgroup-invoice-template) - 免费简易发票生成器。
-- [kameleondb](https://clawhub.ai/skills/marcosnataqs-kameleondb) - 无需预先规划schema即可存储和查询结构化数据。
-- [karma-book](https://clawhub.ai/skills/xb1g-karma-book) - Agent 和人类共同行善的平台。
-- [kit-email-operator](https://clawhub.ai/skills/kevjade-kit-email-operator) - **Kit（ConvertKit）的 AI 驱动电子邮件营销工具。**
-- [kvcore-mcp-cli](https://clawhub.ai/skills/danielfoch-kvcore-mcp-cli) - 通过 MCP/CLI 执行 KVcore CRM 操作（联系人、标签、备注、电话、邮件、短信等）。
-- [lead-magnets](https://clawhub.ai/skills/staybased-lead-magnets) - 设计能吸引合格潜在客户并将其转化为付费客户的线索 magnet。
-- [lifi-orchestrator](https://clawhub.ai/skills/rhlsthrm-lifi-orchestrator) - 通过 LI.FI 进行跨链桥接和兑换——支持 30+ 跨链桥和 DEX 的领先聚合器。
-- [linkfuse](https://clawhub.ai/skills/oliverw-linkfuse) - 从任意 URL 创建 Linkfuse 联盟短链接。
-- [listing-swarm](https://clawhub.ai/skills/listing-swarm) - 自动将 AI 产品提交到 70+ 目录网站。
-- [marketing-strategy-pmm](https://clawhub.ai/skills/alirezarezvani-marketing-strategy-pmm) - 产品营销技能，涵盖定位、GTM 策略、竞品情报和产品发布。
-- [meta-ads-report](https://clawhub.ai/skills/kein-s-meta-ads-report) - 强大的工具包，直接在对话中监控 Meta（Facebook/Instagram）广告效果。
-- [meta-tags-optimizer](https://clawhub.ai/skills/aaron-he-zhu-meta-tags-optimizer) - 用于"优化标题标签"、"撰写 meta 描述"、"提升点击率"、"Open Graph 标签"、"社交分享"等场景。
-- [mobula](https://clawhub.ai/skills/flotapponnier-mobula) - 跨 88+ 区块链的实时加密市场数据、钱包组合追踪和代币分析。
-- [near-agent-skills](https://clawhub.ai/skills/mastrophot-near-agent-skills) - NEAR Protocol 综合代理技能，包括 Gas 优化和链上分析。
-- [nicholasrae-review-reply](https://clawhub.ai/skills/nicholasrae-nicholasrae-review-reply) - 自动监控 App Store 评分并为 1-3 星评价起草温暖的品牌回复。
-- [odoo-reporting](https://clawhub.ai/skills/ashrf-in-odoo-reporting) - 查询 Odoo 数据，包括销售人员业绩、客户分析、订单、开票、CRM、会计和增值税。
-- [outlit-mcp](https://clawhub.ai/skills/leo-paz-outlit-mcp) - 通过 MCP 工具（outlit_*）查询 Outlit 客户数据。
-- [pancake-skills](https://clawhub.ai/skills/suminhthanh-pancake-skills) - 通过 Pancake Platform API 管理主页、对话、消息、客户、统计、标签和帖子。
-- [performance-reporter](https://clawhub.ai/skills/aaron-he-zhu-performance-reporter) - 用于"生成 SEO 报告"、"效果报告"、"流量报告"、"SEO 仪表盘"、"报告"等场景。
-- [phone-caller](https://clawhub.ai/skills/omerflo-phone-caller) - 使用 ElevenLabs 语音 + GPT 大脑 + Twilio 拨打 AI 外呼电话。
-- [pilt](https://clawhub.ai/skills/babpilt-pilt) - 访问 Pilt 筹款数据——投资人匹配、活动统计、外联活动和路演文档分析。
-- [posthog](https://clawhub.ai/skills/simonfunk-posthog) - 通过 REST API 与 PostHog 分析平台交互。
-- [posthog-query](https://clawhub.ai/skills/quinlanjager-posthog-query) - 使用 PostHog CLI 对 PostHog 产品分析数据运行 SQL 查询。
-- [reef-copywriting](https://clawhub.ai/skills/staybased-reef-copywriting) - 使用经过验证的直接响应框架撰写落地页、产品描述、广告和销售文案。
-- [ryot](https://clawhub.ai/skills/f-liva-ryot) - 完整的 Ryot 媒体追踪器，支持进度追踪、评分、收藏、分析、日历和自动化。
-- [sentiment-priority-scorer](https://clawhub.ai/skills/vishalgojha-sentiment-priority-scorer) - 通过情感、紧迫度、意图、时效性和记录类型对标准化房地产线索进行评分。
-- [signup-lead](https://clawhub.ai/skills/waqas-orcalo-signup-lead) - 通过公开 HTTP 端点在 AgenticCreed 系统中创建注册线索。
-- [simplified-social-media](https://clawhub.ai/skills/jacksimplified-simplified-social-media) - 直接在 AI 编程工具中管理整个社交媒体形象——发帖、定时和数据分析。
-- [social-media-lead-generation](https://clawhub.ai/skills/shahbaz02197ali-cmd-social-media-lead-generation) - 帮助企业、培训机构和在线教育者通过社交媒体获取线索和销售。
-- [solo-metrics-track](https://clawhub.ai/skills/fortunto2-solo-metrics-track) - 设置 PostHog 指标计划，包含事件漏斗、KPI 基准和 kill/迭代/扩展决策阈值。
-- [sovereign-brand-voice-writer](https://clawhub.ai/skills/ryudi84-sovereign-brand-voice-writer) - 一个已经完全内化用户品牌调性的内容写手。
-- [startuppan](https://clawhub.ai/skills/lifeissea-startuppan) - 与 StartupPan.com 互动——一个韩国创业辩论平台，AI Agent 和人类共同投票看多/看空。
-- [telnyx-10dlc](https://clawhub.ai/skills/teamtelnyx-telnyx-10dlc) - 以独资经营者身份注册 10DLC，在美国启用短信发送。
-- [tiktok-trend-challenger](https://clawhub.ai/skills/realroc-tiktok-trend-challenger) - 雇佣 TikTok 创作者参与热门话题标签、病毒挑战和文化热点，提升品牌曝光。
-- [tiktok-viral-marketing](https://clawhub.ai/skills/realroc-tiktok-viral-marketing) - 雇佣擅长病毒内容创作、热门挑战和爆炸性传播活动的 TikTok 创作者。
-- [transition-mcp](https://clawhub.ai/skills/nftechie-transition-mcp) - AI 驱动的多运动教练——获取个性化训练计划、运动处方和表现分析。
-- [ttrpg-gm](https://clawhub.ai/skills/rogerkink6-ttrpg-gm) - 黑暗主题 TTRPG 游戏主持人。
-- [water-coach](https://clawhub.ai/skills/oristides-water-coach) - 饮水追踪和健康饮水指导技能。
-- [windsor-ai](https://clawhub.ai/skills/carlosarturoleon-windsor-ai) - 连接 Windsor.ai MCP，通过自然语言访问 325+ 数据源，包括 Facebook Ads、GA4、HubSpot。
-- [workcrm](https://clawhub.ai/skills/extraterrest-workcrm) - 轻量级本地优先 CRM，带明确的确认步骤。
-- [writing-assistant](https://clawhub.ai/skills/urrrich-writing-assistant) - 一个写作团队负责人，通过 MCP 工具管理专业写手。
-- [writing-group-leader](https://clawhub.ai/skills/urrrich-writing-group-leader) - 一个写作团队负责人，通过 MCP 工具管理专业写手。
+- [4chan-reader](https://clawhub.ai/aiasisbot61/4chan-reader) - 浏览 4chan 板块并提取帖子讨论内容。
+- [ad-ready](https://clawhub.ai/pauldelavallaz/ad-ready) - 根据产品 URL 生成专业级广告图片。
+- [ad-ready-pro](https://clawhub.ai/pauldelavallaz/ad-ready-pro) - 根据产品 URL 生成专业级广告图片。
+- [affiliate-master](https://clawhub.ai/michael/laffin-affiliate-master) - 全栈联盟营销自动化工具。
+- [affiliatematic](https://clawhub.ai/dowands/affiliatematic) - 集成 AI 驱动的亚马逊联盟产品推荐。
+- [agenticcreed-signup-lead](https://clawhub.ai/waqas/orcalo-agenticcreed-signup-lead) - 通过公开 HTTP 端点在 AgenticCreed 系统中创建注册线索。
+- [alibaba-supplier-outreach](https://clawhub.ai/blockchainhb/alibaba-supplier-outreach) - 通过 LaunchFast 查找阿里巴巴供应商，发送优化后的联系信息并查看回复。
+- [analytics-and-advisory-intelligence](https://clawhub.ai/satoshistackalotto/analytics-and-advisory-intelligence) - 面向希腊会计师事务所的跨客户分析服务。
+- [apollo](https://clawhub.ai/jhumanj/apollo) - 与 Apollo.io REST API 交互（人物/公司信息丰富、搜索、列表管理）。
+- [ar-filter-generation](https://clawhub.ai/eftalyurtseven/ar-filter-generation) - 使用 each::sense AI 生成 AR 滤镜和面部特效。
+- [attio-enhanced](https://clawhub.ai/capt/marbles-attio-enhanced) - 增强版 Attio CRM API 技能，支持批量操作。
+- [attribution-engine](https://clawhub.ai/otherpowers/attribution-engine) - 帮助创作者清晰标注合作者、工具来源。
+- [auto-skill-hunter](https://clawhub.ai/wanng/ide-auto-skill-hunter) - 通过挖掘未解决的用户需求和 Agent 反馈，主动发现、排序并安装高价值 ClawHub 技能。
+- [b2c-marketing](https://clawhub.ai/jackfriks/b2c-marketing) - 带来 30 万+ App 下载量的自然增长 playbook。
+- [basecamp-cli](https://clawhub.ai/emredoganer/basecamp-cli) - 通过 bc3 API / 37signals Launchpad 管理 Basecamp 项目。
+- [beads](https://clawhub.ai/rnijhara/beads) - 面向 AI Agent 的 Git 后端问题追踪器。
+- [bearblog](https://clawhub.ai/azade/c-bearblog) - 在 Bear Blog（bearblog.dev）上创建和管理博客文章。
+- [bird](https://clawhub.ai/steipete/bird) - X/Twitter CLI，支持通过 Cookie 或 Sweetistics 读取、搜索和发帖。
+- [blog-to-kindle](https://clawhub.ai/ainekomacx/blog-to-kindle) - 抓取博客/文章网站并编译为 Kindle 友好格式。
+- [blog-writer](https://clawhub.ai/tomstools11/blog-writer) - 用于撰写博客文章和内容的技能。
+- [bluesky](https://clawhub.ai/jeffaf/bluesky) - 完整的 Bluesky CLI：发帖、回复、点赞、转推、关注、拉黑、静音、搜索。
+- [botsee](https://clawhub.ai/grahac/botsee) - 通过 BotSee API 监控品牌在 AI 环境中的可见度。
+- [brand-cog](https://clawhub.ai/nitishgargiitd/brand-cog) - 其他工具做 Logo，我们做品牌认知。
+- [brand-guidelines](https://clawhub.ai/seanphan/brand-guidelines) - 应用 Anthropic 官方品牌色彩和字体规范。
+- [brand-voice-profile](https://clawhub.ai/dimitripantzos/brand-voice-profile) - 定义并存储品牌调性档案，确保内容输出的一致性。
+- [brevo](https://clawhub.ai/yujesyoga/brevo) - Brevo（原 Sendinblue）电子邮件营销 API，用于管理联系人、列表和活动。
+- [britebooth-procurement](https://clawhub.ai/vismonkey19/britebooth-procurement) - BriteBooth.com 的只读采购助理。
+- [brw-marketing-principles](https://clawhub.ai/brianrwagner/brw-marketing-principles) - 将永恒的营销和商业原则应用于任何问题。
+- [brw-newsletter-creation-curration](https://clawhub.ai/brianrwagner/brw-newsletter-creation-curation) - 面向 B2B 的行业自适应新闻通讯创建工具，支持按阶段、角色和地区定制工作流。
+- [business-development](https://clawhub.ai/oyi77/business-development) - 合作伙伴拓展、市场调研、竞品分析。
+- [buzz-bd](https://clawhub.ai/buzzbysolcex/buzz-bd) - 自主加密代币发现、评分和业务开发情报。
+- [campaign-orchestrator](https://clawhub.ai/kesslerio/campaign-orchestrator) - 多渠道跟进活动编排器。
+- [catbox-upload](https://clawhub.ai/microck/catbox-upload) - 上传文件到 catbox.moe（永久存储）或 litterbox.catbox.moe（临时存储）。
+- [changenow](https://clawhub.ai/yakelb0815/changenow) - 通过 ChangeNOW 进行即时加密货币掉期并赚取联盟佣金。
+- [citedy-seo-agent](https://clawhub.ai/nttylock/citedy-seo-agent) - 将 AI Agent 接入 Citedy SEO 内容平台。
+- [clawdwork](https://clawhub.ai/felo/sparticle-clawdwork) - 找活、赚钱、与其它 AI Agent 协作。
+- [clovercli](https://clawhub.ai/g9pedro/clovercli) - Clover POS API CLI——库存、订单、支付、客户、员工、折扣和数据分析。
+- [cold-email](https://clawhub.ai/bluecraft/ai-cold-email) - 使用 AI 生成高度个性化的冷邮件序列。
+- [cold-outreach](https://clawhub.ai/staybased/cold-outreach) - 使用 Hormozi 实战框架生成高转化率的 cold outreach 内容（邮件、短信、LinkedIn DM）。
+- [comms-md-reader](https://clawhub.ai/stedmanhalliday/comms-md-reader) - 在联系某人之前先阅读并适应对方的 COMMS.md 沟通偏好。
+- [content-creator](https://clawhub.ai/alirezarezvani/content-creator) - 创建 SEO 优化的营销内容，保持风格一致性。
+- [content-generation](https://clawhub.ai/tobisamaa/content-generation) - 生成多种格式的高质量内容。
+- [crabernews](https://clawhub.ai/alvinunreal/crabernews) - 面向 AI Agent 的社交新闻网络。
+- [crypto-market-data](https://clawhub.ai/liam8/crypto-market-data) - 免费层无需 API 密钥。
+- [dellight-cmo-content-marketing](https://clawhub.ai/arthurelgindell/dellight-cmo-content-marketing) - CMO 向 CRO 汇报（Reign），虚线向 CEO 汇报（Arthur Dell）。
+- [dellight-content-marketing](https://clawhub.ai/arthurelgindell/dellight-content-marketing) - CMO 向 CRO 汇报（Reign），虚线向 CEO 汇报（Arthur Dell）。
+- [dungeons-and-lobsters](https://clawhub.ai/d/l-leapyear-dungeons-and-lobsters) - 仅限 Bot 参与的奇幻战役，由自主 Agent 实时演绎。
+- [email-marketing-2](https://clawhub.ai/jk/0001-email-marketing-2) - 为个体创业者构建和执行电子邮件营销活动。
+- [farmos-marketing](https://clawhub.ai/brianppetty/farmos-marketing) - 查询谷物营销持仓、合约、交割计划、库存和收入数据。
+- [flwr-branding-studio-kit](https://clawhub.ai/vansearch/flwr-branding-studio-kit) - 一个高级 AI Agent，扮演资深品牌策略师角色。
+- [foxreach](https://clawhub.ai/concaption/foxreach) - 管理 FoxReach 冷邮件外联——线索、活动、序列、模板、邮箱账号、收件箱和数据分析。
+- [foxreach-io](https://clawhub.ai/concaption/foxreach-io) - 管理 FoxReach 冷邮件外联——线索、活动、序列、模板、邮箱账号、收件箱和数据分析。
+- [ghost-cms](https://clawhub.ai/chrisagiddings/ghost-cms) - 全面的 Ghost CMS 集成，支持创建、发布、定时和 管理博客内容及新闻通讯。
+- [glowskin-promo](https://clawhub.ai/underbench2/gif-glowskin-promo) - 为护肤联盟产品生成病毒式营销内容。
+- [go-to-market](https://clawhub.ai/jk/0001-go-to-market) - 为产品发布或进入新市场制定上市策略（GTM）。
+- [invoice-template](https://clawhub.ai/kambrosgroup/invoice-template) - 免费简易发票生成器。
+- [kameleondb](https://clawhub.ai/marcosnataqs/kameleondb) - 无需预先规划schema即可存储和查询结构化数据。
+- [karma-book](https://clawhub.ai/xb1g/karma-book) - Agent 和人类共同行善的平台。
+- [kit-email-operator](https://clawhub.ai/kevjade/kit-email-operator) - **Kit（ConvertKit）的 AI 驱动电子邮件营销工具。**
+- [kvcore-mcp-cli](https://clawhub.ai/danielfoch/kvcore-mcp-cli) - 通过 MCP/CLI 执行 KVcore CRM 操作（联系人、标签、备注、电话、邮件、短信等）。
+- [lead-magnets](https://clawhub.ai/staybased/lead-magnets) - 设计能吸引合格潜在客户并将其转化为付费客户的线索 magnet。
+- [lifi-orchestrator](https://clawhub.ai/rhlsthrm/lifi-orchestrator) - 通过 LI.FI 进行跨链桥接和兑换——支持 30+ 跨链桥和 DEX 的领先聚合器。
+- [linkfuse](https://clawhub.ai/oliverw/linkfuse) - 从任意 URL 创建 Linkfuse 联盟短链接。
+- [listing-swarm](https://clawhub.ai/listing/swarm) - 自动将 AI 产品提交到 70+ 目录网站。
+- [marketing-strategy-pmm](https://clawhub.ai/alirezarezvani/marketing-strategy-pmm) - 产品营销技能，涵盖定位、GTM 策略、竞品情报和产品发布。
+- [meta-ads-report](https://clawhub.ai/kein/s-meta-ads-report) - 强大的工具包，直接在对话中监控 Meta（Facebook/Instagram）广告效果。
+- [meta-tags-optimizer](https://clawhub.ai/aaron/he-zhu-meta-tags-optimizer) - 用于"优化标题标签"、"撰写 meta 描述"、"提升点击率"、"Open Graph 标签"、"社交分享"等场景。
+- [mobula](https://clawhub.ai/flotapponnier/mobula) - 跨 88+ 区块链的实时加密市场数据、钱包组合追踪和代币分析。
+- [near-agent-skills](https://clawhub.ai/mastrophot/near-agent-skills) - NEAR Protocol 综合代理技能，包括 Gas 优化和链上分析。
+- [nicholasrae-review-reply](https://clawhub.ai/nicholasrae/nicholasrae-review-reply) - 自动监控 App Store 评分并为 1-3 星评价起草温暖的品牌回复。
+- [odoo-reporting](https://clawhub.ai/ashrf/in-odoo-reporting) - 查询 Odoo 数据，包括销售人员业绩、客户分析、订单、开票、CRM、会计和增值税。
+- [outlit-mcp](https://clawhub.ai/leo/paz-outlit-mcp) - 通过 MCP 工具（outlit_*）查询 Outlit 客户数据。
+- [pancake-skills](https://clawhub.ai/suminhthanh/pancake-skills) - 通过 Pancake Platform API 管理主页、对话、消息、客户、统计、标签和帖子。
+- [performance-reporter](https://clawhub.ai/aaron/he-zhu-performance-reporter) - 用于"生成 SEO 报告"、"效果报告"、"流量报告"、"SEO 仪表盘"、"报告"等场景。
+- [phone-caller](https://clawhub.ai/omerflo/phone-caller) - 使用 ElevenLabs 语音 + GPT 大脑 + Twilio 拨打 AI 外呼电话。
+- [pilt](https://clawhub.ai/babpilt/pilt) - 访问 Pilt 筹款数据——投资人匹配、活动统计、外联活动和路演文档分析。
+- [posthog](https://clawhub.ai/simonfunk/posthog) - 通过 REST API 与 PostHog 分析平台交互。
+- [posthog-query](https://clawhub.ai/quinlanjager/posthog-query) - 使用 PostHog CLI 对 PostHog 产品分析数据运行 SQL 查询。
+- [reef-copywriting](https://clawhub.ai/staybased/reef-copywriting) - 使用经过验证的直接响应框架撰写落地页、产品描述、广告和销售文案。
+- [ryot](https://clawhub.ai/f/liva-ryot) - 完整的 Ryot 媒体追踪器，支持进度追踪、评分、收藏、分析、日历和自动化。
+- [sentiment-priority-scorer](https://clawhub.ai/vishalgojha/sentiment-priority-scorer) - 通过情感、紧迫度、意图、时效性和记录类型对标准化房地产线索进行评分。
+- [signup-lead](https://clawhub.ai/waqas/orcalo-signup-lead) - 通过公开 HTTP 端点在 AgenticCreed 系统中创建注册线索。
+- [simplified-social-media](https://clawhub.ai/jacksimplified/simplified-social-media) - 直接在 AI 编程工具中管理整个社交媒体形象——发帖、定时和数据分析。
+- [social-media-lead-generation](https://clawhub.ai/shahbaz02197ali/cmd-social-media-lead-generation) - 帮助企业、培训机构和在线教育者通过社交媒体获取线索和销售。
+- [solo-metrics-track](https://clawhub.ai/fortunto2/solo-metrics-track) - 设置 PostHog 指标计划，包含事件漏斗、KPI 基准和 kill/迭代/扩展决策阈值。
+- [sovereign-brand-voice-writer](https://clawhub.ai/ryudi84/sovereign-brand-voice-writer) - 一个已经完全内化用户品牌调性的内容写手。
+- [startuppan](https://clawhub.ai/lifeissea/startuppan) - 与 StartupPan.com 互动——一个韩国创业辩论平台，AI Agent 和人类共同投票看多/看空。
+- [telnyx-10dlc](https://clawhub.ai/teamtelnyx/telnyx-10dlc) - 以独资经营者身份注册 10DLC，在美国启用短信发送。
+- [tiktok-trend-challenger](https://clawhub.ai/realroc/tiktok-trend-challenger) - 雇佣 TikTok 创作者参与热门话题标签、病毒挑战和文化热点，提升品牌曝光。
+- [tiktok-viral-marketing](https://clawhub.ai/realroc/tiktok-viral-marketing) - 雇佣擅长病毒内容创作、热门挑战和爆炸性传播活动的 TikTok 创作者。
+- [transition-mcp](https://clawhub.ai/nftechie/transition-mcp) - AI 驱动的多运动教练——获取个性化训练计划、运动处方和表现分析。
+- [ttrpg-gm](https://clawhub.ai/rogerkink6/ttrpg-gm) - 黑暗主题 TTRPG 游戏主持人。
+- [water-coach](https://clawhub.ai/oristides/water-coach) - 饮水追踪和健康饮水指导技能。
+- [windsor-ai](https://clawhub.ai/carlosarturoleon/windsor-ai) - 连接 Windsor.ai MCP，通过自然语言访问 325+ 数据源，包括 Facebook Ads、GA4、HubSpot。
+- [workcrm](https://clawhub.ai/extraterrest/workcrm) - 轻量级本地优先 CRM，带明确的确认步骤。
+- [writing-assistant](https://clawhub.ai/urrrich/writing-assistant) - 一个写作团队负责人，通过 MCP 工具管理专业写手。
+- [writing-group-leader](https://clawhub.ai/urrrich/writing-group-leader) - 一个写作团队负责人，通过 MCP 工具管理专业写手。

@@ -5,7 +5,7 @@
 将复杂任务自动分解为更小、可管理的子任务，并明确它们之间的依赖关系。
 
 **作者:** @openclaw  
-**仓库:** https://clawhub.ai/skills/task-decomposer
+**仓库:** https://clawhub.ai/task/decomposer
 
 ## 功能特点
 

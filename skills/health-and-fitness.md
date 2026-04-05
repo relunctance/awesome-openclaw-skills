@@ -6,84 +6,84 @@
 
 ## Skills
 
-- [31third-safe-rebalancer-simple](https://clawhub.ai/skills/phips0812-31third-safe-rebalancer-simple) - 使用链上 31Third 策略的一步式 Safe 重新平衡工具
-- [anthrovision-telegram-body-scan](https://clawhub.ai/skills/dr2101-anthrovision-telegram-body-scan) - 在 Telegram 中使用 AnthroVision 桥接工具运行端到端身体扫描测量流程
-- [aperture](https://clawhub.ai/skills/roasbeef-aperture) - 安装并运行 Aperture——Lightning Labs 出品的 L402 Lightning 反向代理
-- [arc-skill-sandbox](https://clawhub.ai/skills/trypto1019-arc-skill-sandbox) - 在安装前于隔离环境中测试不受信任的 Skill
-- [auto-improve](https://clawhub.ai/skills/mcben90-auto-improve) - 通过错误学习和模式识别实现自动化自我改进
-- [autonomous-agent](https://clawhub.ai/skills/josephrp-autonomous-agent) - 面向 AI 代理的 CornerStone MCP x402 技能
-- [bountyhub-agent](https://clawhub.ai/skills/nativ3ai-bountyhub-agent) - 将 H1DR4 BountyHub 用作代理：创建任务、提交成果、发起争议、投票并领取托管支付
-- [bring-recipes](https://clawhub.ai/skills/darkdevelopers-bring-recipes) - 当用户想浏览食谱灵感时使用
-- [calorie-counter](https://clawhub.ai/skills/cnqso-calorie-counter) - 追踪每日卡路里和蛋白质摄入量，支持设定目标并记录日志
-- [capa-officer](https://clawhub.ai/skills/alirezarezvani-capa-officer) - 医疗器械 QMS 系统中的 CAPA（纠正与预防措施）管理
-- [clawdhub-contributor](https://clawhub.ai/skills/starbuck100-clawdhub-contributor) - 为 ClawdHub 生态系统做贡献
-- [cookidoo](https://clawhub.ai/skills/thekie-cookidoo) - 访问 Cookidoo（Thermomix）食谱、购物清单和膳食规划
-- [critpt-solver](https://clawhub.ai/skills/wanng-ide-critpt-solver) - 验证并执行 CritPt 基准测试问题的 Python 解决方案
-- [crunch-coordinate](https://clawhub.ai/skills/philippwassibauer-crunch-coordinate) - 管理 Crunch 协调者、竞赛、奖励、检查点、质押或 Cruncher 账户
-- [crypto-hackathon](https://clawhub.ai/skills/swairshah-crypto-hackathon) - 参与 USDC 黑客松，提交项目或投票（三个赛道：智能合约、Skill 等）
-- [ct-health-guardian](https://clawhub.ai/skills/ctsolutionsdev-ct-health-guardian) - AI 代理的主动健康监控
-- [curriculum-generator](https://clawhub.ai/skills/tarasinghrajput-curriculum-generator) - 智能教育课程生成系统，带严格步骤执行和人工升级策略
-- [customer-onboarding-2](https://clawhub.ai/skills/jk-0001-customer-onboarding-2) - 设计并执行促进用户激活与留存的用户入职流程
-- [detox-counter](https://clawhub.ai/skills/jhillin8-detox-counter) - 使用可自定义计数器追踪排毒计划，并记录症状
-- [diet-tracker](https://clawhub.ai/skills/yonghaozhao722-diet-tracker) - 追踪每日饮食并计算营养信息
-- [efka-api-integration](https://clawhub.ai/skills/satoshistackalotto-efka-api-integration) - 希腊社会保障（EFKA）集成——员工记录、缴款计算、APD 申报
-- [egvert-health-guardian](https://clawhub.ai/skills/ctsolutionsdev-egvert-health-guardian) - AI 的主动健康监控
-- [endurance-coach](https://clawhub.ai/skills/shiv19-endurance-coach) - 为用户创建个性化铁人三项、马拉松和超耐力训练计划
-- [eth24](https://clawhub.ai/skills/patmilkgallon-eth24) - ETH24 每日摘要工具，为配置主题筛选热门推文
-- [fasting-tracker](https://clawhub.ai/skills/jhillin8-fasting-tracker) - 追踪间歇性禁食窗口期和长期断食
-- [feast](https://clawhub.ai/skills/smadgerano-feast) - 带文化主题和地道食谱的综合膳食计划系统
-- [feed-diet](https://clawhub.ai/skills/tkuehnl-feed-diet) - 审核 HN 和 RSS 订阅的信息摄入——提供分类明细和 ASCII 图表的精美报告
-- [fitbit](https://clawhub.ai/skills/mjrussell-fitbit) - 查询 Fitbit 健康数据，包括睡眠、心率、活动和血氧
-- [fitbit-analytics](https://clawhub.ai/skills/kesslerio-fitbit-analytics) - Fitbit 健康和 fitness 数据集成与分析。
-- [free-jobboard-api](https://clawhub.ai/skills/yuqi-or-yuki-free-jobboard-api) - 面向智能体的求职板。
-- [garmer](https://clawhub.ai/skills/garrza-garmer) - 从 Garmin Connect 提取健康和 fitness 数据，包括活动、锻炼等。
-- [garmin-cli](https://clawhub.ai/skills/voydz-garmin-cli) - 通过非交互式 CLI 访问 Garmin Connect 健康、健身和活动数据。
-- [garmin-health](https://clawhub.ai/skills/eversonl-garmin-health-analysis) - 自然语言查询 Garmin 数据——"我上周跑了多少？"
-- [gdpr-cookie-consent](https://clawhub.ai/skills/metehan777-gdpr-cookie-consent) - 帮助 AI 智能体遵守 GDPR Cookie consent 的完整参考指南。
-- [gevety](https://clawhub.ai/skills/moclippa-gevety) - 访问你的 Gevety 健康数据——生物标志物、健康寿命评分、生物学年龄等。
-- [hackathon](https://clawhub.ai/skills/swairshah-hackathon) - 参与 USDC Hackathon，提交项目或投票。三个赛道：智能合约、技能开发、应用。
-- [hackathon-manager](https://clawhub.ai/skills/tonbistudio-hackathon-manager) - 追踪黑客松截止日期、管理提交清单并监控进度。
-- [hacker-news-poster](https://clawhub.ai/skills/saikatkumardey-hacker-news-poster) - 在 Hacker News 上发帖、评论和互动。
-- [health-guardian](https://clawhub.ai/skills/cgtreadw-health-guardian) - AI 智能体的主动健康监控。
-- [health-summary](https://clawhub.ai/skills/yusaku-0426-health-summary) - 生成日/周/月健康摘要，包含营养总计、目标对比和趋势分析。
-- [health-sync](https://clawhub.ai/skills/filipe-m-almeida-health-sync) - 跨平台同步分析健康数据（Oura、Withings、Hevy、Strava、WHOOP、Eight Sleep）。
-- [heartbeat-checklist](https://clawhub.ai/skills/felipetruman-heartbeat-checklist) - 定期执行这些检查（每天 2-4 次）。
-- [hevy](https://clawhub.ai/skills/mjrussell-hevy) - 查询 Hevy 的锻炼数据，包括锻炼计划、训练方案、练习动作等。
-- [hle-reasoning-wrapper](https://clawhub.ai/skills/wanng-ide-hle-reasoning-wrapper) - 将 HLE 基准测试问题封装为结构化思维链（Chain-of-Thought）推理过程。
-- [huckleberry](https://clawhub.ai/skills/jayhickey-huckleberry) - 通过 Huckleberry 追踪婴儿睡眠、喂养、尿布和成长情况。
-- [humaboam-final](https://clawhub.ai/skills/yuqi-or-yuki-humaboam-final) - 面向智能体的求职板。
-- [intervals-icu](https://clawhub.ai/skills/pseuss-intervals-icu-api) - 访问和管理训练数据的完整指南。
-- [jasper-configguard](https://clawhub.ai/skills/emberdesire-jasper-configguard) - 为 OpenClaw 提供安全的配置变更，支持自动回滚。
-- [maccabi-pharm-search](https://clawhub.ai/skills/alexpolonsky-maccabi-pharm-search) - 查询以色列 Maccabi 药房的药品库存。
-- [mealie-api](https://clawhub.ai/skills/angusthefuzz-mealie-api) - 与 Mealie 食谱管理器交互（食谱、购物清单、膳食计划）。
-- [mh-1password](https://clawhub.ai/skills/mohdalhashemi98-hue-mh-1password) - 设置和使用 1Password CLI（op）。
-- [muscle-gain](https://clawhub.ai/skills/jhillin8-muscle-gain) - 追踪肌肉增长，包括体重进展和蛋白质摄入追踪。
-- [nicholasrae-expense-tracker](https://clawhub.ai/skills/nicholasrae-nicholasrae-expense-tracker) - 只需说出你的支出——AI 记录、消费分类并对照预算追踪。
-- [norman-overdue-reminders](https://clawhub.ai/skills/stanlee000-norman-overdue-reminders) - 查找逾期发票并向客户发送付款提醒（德语区 Zahlungserinnerungen/Mahnungen）。
-- [norman-tax-report](https://clawhub.ai/skills/stanlee000-norman-tax-report) - 审查和管理德国税务报告，包括增值税（Umsatzsteuer）、所得税预缴和 Finanzamt 申报。
-- [openalexandria](https://clawhub.ai/skills/havneco-openalexandria) - 查询和向 OpenAlexandria 联合知识协议提交内容。
-- [opencal](https://clawhub.ai/skills/neikfu-opencal) - 在 OpenCal 应用中记录膳食、检查营养进度并管理卡路里目标——通过 AI 智能体免手动操作。
-- [openfunderse-participant](https://clawhub.ai/skills/wiimdy-openfunderse-participant) - MoltBot 用于分配提案、验证和提交。
-- [openfunderse-strategy](https://clawhub.ai/skills/wiimdy-openfunderse-strategy) - MoltBot 用于分配提案、验证和提交。
-- [oura-analytics](https://clawhub.ai/skills/kesslerio-oura-analytics) - Oura Ring 数据集成和分析。
-- [paramus-chemistry](https://clawhub.ai/skills/gressling-paramus-chemistry) - 数百种化学和科学计算工具。
-- [ramalama-cli](https://clawhub.ai/skills/ieaves-ramalama-cli) - 运行和与 AI 智能体交互。
-- [recipe-finder](https://clawhub.ai/skills/harshasic-recipe-finder) - 使用 TheMealDB 免费 API 按食材、菜系或饮食偏好查找食谱。
-- [redshift](https://clawhub.ai/skills/accolver-redshift) - 使用 Redshift CLI 管理应用密钥——去中心化、加密的密钥管理。
-- [revenue-tracker](https://clawhub.ai/skills/gpunter-revenue-tracker) - 追踪自主 AI 智能体的收入、支出和资金跑道。
-- [sample-skill](https://clawhub.ai/skills/swairshah-sample-skill) - 参与 USDC Hackathon，提交项目或投票。三个赛道：智能合约、技能开发、应用。
-- [sauna-calm](https://clawhub.ai/skills/grx21-sauna-calm) - 用呼吸练习和 Sauna.ai 提醒来平复沮丧的用户。
-- [security-checker](https://clawhub.ai/skills/johstracke-security-checker) - 发布到 ClawHub 前对 Python 技能进行安全扫描。
-- [soft-pillow](https://clawhub.ai/skills/kivs-soft-pillow) - 当用户询问睡眠数据、梦境历史或想查询 Soft Pillow 应用的睡眠记录时使用。
-- [suisec](https://clawhub.ai/skills/k66inthesky-suisec) - Sui 安全——通过 sui client call --dry-run 预执行交易并比较结果。
-- [system-health-check](https://clawhub.ai/skills/satoshistackalotto-system-health-check) - 系统健康验证器——检查技能文件、路径、权限、二进制文件、备份新鲜度和加密状态。
-- [tribe-protocol](https://clawhub.ai/skills/cheenu1092-oss-tribe-protocol) - 每次非所有者交互的强制信任查询。
-- [triggercmd](https://clawhub.ai/skills/rvmey-triggercmd) - 通过 TRIGGERcmd REST API 列出和执行命令，远程控制 TRIGGERcmd 计算机。
-- [twitter-post](https://clawhub.ai/skills/sit-in-twitter-post) - 通过官方 API v2（OAuth 1.0a）在 Twitter/X 发推文。
-- [ub2-api-health-checker](https://clawhub.ai/skills/underbench2-gif-ub2-api-health-checker) - 让 Claw 测试 API 端点、验证响应、测量性能并生成健康报告。
-- [usdc](https://clawhub.ai/skills/swairshah-usdc) - 参与 USDC Hackathon，提交项目或投票。三个赛道：智能合约、技能开发、应用。
-- [usdc-hackathon](https://clawhub.ai/skills/swairshah-usdc-hackathon) - 参与 USDC Hackathon，提交项目或投票。
-- [uv-priority](https://clawhub.ai/skills/marcoracer-uv-priority) - 在所有 Python 包管理和执行中将 uv 优先于 pip。
-- [vynn-backtester](https://clawhub.ai/skills/beee003-vynn-backtester) - 用自然语言运行交易策略回测——由 Vynn 驱动。
-- [xrpl-tx-builder](https://clawhub.ai/skills/harleyscodes-xrpl-tx-builder) - 构建和签名 XRP Ledger 交易。
-- [yumstock](https://clawhub.ai/skills/yumyumtum-yumstock) - 结合技术指标、基本面和宏观环境的加权分析，进行宏观驱动的美国股票分析。
+- [31third-safe-rebalancer-simple](https://clawhub.ai/phips0812/31third-safe-rebalancer-simple) - 使用链上 31Third 策略的一步式 Safe 重新平衡工具
+- [anthrovision-telegram-body-scan](https://clawhub.ai/dr2101/anthrovision-telegram-body-scan) - 在 Telegram 中使用 AnthroVision 桥接工具运行端到端身体扫描测量流程
+- [aperture](https://clawhub.ai/roasbeef/aperture) - 安装并运行 Aperture——Lightning Labs 出品的 L402 Lightning 反向代理
+- [arc-skill-sandbox](https://clawhub.ai/trypto1019/arc-skill-sandbox) - 在安装前于隔离环境中测试不受信任的 Skill
+- [auto-improve](https://clawhub.ai/mcben90/auto-improve) - 通过错误学习和模式识别实现自动化自我改进
+- [autonomous-agent](https://clawhub.ai/josephrp/autonomous-agent) - 面向 AI 代理的 CornerStone MCP x402 技能
+- [bountyhub-agent](https://clawhub.ai/nativ3ai/bountyhub-agent) - 将 H1DR4 BountyHub 用作代理：创建任务、提交成果、发起争议、投票并领取托管支付
+- [bring-recipes](https://clawhub.ai/darkdevelopers/bring-recipes) - 当用户想浏览食谱灵感时使用
+- [calorie-counter](https://clawhub.ai/cnqso/calorie-counter) - 追踪每日卡路里和蛋白质摄入量，支持设定目标并记录日志
+- [capa-officer](https://clawhub.ai/alirezarezvani/capa-officer) - 医疗器械 QMS 系统中的 CAPA（纠正与预防措施）管理
+- [clawdhub-contributor](https://clawhub.ai/starbuck100/clawdhub-contributor) - 为 ClawdHub 生态系统做贡献
+- [cookidoo](https://clawhub.ai/thekie/cookidoo) - 访问 Cookidoo（Thermomix）食谱、购物清单和膳食规划
+- [critpt-solver](https://clawhub.ai/wanng/ide-critpt-solver) - 验证并执行 CritPt 基准测试问题的 Python 解决方案
+- [crunch-coordinate](https://clawhub.ai/philippwassibauer/crunch-coordinate) - 管理 Crunch 协调者、竞赛、奖励、检查点、质押或 Cruncher 账户
+- [crypto-hackathon](https://clawhub.ai/swairshah/crypto-hackathon) - 参与 USDC 黑客松，提交项目或投票（三个赛道：智能合约、Skill 等）
+- [ct-health-guardian](https://clawhub.ai/ctsolutionsdev/ct-health-guardian) - AI 代理的主动健康监控
+- [curriculum-generator](https://clawhub.ai/tarasinghrajput/curriculum-generator) - 智能教育课程生成系统，带严格步骤执行和人工升级策略
+- [customer-onboarding-2](https://clawhub.ai/jk/0001-customer-onboarding-2) - 设计并执行促进用户激活与留存的用户入职流程
+- [detox-counter](https://clawhub.ai/jhillin8/detox-counter) - 使用可自定义计数器追踪排毒计划，并记录症状
+- [diet-tracker](https://clawhub.ai/yonghaozhao722/diet-tracker) - 追踪每日饮食并计算营养信息
+- [efka-api-integration](https://clawhub.ai/satoshistackalotto/efka-api-integration) - 希腊社会保障（EFKA）集成——员工记录、缴款计算、APD 申报
+- [egvert-health-guardian](https://clawhub.ai/ctsolutionsdev/egvert-health-guardian) - AI 的主动健康监控
+- [endurance-coach](https://clawhub.ai/shiv19/endurance-coach) - 为用户创建个性化铁人三项、马拉松和超耐力训练计划
+- [eth24](https://clawhub.ai/patmilkgallon/eth24) - ETH24 每日摘要工具，为配置主题筛选热门推文
+- [fasting-tracker](https://clawhub.ai/jhillin8/fasting-tracker) - 追踪间歇性禁食窗口期和长期断食
+- [feast](https://clawhub.ai/smadgerano/feast) - 带文化主题和地道食谱的综合膳食计划系统
+- [feed-diet](https://clawhub.ai/tkuehnl/feed-diet) - 审核 HN 和 RSS 订阅的信息摄入——提供分类明细和 ASCII 图表的精美报告
+- [fitbit](https://clawhub.ai/mjrussell/fitbit) - 查询 Fitbit 健康数据，包括睡眠、心率、活动和血氧
+- [fitbit-analytics](https://clawhub.ai/kesslerio/fitbit-analytics) - Fitbit 健康和 fitness 数据集成与分析。
+- [free-jobboard-api](https://clawhub.ai/yuqi/or-yuki-free-jobboard-api) - 面向智能体的求职板。
+- [garmer](https://clawhub.ai/garrza/garmer) - 从 Garmin Connect 提取健康和 fitness 数据，包括活动、锻炼等。
+- [garmin-cli](https://clawhub.ai/voydz/garmin-cli) - 通过非交互式 CLI 访问 Garmin Connect 健康、健身和活动数据。
+- [garmin-health](https://clawhub.ai/eversonl/garmin-health-analysis) - 自然语言查询 Garmin 数据——"我上周跑了多少？"
+- [gdpr-cookie-consent](https://clawhub.ai/metehan777/gdpr-cookie-consent) - 帮助 AI 智能体遵守 GDPR Cookie consent 的完整参考指南。
+- [gevety](https://clawhub.ai/moclippa/gevety) - 访问你的 Gevety 健康数据——生物标志物、健康寿命评分、生物学年龄等。
+- [hackathon](https://clawhub.ai/swairshah/hackathon) - 参与 USDC Hackathon，提交项目或投票。三个赛道：智能合约、技能开发、应用。
+- [hackathon-manager](https://clawhub.ai/tonbistudio/hackathon-manager) - 追踪黑客松截止日期、管理提交清单并监控进度。
+- [hacker-news-poster](https://clawhub.ai/saikatkumardey/hacker-news-poster) - 在 Hacker News 上发帖、评论和互动。
+- [health-guardian](https://clawhub.ai/cgtreadw/health-guardian) - AI 智能体的主动健康监控。
+- [health-summary](https://clawhub.ai/yusaku/0426-health-summary) - 生成日/周/月健康摘要，包含营养总计、目标对比和趋势分析。
+- [health-sync](https://clawhub.ai/filipe/m-almeida-health-sync) - 跨平台同步分析健康数据（Oura、Withings、Hevy、Strava、WHOOP、Eight Sleep）。
+- [heartbeat-checklist](https://clawhub.ai/felipetruman/heartbeat-checklist) - 定期执行这些检查（每天 2-4 次）。
+- [hevy](https://clawhub.ai/mjrussell/hevy) - 查询 Hevy 的锻炼数据，包括锻炼计划、训练方案、练习动作等。
+- [hle-reasoning-wrapper](https://clawhub.ai/wanng/ide-hle-reasoning-wrapper) - 将 HLE 基准测试问题封装为结构化思维链（Chain-of-Thought）推理过程。
+- [huckleberry](https://clawhub.ai/jayhickey/huckleberry) - 通过 Huckleberry 追踪婴儿睡眠、喂养、尿布和成长情况。
+- [humaboam-final](https://clawhub.ai/yuqi/or-yuki-humaboam-final) - 面向智能体的求职板。
+- [intervals-icu](https://clawhub.ai/pseuss/intervals-icu-api) - 访问和管理训练数据的完整指南。
+- [jasper-configguard](https://clawhub.ai/emberdesire/jasper-configguard) - 为 OpenClaw 提供安全的配置变更，支持自动回滚。
+- [maccabi-pharm-search](https://clawhub.ai/alexpolonsky/maccabi-pharm-search) - 查询以色列 Maccabi 药房的药品库存。
+- [mealie-api](https://clawhub.ai/angusthefuzz/mealie-api) - 与 Mealie 食谱管理器交互（食谱、购物清单、膳食计划）。
+- [mh-1password](https://clawhub.ai/mohdalhashemi98/hue-mh-1password) - 设置和使用 1Password CLI（op）。
+- [muscle-gain](https://clawhub.ai/jhillin8/muscle-gain) - 追踪肌肉增长，包括体重进展和蛋白质摄入追踪。
+- [nicholasrae-expense-tracker](https://clawhub.ai/nicholasrae/nicholasrae-expense-tracker) - 只需说出你的支出——AI 记录、消费分类并对照预算追踪。
+- [norman-overdue-reminders](https://clawhub.ai/stanlee000/norman-overdue-reminders) - 查找逾期发票并向客户发送付款提醒（德语区 Zahlungserinnerungen/Mahnungen）。
+- [norman-tax-report](https://clawhub.ai/stanlee000/norman-tax-report) - 审查和管理德国税务报告，包括增值税（Umsatzsteuer）、所得税预缴和 Finanzamt 申报。
+- [openalexandria](https://clawhub.ai/havneco/openalexandria) - 查询和向 OpenAlexandria 联合知识协议提交内容。
+- [opencal](https://clawhub.ai/neikfu/opencal) - 在 OpenCal 应用中记录膳食、检查营养进度并管理卡路里目标——通过 AI 智能体免手动操作。
+- [openfunderse-participant](https://clawhub.ai/wiimdy/openfunderse-participant) - MoltBot 用于分配提案、验证和提交。
+- [openfunderse-strategy](https://clawhub.ai/wiimdy/openfunderse-strategy) - MoltBot 用于分配提案、验证和提交。
+- [oura-analytics](https://clawhub.ai/kesslerio/oura-analytics) - Oura Ring 数据集成和分析。
+- [paramus-chemistry](https://clawhub.ai/gressling/paramus-chemistry) - 数百种化学和科学计算工具。
+- [ramalama-cli](https://clawhub.ai/ieaves/ramalama-cli) - 运行和与 AI 智能体交互。
+- [recipe-finder](https://clawhub.ai/harshasic/recipe-finder) - 使用 TheMealDB 免费 API 按食材、菜系或饮食偏好查找食谱。
+- [redshift](https://clawhub.ai/accolver/redshift) - 使用 Redshift CLI 管理应用密钥——去中心化、加密的密钥管理。
+- [revenue-tracker](https://clawhub.ai/gpunter/revenue-tracker) - 追踪自主 AI 智能体的收入、支出和资金跑道。
+- [sample-skill](https://clawhub.ai/swairshah/sample-skill) - 参与 USDC Hackathon，提交项目或投票。三个赛道：智能合约、技能开发、应用。
+- [sauna-calm](https://clawhub.ai/grx21/sauna-calm) - 用呼吸练习和 Sauna.ai 提醒来平复沮丧的用户。
+- [security-checker](https://clawhub.ai/johstracke/security-checker) - 发布到 ClawHub 前对 Python 技能进行安全扫描。
+- [soft-pillow](https://clawhub.ai/kivs/soft-pillow) - 当用户询问睡眠数据、梦境历史或想查询 Soft Pillow 应用的睡眠记录时使用。
+- [suisec](https://clawhub.ai/k66inthesky/suisec) - Sui 安全——通过 sui client call --dry-run 预执行交易并比较结果。
+- [system-health-check](https://clawhub.ai/satoshistackalotto/system-health-check) - 系统健康验证器——检查技能文件、路径、权限、二进制文件、备份新鲜度和加密状态。
+- [tribe-protocol](https://clawhub.ai/cheenu1092/oss-tribe-protocol) - 每次非所有者交互的强制信任查询。
+- [triggercmd](https://clawhub.ai/rvmey/triggercmd) - 通过 TRIGGERcmd REST API 列出和执行命令，远程控制 TRIGGERcmd 计算机。
+- [twitter-post](https://clawhub.ai/sit/in-twitter-post) - 通过官方 API v2（OAuth 1.0a）在 Twitter/X 发推文。
+- [ub2-api-health-checker](https://clawhub.ai/underbench2/gif-ub2-api-health-checker) - 让 Claw 测试 API 端点、验证响应、测量性能并生成健康报告。
+- [usdc](https://clawhub.ai/swairshah/usdc) - 参与 USDC Hackathon，提交项目或投票。三个赛道：智能合约、技能开发、应用。
+- [usdc-hackathon](https://clawhub.ai/swairshah/usdc-hackathon) - 参与 USDC Hackathon，提交项目或投票。
+- [uv-priority](https://clawhub.ai/marcoracer/uv-priority) - 在所有 Python 包管理和执行中将 uv 优先于 pip。
+- [vynn-backtester](https://clawhub.ai/beee003/vynn-backtester) - 用自然语言运行交易策略回测——由 Vynn 驱动。
+- [xrpl-tx-builder](https://clawhub.ai/harleyscodes/xrpl-tx-builder) - 构建和签名 XRP Ledger 交易。
+- [yumstock](https://clawhub.ai/yumyumtum/yumstock) - 结合技术指标、基本面和宏观环境的加权分析，进行宏观驱动的美国股票分析。
